@@ -70,26 +70,26 @@ yet, but it will be a great way to get your feet wet with traditional
 programming. After that we go back to the basics of how a computer uses
 data. We begin with variables, expressions, and operators.
 
-1.  **Syllabus**
+1.  <b>Syllabus</b>
 
-2.  **[Introduction](https://www.coursera.org/lecture/javascript/introduction-EYX66)&ast;
-    (1)**
+2.  <b>[Introduction](https://www.coursera.org/lecture/javascript/introduction-EYX66)&ast;
+    (1)</b>
 
-3.  **Link to All of the Code for Week One**
+3.  <b>Link to All of the Code for Week One</b>
 
-4.  **The Document Object Model (DOM)**
+4.  <b>The Document Object Model (DOM)</b>
 
-5.  **DOM Review with Object Oriented Programming&ast; (2)**
+5.  <b>DOM Review with Object Oriented Programming&ast; (2)</b>
 
-6.  **Output&ast; (3)**
+6.  <b>Output&ast; (3)</b>
 
-7.  **Trying to Create and Debug Your Own Output**
+7.  <b>Trying to Create and Debug Your Own Output</b>
 
-8.  **Variables&ast; (4)**
+8.  <b>Variables&ast; (4)</b>
 
-9.  **Data Types&ast; (5)**
+9.  <b>Data Types&ast; (5)</b>
 
-10. **Operators and Expressions&ast; (6)**
+10. <b>Operators and Expressions&ast; (6)</b>
 
 11. <b>Discussion - CodePen</b>
 
@@ -117,7 +117,7 @@ that you can create along with me.
 
 2.  <b>Reading: </b>Functions
 
-3.  [<b>Video:</b> Functions](https://www.coursera.org/lecture/javascript/functions-Ltkbl)&ast;
+3.  [<b>Functions</b>](https://www.coursera.org/lecture/javascript/functions-Ltkbl)&ast;
     (1)
 
 4.  <b>Video: </b>Code Placement&ast; (2)
@@ -183,21 +183,20 @@ data to via a webpage. We will look at how you can use JavaScript to add
 options to your forms, to pre-fill data based on previous input, and
 even to check that passwords match.
 
-1.  **Reading: **Link to All of the Code for Week Four
+1.  **Reading: </b>Link to All of the Code for Week Four
 
-2.  **Reading: **Introduction to Forms
+2.  **Reading: </b>Introduction to Forms
 
-3.  [**Video: **Simple
-    Forms](https://www.coursera.org/lecture/javascript/simple-forms-2VjBX)&ast;
+3.  [**Video: </b>Simple Forms](https://www.coursera.org/lecture/javascript/simple-forms-2VjBX)&ast;
     (1)
 
-4.  **Video: **Simple Validation&ast; (2)
+4.  **Video: </b>Simple Validation&ast; (2)
 
-5.  **Reading: **&#34;"Cool Stuff&#34;" - Friend or Foe?
+5.  **Reading: </b>&#34;"Cool Stuff&#34;" - Friend or Foe?
 
-6.  **Video: **Comparing Two Inputs&ast; (3)
+6.  **Video: </b>Comparing Two Inputs&ast; (3)
 
-7.  **Video: **Checkboxes and Radio Buttons&ast; (4)
+7.  **Video: </b>Checkboxes and Radio Buttons&ast; (4)
 
 8.  **Reading: **Using Forms on Your Site
 
