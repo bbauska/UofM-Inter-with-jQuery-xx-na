@@ -140,7 +140,7 @@ that you can create along with me.
 
 13. <b>Video: </b>Photo Gallery&ast; (7)
 
-<b>Summary:</b> JavaScript Interactive Photo Gallery
+<b>Summary: </b>JavaScript Interactive Photo Gallery
 
 <h3>Week Three: Arrays and Looping</h3>
 
@@ -149,29 +149,28 @@ and looping. Arrays allow you to represent groups of related
 information. Looping provides efficiency and flexibility to your
 programs. Using both we will expand upon the photo gallery example.
 
-1.  **Reading: **Link to All of the Code for Week Three
+1.  <b>Reading: </b>Link to All of the Code for Week Three
 
-2.  **Reading: **A JavaScript Cheat Sheet
+2.  <b>Reading: </b>A JavaScript Cheat Sheet
 
-3.  **Reading: **Arrays
+3.  <b>Reading: </b>Arrays
 
-4.  [**Video: **JavaScript
-    Arrays](https://www.coursera.org/lecture/javascript/javascript-arrays-g8N8v)&ast;
+4.  [<b>Video: </b>JavaScript Arrays](https://www.coursera.org/lecture/javascript/javascript-arrays-g8N8v)&ast;
     (1)
 
-5.  **Video: **Code With Me -- Arrays&ast; (2)
+5.  <b>Video: </b>Code With Me -- Arrays&ast; (2)
 
-6.  **Reading: **Advanced Coding Techniques
+6.  <b>Reading: </b>Advanced Coding Techniques
 
-7.  **Video: **JavaScript Iteration&ast; (3)
+7.  <b>Video: </b>JavaScript Iteration&ast; (3)
 
-8.  **Video: **Flow Of Control&ast; (4)
+8.  <b>Video: </b>Flow Of Control&ast; (4)
 
-9.  **Video: **Code With Me - Combining Loops and Conditionals&ast; (5)
+9.  <b>Video: </b>Code With Me - Combining Loops and Conditionals&ast; (5)
 
-10. **Video: **Advanced Conditionals&ast; (6)
+10. <b>Video: </b>Advanced Conditionals&ast; (6)
 
-11. **Video: **Common Errors&ast; (7)
+11. <b>Video: </b>Common Errors&ast; (7)
 
 <b>Summary:</b> JavaScript Review
 
