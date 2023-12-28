@@ -1,6 +1,6 @@
 ---
 title:  |
-  Interactivity with JavaScript
+  Interactivity with JavaScript &amp; jQuery
 author: "bbauska"
 date last editted: "11/21/2023 11+am"
 output: 
