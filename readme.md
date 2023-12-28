@@ -1,11 +1,11 @@
 ---
 title:  |
-  Interactivity with JavaScript &amp; jQuery
+  Interactivity with jQuery & JavaScript
 author: "bbauska"
 date last editted: "11/21/2023 11+am"
 output: 
   markdown:
-    with_style
+    with some style
 ---
 
 <h1 align="center">Interactivity with JavaScript</h1>
