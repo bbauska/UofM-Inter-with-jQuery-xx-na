@@ -2,13 +2,13 @@
 title:  |
   Interactivity with jQuery & JavaScript
 author: "bbauska"
-date last editted: "11/21/2023 11+am"
+date last editted: "12/28/2023 3+pm"
 output: 
   markdown:
     with some style
 ---
 
-<h1 align="center">Interactivity with JavaScript</h1>
+<h1 align="center">Interactivity with jQuery &amp; JavaScript</h1>
 <h6 align="center">(by Colleen van Lent, Ph.D. University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-inter-with-js.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -422,7 +422,7 @@ some interactivity to your pages with JavaScript.
 
 <h3>Link to All of the Code for Week One</h3>
 
-<http://codepen.io/collection/nLPkgP/>
+<a href="http://codepen.io/collection/nLPkgP/">Code: Week One</a>
 
 Here is a link to a collection of all of the Code for Week One. (There
 may be a few extra files in there as I play with new examples.) Each
@@ -439,7 +439,7 @@ will need to work on that part on your own..
 
 <h3>Examples:</h3>
 
-<https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples">The DOM Example</a>
 
 One of the reasons you want to learn about JavaScript is that it works
 so well with the structure used to create HTML documents. Every webpage
@@ -675,7 +675,6 @@ added what we call a little bit of interactivity to your page. There&#39;s
 the details tag if you&#39;re using HTML. There&#39;s the hover property or
 pseudo class if you&#39;re using CSS 3 and you were able to make little
 things change in your page by reacting to what the user was doing.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. interactivity (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -688,7 +687,6 @@ things change in your page by reacting to what the user was doing.
 But typically, that&#39;s not really what we call interactivity when we&#39;re
 talking about true web design because these new elements and the pseudo
 classes can only go so far. They tend to be temporary changes.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. what can javascript do? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -804,7 +802,6 @@ do more than just click OK or Cancel. It wants you to generate some sort
 of input to put in there. As you can see, the alert and the prompt look
 very similar. They&#39;ve both got the key word, the parentheses, the
 semicolon and the string, but the way they act is very different.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 32/33. example prompt, side-by-side (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -935,7 +932,7 @@ I&#39;ve given it the id of test. I also have a paragraph element a little
 bit further down that just says, hey what happens if I&#39;d messed with
 this code?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. h1 id = 'test' (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image041.webp" 
   alt="."
@@ -955,10 +952,10 @@ used to be in there and replace it with the words, Hello World. This is
 kind of what happens when this is a weird example, but all early
 examples are weird examples. Because you just want to get your feet wet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 42.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 42. multiple classes but only one id recommended (xx) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image042.webp" 
-  alt="."
+  alt="Multiple classes but recommended one element per id."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -972,10 +969,10 @@ JavaScript is expecting you to keep that rule. When you do something get
 element by ID, JavaScript thinks there&#39;s only one out there. I&#39;m going
 to stop as soon as I find that one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. two elements with same id (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image043.webp" 
-  alt="."
+  alt="Two elements with id = 'test' (same id)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -983,7 +980,7 @@ to stop as soon as I find that one.
 As you can see down here, it changed the first one it found. It didn&#39;t
 change the second one it found, okay? All right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 44.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. console.log (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image044.webp" 
   alt="."
@@ -3380,7 +3377,7 @@ this, you should feel confident going on in this class reading
 additional modules. And knowing that you do understand what&#39;s going on,
 even if you make a mistake now and then. So good luck.
 
-## Advanced Coding Techniques
+<h3>Advanced Coding Techniques</h3>
 
 In the next few lectures, we will talk about more advanced coding
 techniques. Any programming language has the general ability to loop
@@ -4201,20 +4198,20 @@ you go out there and help someone else with their code. Not only are you
 doing a great thing, but it&#39;s a great way for you to learn even more.
 Thanks.
 
-## Link to All of the Code for Week Four
+<h3>Link to All of the Code for Week Four</h3>
 
 The following is a link to all of the code for Week Four. The individual
 files are linked within the modules but the weekly collections may
 include additional code that you are free to use.
 
-<http://codepen.io/collection/DYydJE/>
+<a href="http://codepen.io/collection/DYydJE/">Code: Week Four</a>
 
 Even if you use CodePen, I encourage you to practice writing the code on
 your own. For now, I put complete examples in CodePen, but as time goes
 on, I will remove some of the commands to link the code together. You
 will need to work on that part on your own..
 
-## Introduction to Forms
+<h3>Introduction to Forms</h3>
 
 This week we will cover forms. You have all seen forms (we use them for
 the peer assessment) and I want you to know how to style forms and
@@ -4992,19 +4989,20 @@ can really focus on just learning the JavaScript, I think you can have a
 really good time adding these cool little tricks and tips to your page.
 Good luck.
 
-## Optional Material
+<h3>Optional Material</h3>
 
-## The History of &#34;Debugging&#34;
+<h3>The History of &#34;Debugging&#34;</h3>
 
 If you want to learn more about the history of debugging, here is an
 article that talks about the fact that two different people are credited
 with the term, Grace Hopper and Thomas Edison
 
-<http://theinstitute.ieee.org/tech-history/technology-history/did-you-know-edison-coined-the-term-bug>
+<a href="http://theinstitute.ieee.org/tech-history/technology-history/did-you-know-edison-coined-the-term-bug">History of Debugging</a>
 
-## Link to All of the Code for Week One
 
-<http://codepen.io/collection/nLPkgP/>
+<h3>Link to All of the Code for Week One</h3>
+
+<a href="http://codepen.io/collection/nLPkgP/">Code: Week One</a>
 
 Here is a link to a collection of all of the Code for Week One. (There
 may be a few extra files in there as I play with new examples.) Each
@@ -5018,7 +5016,7 @@ your own. For now, I put complete examples in CodePen, but as time goes
 on, I will remove some of the commands to link the code together. You
 will need to work on that part on your own..
 
-## The Document Object Model (DOM)
+<h3>The Document Object Model (DOM)</h3>
 
 One of the reasons you want to learn about JavaScript is that it works
 so well with the structure used to create HTML documents. Every webpage
@@ -5034,6 +5032,6 @@ no code associated with this lecture, but if you check under the
 resources, I do include a link to site where you can find specifics on
 the DOM.
 
-<h5>Last Updated 11/21/23 11:39am</h5>
+<h6>Last Updated 12/28/23 3:00pm</h6>
 
-<h6>the end...</h6>
+<h5>the end...readme.md</h5>
