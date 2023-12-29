@@ -2,7 +2,7 @@
 title:  |
   Interactivity with jQuery & JavaScript
 author: "bbauska"
-date last editted: "12/28/2023 3+pm"
+date last editted: "12/28/2023 5+pm"
 output: 
   markdown:
     with some style
@@ -252,6 +252,7 @@ in the time we have. We will focus on the following:
 
 -   How to create and validate HTML forms.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week1-01">Week 1-01. Introduction</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 03. introduction - interactivity with js (05) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -322,10 +323,10 @@ exciting if you ask somebody their name and then you can&#39;t actually use
 that name later on. You&#39;re going to find out how to get information
 from the user, and then store it so you can use it later.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. decision points (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. decision points (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image007.webp" 
-  alt="."
+  alt="Decision Points."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -336,10 +337,10 @@ going to write a little bit of code that can help the program decide in
 some cases I want to do this and in other cases, I want to do that. We
 call this decision points.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. looping, #1 (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. looping, #1 (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image008.webp" 
-  alt="."
+  alt="Looping, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -355,7 +356,7 @@ human does what we want them to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. looping, #2 (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image009.webp" 
-  alt="."
+  alt="Looping, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -368,7 +369,7 @@ much flexibility in how you want your code to run.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. functions (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image010.webp" 
-  alt="."
+  alt="Functions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -383,7 +384,7 @@ your function? Great. I want to use that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. manipulating the dom (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image011.webp" 
-  alt="."
+  alt="Manipulating the DOM."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -881,10 +882,10 @@ that exist. So, **document.write** is something you just want to use
 when you&#39;re beginning and you don&#39;t know some of the more complex
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. innerhtml (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. innerhtml, #1 (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image038.webp" 
-  alt="innerHTML."
+  alt="innerHTML, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -932,10 +933,10 @@ I&#39;ve given it the id of test. I also have a paragraph element a little
 bit further down that just says, hey what happens if I&#39;d messed with
 this code?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. h1 id = 'test' (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. h1 id = 'test' (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image041.webp" 
-  alt="."
+  alt="h1 id='test'."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -980,10 +981,10 @@ to stop as soon as I find that one.
 As you can see down here, it changed the first one it found. It didn&#39;t
 change the second one it found, okay? All right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. console.log (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. console.log (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image044.webp" 
-  alt="."
+  alt="console.log."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1665,6 +1666,14 @@ going to have an entire lecture or more on arrays later in this course.
 But for now, I just want you to realize that it&#39;s one of the data types
 that can be returned.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. accessing array elements (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image080.webp" 
+  alt="Accessing Array Elements."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](images/image081.webp){width="4.0in"
 height="2.251709317585302in"}
 
@@ -1685,6 +1694,14 @@ array, and I just want to show you this because there&#39;s a really good
 chance this message might pop up for you and I don&#39;t want you to get
 freaked out about it.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image082.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](images/image082.webp){width="4.0in"
 height="2.251709317585302in"}
 
@@ -1701,6 +1718,14 @@ height="1.9702449693788275in"}
 I can try running this again. And when I type in Colleen, you can see
 that now it knows that I have five paragraph elements in there.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image085.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](images/image085.webp){width="4.0in"
 height="2.251709317585302in"}
 
@@ -1720,6 +1745,14 @@ So good luck.
 
 <h2 id="Week1-06">Week 1-06. Operators & Expressions</h2>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 86.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image086.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](images/image086.webp){width="4.0in"
 height="2.251709317585302in"}
 
@@ -1728,6 +1761,14 @@ the different ways that you can manipulate your code. We&#39;ve been using
 statements to execute our JavaScript code. Every time you saw a line
 that ended with a semicolon, we were writing a statement.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 87.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image087.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](images/image087.webp){width="4.0in"
 height="2.251709317585302in"}
 
@@ -1737,6 +1778,14 @@ string, but many times they produce what we call Boolean values. I want
 to show you all the different types of operators that we can use in
 JavaScript to produce these types of expression values.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image088.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](images/image088.webp){width="4.0in"
 height="2.251709317585302in"}
 
@@ -1748,6 +1797,14 @@ What are our tools for generating different values on that right hand
 side? We&#39;ve seen direct assignments or calls to different functions but
 there&#39;s more to it that we can do than just that.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image089.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](images/image089.webp){width="4.0in"
 height="2.251709317585302in"}
 
@@ -1757,8 +1814,14 @@ thing if two things are the same. In this expression I&#39;m saying, go
 find the value that is story in y. After I grab that, go and store it in
 x as well.
 
-![](images/image090.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image090.webp"
+  alt="."
+  style="border: 2px solid #000000;"
+  width="40%;" />
+</p>
 
 We also have arithmetic operators. Most of these are very straight
 forward. You&#39;ve probably seen plus, minus, this is multiplied, and then
@@ -4819,11 +4882,10 @@ it&#39;s always going to create better, cleaner code. Thanks.
 
 <h2 id="Week4-04">Week 4-04. Checkboxes & Radio Buttons</h2>
 
-Hi, everybody, welcome back. Today, we&#39;re going to talk about some new
+<p>Hi, everybody, welcome back. Today, we&#39;re going to talk about some new
 form fields that you can add to your page. When we were doing name and
-email and different things like that.
-
-The set up was fairly straightforward. You give it an input type of
+email and different things like that.</p>
+<p>The set up was fairly straightforward. You give it an input type of
 text, email, password, etc. But as far as a page was concerned, these
 were all very separate part of the page. Each one was its own part of
 the dom. However, there are some additional form fields that we&#39;re
@@ -4831,9 +4893,8 @@ going to want to look at. And these include checkboxes and radio
 buttons. And how they differ from the earlier input field we were doing
 is that they need to be related within the code. Because we want to make
 sure that when we&#39;re giving people options. That when we send them off
-later, the computer knows oh, these are related.
-
-Let&#39;s take a look and let&#39;s start with checkboxes. You&#39;ve all seen
+later, the computer knows oh, these are related.</p>
+<p>Let&#39;s take a look and let&#39;s start with checkboxes. You&#39;ve all seen
 these before when you&#39;ve been online. They&#39;re typically shaped as
 these squares and you have the opportunity to click them for things such
 as, do you want to be part of the mailing list, if you want to receive
@@ -4841,22 +4902,19 @@ additional information etc. It allows the user to select options with
 just a single click instead of typing in the different options they may
 want. The important thing to know here is that in your code, each of
 these options shares a single name. All right, so remember, we&#39;re using
-other input type. We have name equals first name or name equals keyword.
-
-Now if you look through your code, you&#39;re going to see multiple input
+other input type. We have name equals first name or name equals keyword.</p>
+<p>Now if you look through your code, you&#39;re going to see multiple input
 types that all have the same name. Let&#39;s take a look at the example
 called Easy Checkbox. In this code, I&#39;ve put up a few checkboxes that
 let people indicate which foods they like, and which ones they don&#39;t
-like.
-
-As you can see, I have three input type =&#34;checkbox&#34;, but the important
+like.</p>
+<p>As you can see, I have three input type =&#34;checkbox&#34;, but the important
 thing is that for all three of them, they all have the same name. Even
 though they all have the same name, each one of these has a different
 value. And so, it&#39;s going to let the computer let the other software
 know that, oh, food, their favorite foods are pizza and chips, or just
-kale, or any combinations of these.
-
-Something I want to point out for just a second, because it&#39;s so
+kale, or any combinations of these.</p>
+<p>Something I want to point out for just a second, because it&#39;s so
 important with accessibility is that I have labels on each one of these
 input fields. I know that personally, there are many times I&#39;ve tried
 to click on something in a form, and my fingers are just too fat and I
@@ -4865,18 +4923,16 @@ can be a real problem turning it on and off. But by adding these labels,
 it also lets you click on the text next to it. I can click on the word
 Kale and it&#39;ll activate the button. This is just a really simple way
 for you to add checkboxes into your code. The next thing we want to look
-at are radio buttons.
-
-Visually, radio buttons are typically shaped like circles. And just like
+at are radio buttons.</p>
+<p>Visually, radio buttons are typically shaped like circles. And just like
 checkboxes, it allows your user to kind of click on it, to say, yes, no,
 and to have different options. The big difference is with radio buttons,
 you&#39;re only allowed to select one option per group. So well with
 checkboxes, I could pick kale and pizza and chips. With radio buttons,
 you can only select one. Let&#39;s take a look at how that works. In this
 example, I&#39;ve gone in and I&#39;ve made something for gender and it&#39;s
-simply you can choose male or female.
-
-The important thing to notice is that when I click on male, that&#39;s
+simply you can choose male or female.</p>
+<p>The important thing to notice is that when I click on male, that&#39;s
 fine, but when I click on female, not only does it select female, it
 unselects the male. And as you may have just noticed, as I fumbled on
 this a little bit, I was like, why isn&#39;t it working when I click on the
@@ -4888,9 +4944,9 @@ value. That&#39;s how the computer will know which one somebody selected.
 However, let&#39;s think about this a little deeper. Because it often
 happens that people go, oop, I&#39;ve got it. I&#39;ve got radio buttons down
 and we&#39;re all set, but then, as they try to do more complex things,
-stuff pops up.
+stuff pops up.</p>
 
-Let&#39;s look at the Easy Radio Button too. In this example, I have two
+<p>Let&#39;s look at the Easy Radio Button too. In this example, I have two
 groups of radio buttons, I have gender and I have favorite food. And
 while it makes sense that with radio buttons if I click on Pizza, maybe
 Chips will go away or if I click on Kale It&#39;ll go away. Same with male
@@ -4900,9 +4956,8 @@ favorite food. You want to make sure that you&#39;re being logical in your
 grouping things together. And how we do that is again with the name
 attribute. These share the same name and that&#39;s gender. These share the
 same name and that&#39;s food. And so this is how you can make sure that
-your code is clicking or unclicking the way you really want it to.
-
-Okay, great, we&#39;ve got our check boxes and our radio buttons, but this
+your code is clicking or unclicking the way you really want it to.</p>
+<p>Okay, great, we&#39;ve got our check boxes and our radio buttons, but this
 course is about JavaScript. So how do we incorporate with these
 checkboxes, and radio buttons, and other kind of advanced form fields?
 Well, now instead of looking at things, such as inner HTML, or if things
@@ -4913,9 +4968,8 @@ will know whether it&#39;s on or off. In fact, in the code I did earlier, I
 threw that checked attribute in there. Let&#39;s take a look at that and
 then, go on for a more advanced example of using JavaScript. Now that I
 mentioned checked, I want you to take a look at this again and see if
-you notice something.
-
-When I first loaded the page, chips was pre-selected as one of my
+you notice something.</p>
+<p>When I first loaded the page, chips was pre-selected as one of my
 favorite food. How did I do that? Well, if you check the code you can
 see that right here inside the input type=&#39;radio&#34;, value&#34;Chips&#34; I
 included a boolean attribute called checked=&#34;true&#34;. This says hey I
@@ -4929,9 +4983,8 @@ about checked, let&#39;s look at a slightly more complex example where
 we&#39;ll use the JavaScript. Now, in this code what we&#39;re trying to do is
 we&#39;re trying to give people the option of including a nickname in their
 form. There&#39;s a lot of code and I&#39;m hoping you&#39;ll go back and you&#39;ll
-look at it line by line.
-
-But let me give you a quick introduction to what&#39;s going on. Once I
+look at it line by line.</p>
+<p>But let me give you a quick introduction to what&#39;s going on. Once I
 have my names in, I need to decide if I want to include a nickname or
 not. When I click on this check box, boom, a new input field opens up.
 Let&#39;s see how that worked. If you take a look at our code. You can see
@@ -4939,18 +4992,16 @@ that right here on the checkbox, I have an onchange, so if someone
 clicks or doesn&#39;t click it, let&#39;s call the nickname function. Now this
 is something where again we need to use logic because just because
 something changed doesn&#39;t mean we just clicked on it. We may have
-unclicked it as well.
-
-The first thing we&#39;re going to check is that hey, is that checkbox
+unclicked it as well.</p>
+<p>The first thing we&#39;re going to check is that hey, is that checkbox
 checked? Oh yes, it is, so that means it was closed before and we want
 to change this little part down here from display hidden or display none
 to display inline. And then, the next thing we want to do and this is
 something new, you haven&#39;t seen before. Is, not only do we want to make
 it display, but we want to set an attribute on it. Because if someone
 says they have a nickname, we&#39;re going to force them to add that
-nickname in there. And so, I have set attribute, required true.
-
-This right here is the code that&#39;s going to be executed when I turn the
+nickname in there. And so, I have set attribute, required true.</p>
+<p>This right here is the code that&#39;s going to be executed when I turn the
 checkbox on. However, when I turn the checkbox off, oops, right down
 there. This right here is the code that&#39;s going to be executed next. We
 say, oh never mind, it&#39;s not required anymore, we&#39;re going to remove
@@ -4961,17 +5012,15 @@ complex idea behind it. Let&#39;s just double check that it works. I&#39;ll go
 here. I&#39;ve got Colleen van Lent. If I hit verify, and let us go to a
 new page. However, if I go back and I click on that I have a nickname
 but I don&#39;t provide it. We get this note, sorry you need to fill that
-in.
-
-Again, when I was coding this myself, I was all gung-ho and I did all
+in.</p>
+<p>Again, when I was coding this myself, I was all gung-ho and I did all
 the if part correctly and it worked great. It was the else part that I
 actually had to sit and think about and say oh, that&#39;s right now that I
 have these required attributes and different things like, we really need
 to think about it. The important thing for you to take away from this is
 that the idea that checkboxes and radio buttons are typically using the
-checked attribute in order to handle any type of interactivity.
-
-We&#39;ve been playing a lot with forms, and forms are really great way to
+checked attribute in order to handle any type of interactivity.</p>
+<p>We&#39;ve been playing a lot with forms, and forms are really great way to
 allow a user to interact with your page. Checkboxes and radio buttons,
 these are very commonly used events on a page that really give the user
 a lot of power to do things without typing in a lot of code. However,
@@ -4979,23 +5028,22 @@ even though we&#39;ve covered this, I need you to understand that we&#39;re
 doing what&#39;s called front-end programming. We&#39;re out there making
 things look good. We&#39;re not doing what&#39;s called the back-end
 programming. That&#39;s where you have to learn additional programming
-languages, and that&#39;s how you actually get the forms to do something.
-
-Right now, let&#39;s work on making beautiful forms and adding in that
+languages, and that&#39;s how you actually get the forms to do something.</p>
+<p>Right now, let&#39;s work on making beautiful forms and adding in that
 verification and the great styling. But I do want to make sure that you
 understand that we&#39;re only going to make them, we&#39;re not going to do
 anything with the data that sends them. Once you understand that and you
 can really focus on just learning the JavaScript, I think you can have a
 really good time adding these cool little tricks and tips to your page.
-Good luck.
+Good luck.</p>
 
 <h3>Optional Material</h3>
 
 <h3>The History of &#34;Debugging&#34;</h3>
 
-If you want to learn more about the history of debugging, here is an
+<p>If you want to learn more about the history of debugging, here is an
 article that talks about the fact that two different people are credited
-with the term, Grace Hopper and Thomas Edison
+with the term, Grace Hopper and Thomas Edison.</p>
 
 <a href="http://theinstitute.ieee.org/tech-history/technology-history/did-you-know-edison-coined-the-term-bug">History of Debugging</a>
 
@@ -5004,34 +5052,33 @@ with the term, Grace Hopper and Thomas Edison
 
 <a href="http://codepen.io/collection/nLPkgP/">Code: Week One</a>
 
-Here is a link to a collection of all of the Code for Week One. (There
+<p>Here is a link to a collection of all of the Code for Week One. (There
 may be a few extra files in there as I play with new examples.) Each
 individual file is also linked within the modules to help you match the
 code with the lecture. I find that it can be annoying to use CodePen for
 the first few lectures since it causes a lot of pop-up boxes. Don&#39;t
-worry, we move away from that by Week Two.
+worry, we move away from that by Week Two.</p>
 
-Even if you use CodePen, I encourage you to practice writing the code on
+<p>Even if you use CodePen, I encourage you to practice writing the code on
 your own. For now, I put complete examples in CodePen, but as time goes
 on, I will remove some of the commands to link the code together. You
-will need to work on that part on your own..
+will need to work on that part on your own..</p>
 
 <h3>The Document Object Model (DOM)</h3>
 
-One of the reasons you want to learn about JavaScript is that it works
+<p>One of the reasons you want to learn about JavaScript is that it works
 so well with the structure used to create HTML documents. Every webpage
 can be broken down into a mathematical tree structure called the
 Document Object Model (DOM). Each HTML tag is a node in the tree and
 these nodes have all types of different attributes, such as text,
-background color, width, etc.
-
-With JavaScript it is easy to write code that basically says &#34;I want to
+background color, width, etc.</p>
+<p>With JavaScript it is easy to write code that basically says &#34;I want to
 grab *that* part of the webpage and change it.&#34; In this lecture I
 review the DOM and talk about how it is related to JavaScript. There is
 no code associated with this lecture, but if you check under the
 resources, I do include a link to site where you can find specifics on
-the DOM.
+the DOM.</p>
 
-<h6>Last Updated 12/28/23 3:00pm</h6>
+<h6>Last Updated 12/28/23 5:00pm</h6>
 
 <h5>the end...readme.md</h5>
