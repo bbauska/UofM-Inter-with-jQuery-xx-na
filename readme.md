@@ -13,7 +13,7 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-inter-with-js.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. interactivity with js (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. interactivity with js (i) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.jpg" 
   alt="Interactivity with JavaScript."
@@ -21,7 +21,7 @@ output:
   width="40%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (i) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.webp" 
   alt="University of Michigan logo."
@@ -528,11 +528,15 @@ of fun stuff. But I promise, I&#39;m going to go slow, explain what I&#39;m
 doing step by step, so that you can come along with me and start adding
 some interactivity to your pages with JavaScript.
 
-<h3>Link to All of the Code for Week One</h3>
+<h3 id="cha-wk1"><a href="http://codepen.io/collection/nLPkgP/">Link to All of the Code for Week One</a></h3>
+
+Again, the following is a link to all of the code for Week One. The individual
+files are linked within the modules but the weekly collections may
+include additional code that you are free to use.
 
 <a href="http://codepen.io/collection/nLPkgP/">Code: Week One</a>
 
-Here is a link to a collection of all of the Code for Week One. (There
+Above is a link to a collection of all of the Code for Week One. (There
 may be a few extra files in there as I play with new examples.) Each
 individual file is also linked above. I find that it can be annoying to
 use CodePen for the first few lectures since it causes a lot of pop-up
@@ -2067,13 +2071,13 @@ with the term, Grace Hopper and Thomas Edison
 
 <http://theinstitute.ieee.org/tech-history/technology-history/did-you-know-edison-coined-the-term-bug>
 
-<h3>Link to All of the Code for Week Two</h3>
+<h3 id="cha-wk3"><a href="http://codepen.io/collection/Adbwgo/">Link to All of the Code for Week Two</a></h3>
 
-The following is a link to all of the code for Week Two. The individual
+Again, the following is a link to all of the code for Week Two. The individual
 files are linked within the modules but the weekly collections may
 include additional code that you are free to use.
 
-<http://codepen.io/collection/Adbwgo/>
+<a href="http://codepen.io/collection/Adbwgo/">Code: Week Two</a>
 
 Even if you use CodePen, I encourage you to practice writing the code on
 your own. For now, I put complete examples in CodePen, but as time goes
@@ -3275,20 +3279,20 @@ to make sure you&#39;re on the right track. But really, I&#39;m hoping that
 this something that you can do, that you can later use if you want to
 incorporate it into your own portfolio. So good luck.
 
-## Link to All of the Code for Week Three
+<h3 id="cha-wk3"><a href="http://codepen.io/collection/noEJaj/">Link to All of the Code for Week Three</a></h3>
 
-The following is a link to all of the code for Week Three. The
+Again, the following is a link to all of the code for Week Three. The
 individual files are linked within the modules but the weekly
 collections may include additional code that you are free to use.
 
-<http://codepen.io/collection/noEJaj/>
+<a href="http://codepen.io/collection/noEJaj/">Code: Week Three</a>
 
 Even if you use CodePen, I encourage you to practice writing the code on
 your own. For now, I put complete examples in CodePen, but as time goes
 on, I will remove some of the commands to link the code together. You
 will need to work and learn that part on your own..
 
-## A JavaScript Cheat Sheet
+<h3><a href="http://www.cheat-sheets.org/saved-copy/jsquick.pdf">A JavaScript Cheat Sheet</a></h3>
 
 I thought about putting this next link in the optional resources
 section, but it is something I really want people to know about. This
@@ -4368,9 +4372,9 @@ you go out there and help someone else with their code. Not only are you
 doing a great thing, but it&#39;s a great way for you to learn even more.
 Thanks.
 
-<h3>Link to All of the Code for Week Four</h3>
+<h3 id="cha-wk4"><a href="http://codepen.io/collection/DYydJE/">Link to All of the Code for Week Four</a></h3>
 
-The following is a link to all of the code for Week Four. The individual
+Again, the following is a link to all of the code for Week Four. The individual
 files are linked within the modules but the weekly collections may
 include additional code that you are free to use.
 
@@ -5153,18 +5157,6 @@ article that talks about the fact that two different people are credited
 with the term, Grace Hopper and Thomas Edison.</p>
 
 <a href="http://theinstitute.ieee.org/tech-history/technology-history/did-you-know-edison-coined-the-term-bug">History of Debugging</a>
-
-
-<h3>Link to All of the Code for Week One</h3>
-
-<a href="http://codepen.io/collection/nLPkgP/">Code: Week One</a>
-
-<p>Here is a link to a collection of all of the Code for Week One. (There
-may be a few extra files in there as I play with new examples.) Each
-individual file is also linked within the modules to help you match the
-code with the lecture. I find that it can be annoying to use CodePen for
-the first few lectures since it causes a lot of pop-up boxes. Don&#39;t
-worry, we move away from that by Week Two.</p>
 
 <p>Even if you use CodePen, I encourage you to practice writing the code on
 your own. For now, I put complete examples in CodePen, but as time goes
