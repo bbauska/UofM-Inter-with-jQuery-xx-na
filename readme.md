@@ -319,7 +319,7 @@ even to check that passwords match.
 
 <b>Summary:</b> Autocomplete with JavaScript
 
-<h3>Welcome to Introduction to JavaScript, taught by Colleen van Lent!</h3>
+<h3 id="ch1-01">1-01. Welcome to Introduction to JavaScript, taught by Colleen van Lent!</h3>
 
 This course is an introduction to the use of the JavaScript programming
 language to add some interactivity to your website. This course is meant
@@ -360,7 +360,7 @@ in the time we have. We will focus on the following:
 -   How to create and validate HTML forms.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="Week1-01">Week 1-01. Introduction</h2>
+<h2 id="ch1-02">1-02. Introduction</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 03. introduction - interactivity with js (05) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
