@@ -13,10 +13,10 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-inter-with-js.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. interactivity with js (i) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 01. javascript logo for university of michigan (i) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.jpg" 
-  alt="Interactivity with JavaScript."
+  alt="JavaScript logo for University of Michigan."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1268,7 +1268,7 @@ line 9. The console will always try to tell you about where it ran into
 a problem. In this case, I didn&#39;t include the quotes to end the message
 for the alert.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~ 53. code, an empty browser, and an error message in chrome console (xxx) ~~~~~~~~~-->
+<!--~~~~~~~~~ 53. code, an empty browser, and an error message in chrome console (36) ~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image053.webp" 
   alt="Code, an empty browser, and an error message in the Chrome console."
@@ -1281,10 +1281,10 @@ for the alert.
 <https://codepen.io/ColleenEMc/pen/jbYEEW>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 54.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 54. variables (1.04) (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image054.webp" 
-  alt="."
+  alt="1.04. Variables."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1295,10 +1295,10 @@ Because by saving data, you can reuse it and give you program that&#39;s
 impression that&#39;s kind of intelligent and knows the user very well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 55.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 55. storing data in variables (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image055.webp" 
-  alt="."
+  alt="Storing data in variables."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1313,12 +1313,11 @@ word to the computer. Next, you need to give your variable a name. Now,
 I chose the name "name" here, but you can imagine it being age, first
 name, last name, dob for date of birth. The important thing is that it
 should be special to you, but not special to the computer.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 56.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 56. variable name, memory location, value stored (37) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image056.webp" 
-  alt="."
+  alt="Variable name, memory location and value stored in variable."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1338,10 +1337,10 @@ are just trying to give you a way to avoid remembering big long numbers
 and instead using English words.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 57.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 57. variable name rules (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image057.webp" 
-  alt="."
+  alt="Variable name rules."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1371,12 +1370,11 @@ someone&#39;s name, call it name. If it&#39;s storing age, call it age. You
 could get away with calling it &#39;yyy&#39; or &#39;bbb&#39;, just don&#39;t do it.
 Okay? Taking a little bit of time to give meaningful names will save you
 a lot of heart ache later.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. variable assignments (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image058.webp" 
-  alt="."
+  alt="Variable assignments."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1395,10 +1393,10 @@ into the variable.
 So here I have **var** name, and instead of just leaving it at that, I
 say, hey, I want you to store the name Colleen in there, all right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59. assignment statements (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image059.webp" 
-  alt="."
+  alt="Assignment statements."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1415,10 +1413,10 @@ Right here would be an example where I&#39;m just having, I declare my
 variable, and then later I want to update it. I say, name equals
 Colleen. This works really well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 60.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60. assignment statements, #2 (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image060.webp" 
-  alt="."
+  alt="Left and Right hand statements in variable assignments."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1434,10 +1432,10 @@ a variable. If you remember when we talked about output, one way that we
 were able to produce output also was a way to generate input, and that
 was the prompt.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 61.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. using a variable (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image061.webp" 
-  alt="."
+  alt="Using a variable."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1453,7 +1451,7 @@ You can even use more from the API saying, you know what? I want to know
 where this window is. What&#39;s the location of this window? And you can
 write that out as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image062.webp" 
   alt="."
@@ -1464,7 +1462,7 @@ write that out as well.
 Let&#39;s look at a quick example of how we can use that. Let&#39;s start with
 the simple code we used before when we were learning about prompts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image063.webp" 
   alt="."
@@ -1479,7 +1477,7 @@ realize that the name you give your variable. Doesn&#39;t really matter, it
 can be anything you want. Just because I call it name, doesn&#39;t mean you
 have to.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image064.webp" 
   alt="."
@@ -1493,7 +1491,7 @@ add a bit more code. Now I am going to comment out this line. You can
 see why, because otherwise it&#39;ll keep asking us to prompt things.
 We&#39;ll comment that out when we&#39;re done. All right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image065.webp" 
   alt="."
@@ -1506,7 +1504,7 @@ I have this variable called **name**, now I can do something like
 to you could even put in **alert(nm)**. Let&#39;s put this back in. Might
 want to edit all my typing out. What is your name? Well, it is Colleen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image066.webp" 
   alt="."
@@ -1518,7 +1516,7 @@ All right, so the alert popped up, but why didn&#39;t the
 **document.write** work? This is a good question, and this is actually
 an example where I can go in, that&#39;s what was going on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image067.webp" 
   alt="."
@@ -1530,7 +1528,7 @@ It was actually waiting for me to hit okay. When it was all done, it
 went in and it printed out my name. This is a really simple, quick
 example.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image068.webp" 
   alt="."
@@ -1548,7 +1546,7 @@ heading. And then I just wanted to show you that you could also grab
 other information from the document, itself, such as the URL and the
 title.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image069.webp" 
   alt="."
@@ -1563,7 +1561,7 @@ anything in the prompt. When the JavaScript doesn&#39;t know what to do,
 when it doesn&#39;t know what value should have been in there, it&#39;s going
 to assign it a value of null.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 70.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 70.  (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image070.webp" 
   alt="."
@@ -1576,10 +1574,10 @@ just in case someone else named Christopher is reading this and they can
 feel special. But now you can see it printed out Christopher, the URL,
 and the title of my page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 71.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 71. 1.04 variables review (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image071.webp" 
-  alt="."
+  alt="1.04. Variables review."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1596,7 +1594,7 @@ course. Good luck.
 
 <h2 id="Week1-05">Week 1-05. Data Types</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. data types (1.05) (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. data types (1.05) (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image072.webp" 
   alt="1.05. Data Types."
@@ -1608,7 +1606,7 @@ Once you realize that computers store all of the information using
 variables, the next step is to start to learn about the different data
 types used in the JavaScript programming language.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73. assignments (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73. assignments (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image073.webp" 
   alt="Assignments."
@@ -1630,7 +1628,7 @@ doing it. In each of these examples, name would have what we call a
 different type. Things that are stored in the computer are completely
 different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 74. types (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 74. types (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image074.webp" 
   alt="Types."
@@ -1645,7 +1643,7 @@ to characters, back to a number to something else that&#39;s completely
 complex. Let&#39;s talk about what these types are in JavaScript and how we
 can represent them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. number (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. number (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image075.webp" 
   alt="Number."
@@ -1670,7 +1668,7 @@ number, but in the different cases or one, it&#39;s going to be, normally
 would be an integer or a whole number, and the next time it has
 decimals.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 76. string (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 76. string (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image076.webp" 
   alt="String."
@@ -1691,7 +1689,7 @@ I&#39;ve done var location = **window.location**. Because it happens to be
 that that attribute is a string or in my second example once again,
 I&#39;ve just hardcoded it to something you might expect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 77. boolean (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 77. boolean (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image077.webp" 
   alt="Boolean."
@@ -1712,7 +1710,7 @@ Later, we&#39;re going to learn how to write our own boolean expressions to
 check to see if things are true or false. And that can add really a lot
 of power to your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78. object (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78. object (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image074.webp" 
   alt="Object."
@@ -1735,7 +1733,7 @@ something along the lines of write out **topic.style, topic.innerHTML.**
 Different things like that can show us really the attributes or the
 string&#39;s numbers that make up objects.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 79. array (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 79. array (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image074.webp" 
   alt="Array."
@@ -1756,7 +1754,7 @@ Well, that&#39;s certainly not going to return just a single number, or a
 bunch of strings, or even a single object. Instead, it needs to return a
 whole collection.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. accessing array elements (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. accessing array elements (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image080.webp" 
   alt="Accessing Array Elements."
@@ -1778,15 +1776,13 @@ But for now, I just want you to realize that it&#39;s one of the data types
 that can be returned.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. accessing array elements (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. accessing array elements (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image080.webp" 
   alt="Accessing Array Elements."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](images/image081.webp){width="4.0in"
-height="2.251709317585302in"}
 
 Let&#39;s look at a quick example that uses some of the different types.
 Let&#39;s see what happens when I type in a string to this sample code.
@@ -1806,6 +1802,15 @@ chance this message might pop up for you and I don&#39;t want you to get
 freaked out about it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image081.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image082.webp" 
@@ -1813,8 +1818,6 @@ freaked out about it.
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](images/image082.webp){width="4.0in"
-height="2.251709317585302in"}
 
 After I grab all the paragraph elements, if I try to print them out, it
 prints out object **HTMLCollection 0.** It says, oh, you didn&#39;t
