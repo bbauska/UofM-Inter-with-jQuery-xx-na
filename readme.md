@@ -2,12 +2,13 @@
 title:  |
   Interactivity with jQuery & JavaScript
 author: "bbauska"
-date last editted: "12/28/2023 5+pm"
+date last editted: "1/24/2024 5+pm"
 output: 
   markdown:
     with some style
 ---
 
+<h2>NO LONGER AVAILABLE ON COURSERA NOR UNIVERSITY OF MICHIGAN</h2>
 <h1 align="center">Interactivity with jQuery &amp; JavaScript</h1>
 <h6 align="center">(by Colleen van Lent, Ph.D. University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
