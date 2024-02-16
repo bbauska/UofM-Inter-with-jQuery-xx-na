@@ -2,7 +2,7 @@
 title:  |
   4. Interactivity with jQuery & JavaScript
 author: "bbauska"
-date last editted: "1/24/2024 5+pm"
+date last editted: "2/16/2024 2+pm"
 output: 
   markdown:
     with some style
@@ -18,16 +18,15 @@ output:
 <p align="center">
   <img src="./images/image001.jpg" 
   alt="JavaScript logo for University of Michigan."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000;"
+  style="width:40%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (i) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.webp" 
   alt="University of Michigan logo."
-  style="border: 2px solid #000000;" 
-  width="20%;" />
+  style="border: 2px solid #000000; width:20%;" />
 </p>
 <!--->
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
@@ -367,8 +366,7 @@ in the time we have. We will focus on the following:
 <p align="center">
   <img src="./images/image003.webp" 
   alt="Introduction - Interactivity with JavaScript."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi everybody. Today I&#39;m going to introduce you to the JavaScript
@@ -384,8 +382,7 @@ programming.
 <p align="center">
   <img src="./images/image004.webp" 
   alt="What you can do with JavaScript."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s get started. If you&#39;ve done HTML, if you&#39;ve done CSS, you
@@ -407,8 +404,7 @@ glance?
 <p align="center">
   <img src="./images/image005.webp" 
   alt="What you can do with JavaScript, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The other thing we can do, which is really where it gets a little bit
@@ -421,8 +417,7 @@ while, don&#39;t worry. We&#39;re going to review the DOM in a future lecture.
 <p align="center">
   <img src="./images/image006.webp" 
   alt="Variables."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s start with variables. In computer science, we use variables in
@@ -435,8 +430,7 @@ from the user, and then store it so you can use it later.
 <p align="center">
   <img src="./images/image007.webp" 
   alt="Decision Points."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 We&#39;re also going to add decision points. Things are much more
@@ -449,8 +443,7 @@ call this decision points.
 <p align="center">
   <img src="./images/image008.webp" 
   alt="Looping, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 We can also do looping. Looping is really powerful. As your programs get
@@ -465,8 +458,7 @@ human does what we want them to do.
 <p align="center">
   <img src="./images/image009.webp" 
   alt="Looping, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Otherwise, you sometimes have to decide at run time how many times you
@@ -478,8 +470,7 @@ much flexibility in how you want your code to run.
 <p align="center">
   <img src="./images/image010.webp" 
   alt="Functions."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next in this course we&#39;re going to talk about functions. Functions are
@@ -493,8 +484,7 @@ your function? Great. I want to use that.
 <p align="center">
   <img src="./images/image011.webp" 
   alt="Manipulating the DOM."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Finally, we&#39;re going to talk about manipulating the dominant class.
@@ -514,8 +504,7 @@ going to have fun manipulating the DOM.
 <p align="center">
   <img src="./images/image012.webp" 
   alt="1-01. Review: Introduction to JavaScript."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 A major component of learning any new programming language, or I guess,
@@ -568,14 +557,14 @@ no code associated with this lecture, but if you check under the
 resources, I do include a link to site where you can find specifics on
 the DOM.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week1-02">Week 1-02. DOM Review with Object Oriented Programming</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 13. dom review with object oriented programming (11) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image013.webp" 
   alt="1-02. DOM Review with Object Oriented Programming."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Today we&#39;re going to be talking about the DOM, or the document object model.</p>
@@ -584,8 +573,7 @@ the DOM.
 <p align="center">
   <img src="./images/image014.webp" 
   alt="Web Pages are built upon the DOM."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 As you may or may not remember, every webpage is built upon this DOM.
@@ -598,8 +586,7 @@ properties, methods, and events.
 <p align="center">
   <img src="./images/image015.webp" 
   alt="Sample document tree, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let me draw you a quick example and then we&#39;ll talk about how we can
@@ -618,8 +605,7 @@ the pages built like a tree?
 <p align="center">
   <img src="./images/image016.webp" 
   alt="Sample document tree, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 This means that JavaScript can actually go in and it can look and say,
@@ -638,8 +624,7 @@ JavaScript to do in this course.
 <p align="center">
   <img src="./images/image017.webp" 
   alt="The DOM and JavaScript."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Again, we&#39;ve got that the page content is represented by the DOM. The
@@ -651,8 +636,7 @@ document. How does it do that, though? How does it know how to interact?
 <p align="center">
   <img src="./images/image018.webp" 
   alt="How does it work, #1?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well, the JavaScript has something called an API, or an application
@@ -667,8 +651,7 @@ their programs.
 <p align="center">
   <img src="./images/image019.webp" 
   alt="How does it work, #2?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 No matter which browser you&#39;re using, Firefox, Chrome, different things
@@ -682,8 +665,7 @@ have to learn something different later on.
 <p align="center">
   <img src="./images/image020.webp" 
   alt="The DOM objects/elements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s talk about some of these DOM objects or element as we call them.
@@ -725,8 +707,7 @@ change to make your page look different.
 <p align="center">
   <img src="./images/image021.webp" 
   alt="Specific APIs."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Okay, so if you understand that the page is made up of documents, and
@@ -752,8 +733,7 @@ that if you want.
 <p align="center">
   <img src="./images/image022.webp" 
   alt="1-02. Review: DOM Review."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I know that there was a lot I went over in this slide that maybe didn&#39;t
@@ -772,14 +752,14 @@ API&#39;s and different things like that. But I want you to code with me
 and then make sure you go off and you try to change things just a little
 bit until your confidence is really up there. Good luck.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week1-03">Week 1-03. Output</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. output (1.03) (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image023.webp" 
   alt="1.03. Output."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi everybody. Today, let&#39;s start coding a little bit to see some of
@@ -793,8 +773,7 @@ things change in your page by reacting to what the user was doing.
 <p align="center">
   <img src="./images/image024.webp" 
   alt="Interactivity."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But typically, that&#39;s not really what we call interactivity when we&#39;re
@@ -805,8 +784,7 @@ classes can only go so far. They tend to be temporary changes.
 <p align="center">
   <img src="./images/image025.webp" 
   alt="What Can JavaScript Do?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, what can JavaScript do that HTML and CSS can&#39;t do? Well, the one
@@ -824,8 +802,7 @@ things print out to the screen or generate some sort of output.
 <p align="center">
   <img src="./images/image026.webp" 
   alt="JavaScript Output."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well, JavaScript doesn&#39;t have a built-in print function. Instead, you
@@ -838,8 +815,7 @@ about each one of these.
 <p align="center">
   <img src="./images/image027.webp" 
   alt="alert()."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You&#39;ve all seen alert JavaScript alert boxes. Because many times,
@@ -861,8 +837,7 @@ can generate some output.
 <p align="center">
   <img src="./images/image028.webp" 
   alt="HTML example, alert()."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let me show you an example. What I&#39;ve done over here is I&#39;ve created
@@ -876,8 +851,7 @@ case, I have my code alert(&#34;Hello World&#34;).
 <p align="center">
   <img src="./images/image029.webp" 
   alt="HTML example in Chrome, alert()."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If I were to run this, and I&#39;m going to refresh it. You can see I get
@@ -890,8 +864,7 @@ Edge, or Firefox.
 <p align="center">
   <img src="./images/image030.webp" 
   alt="Hello World example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 That&#39;s okay, the important thing is that somewhere in here it says
@@ -904,9 +877,8 @@ a quick and simple way for you to generate output using the alert.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. prompt() (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image031.webp" 
-  alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  alt="prompt()."
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next way we can generate output is using prompt. Prompt is very
@@ -919,10 +891,10 @@ semicolon and the string, but the way they act is very different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 32/33. example prompt, side-by-side (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image032.png"
-  style="width:35%;"
+  style="width:45%;"
   alt="Example prompt, #1." />
 <img src="./images/image033.png"
-  style="width:35%;"
+  style="width:45%;"
   alt="Example prompt, #2." />
 </p>
 
@@ -939,8 +911,7 @@ the screen.
 <p align="center">
   <img src="./images/image034.webp" 
   alt="document.write()."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One way, if you want something to be what we call permanent, to not just
@@ -959,8 +930,7 @@ Let&#39;s see when we add this.
 <p align="center">
   <img src="./images/image035.webp" 
   alt="Example document.write(), #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here you can see that inside the script tag, again, I have the
@@ -971,8 +941,7 @@ input, it writes it directly into the screen.
 <p align="center">
   <img src="./images/image036.webp" 
   alt="Example document.write(), #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now I&#39;m going to change something right here. Because I put h1 inside
@@ -985,8 +954,7 @@ realize that it is probably not the best way to do it.
 <p align="center">
   <img src="./images/image037.webp" 
   alt="document.write is not usually recommended."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Because sometimes if you&#39;re misusing it, you can overwrite other things
@@ -998,8 +966,7 @@ methods.
 <p align="center">
   <img src="./images/image038.webp" 
   alt="innerHTML, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One of the more complex methods you can use is called innerHTML. And
@@ -1014,8 +981,7 @@ that can go and get things for us.
 <p align="center">
   <img src="./images/image039.webp" 
   alt="innerHTML, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In this case, I have element which is hopefully we&#39;ll find something
@@ -1036,8 +1002,7 @@ you an example of something we can do using innerHTML.
 <p align="center">
   <img src="./images/image040.webp" 
   alt="document.getElementById('test').innerHTML."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s look at this, what I&#39;ve done is I made an **h1** heading and
@@ -1049,8 +1014,7 @@ this code?
 <p align="center">
   <img src="./images/image041.webp" 
   alt="h1 id='test'."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, so I want you to look as closely as you can. You might be on
@@ -1069,8 +1033,7 @@ examples are weird examples. Because you just want to get your feet wet.
 <p align="center">
   <img src="./images/image042.webp" 
   alt="Multiple classes but recommended one element per id."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But I did want you to look at what happens if I do this. Back from your
@@ -1086,8 +1049,7 @@ to stop as soon as I find that one.
 <p align="center">
   <img src="./images/image043.webp" 
   alt="Two elements with id = 'test' (same id)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 As you can see down here, it changed the first one it found. It didn&#39;t
@@ -1097,9 +1059,7 @@ change the second one it found, okay? All right.
 <p align="center">
   <img src="./images/image044.webp" 
   alt="console.log."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
-</p>
+  style="border: 2px solid #000000; width:40%;" />
 
 Let&#39;s go play with the last output method I have for you today.
 **document.write** and enter HTML. Write directly into the browser
@@ -1118,8 +1078,7 @@ doing your CSS.
 <p align="center">
   <img src="./images/image045.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s take a look at this example. In my HTML up here, you can see that
@@ -1129,8 +1088,7 @@ I have **console.log** Hello World. Nothing too exciting going on here.
 <p align="center">
   <img src="./images/image046.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But if you look at the actual browser, hm, it&#39;s not there. It doesn&#39;t
@@ -1143,8 +1101,7 @@ World showed up here.
 <p align="center">
   <img src="./images/image047.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What happens if I change the code to Hello World Too.
@@ -1162,8 +1119,7 @@ console by now, if you haven&#39;t.
 <p align="center">
   <img src="./images/image048.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The console does more than just take these print statements. It also
@@ -1175,8 +1131,7 @@ much better programmer.
 <p align="center">
   <img src="./images/image049.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s take a look at just doing some debugging with the JavaScript.
@@ -1188,8 +1143,7 @@ anything going on or that anything is supposed to show up.
 <p align="center">
   <img src="./images/image050.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You might not realize that there&#39;s a typo but inside the console,
@@ -1210,8 +1164,7 @@ going to be critical to going on and advancing in this course.
 <p align="center">
   <img src="./images/image051.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If I&#39;m going to ask you debug, I should probably tell you how you can
@@ -1233,8 +1186,7 @@ so let&#39;s review.
 <p align="center">
   <img src="./images/image052.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Right now, we&#39;re doing really simple things, and I understand that.
@@ -1273,8 +1225,7 @@ for the alert.
 <p align="center">
   <img src="./images/image053.webp" 
   alt="Code, an empty browser, and an error message in the Chrome console."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <h2 id="Week1-04">Week 1-04. Variables</h2>
@@ -1286,8 +1237,7 @@ for the alert.
 <p align="center">
   <img src="./images/image054.webp" 
   alt="1.04. Variables."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, everybody. Today we&#39;re going to learn about JavaScript variables.
@@ -1300,8 +1250,7 @@ impression that&#39;s kind of intelligent and knows the user very well.
 <p align="center">
   <img src="./images/image055.webp" 
   alt="Storing data in variables."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In JavaScript, data is stored in what we call variables, and it&#39;s very
@@ -1319,8 +1268,7 @@ should be special to you, but not special to the computer.
 <p align="center">
   <img src="./images/image056.webp" 
   alt="Variable name, memory location and value stored in variable."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 How does this work? When you declare a variable, you&#39;re basically
@@ -1342,8 +1290,7 @@ and instead using English words.
 <p align="center">
   <img src="./images/image057.webp" 
   alt="Variable name rules."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When you come up with your variable name, there&#39;s a few rules that you
@@ -1376,8 +1323,7 @@ a lot of heart ache later.
 <p align="center">
   <img src="./images/image058.webp" 
   alt="Variable assignments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If you&#39;re going to go to the trouble of declaring a variable and
@@ -1398,8 +1344,7 @@ say, hey, I want you to store the name Colleen in there, all right.
 <p align="center">
   <img src="./images/image059.webp" 
   alt="Assignment statements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 This is where when we start talking about assignment statements, I refer
@@ -1418,8 +1363,7 @@ Colleen. This works really well.
 <p align="center">
   <img src="./images/image060.webp" 
   alt="Left and Right hand statements in variable assignments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What I need people to avoid is doing something along this line, where
@@ -1437,8 +1381,7 @@ was the prompt.
 <p align="center">
   <img src="./images/image061.webp" 
   alt="Using a variable."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When you use the prompt, it&#39;s waiting for you to type something in and
@@ -1456,8 +1399,7 @@ write that out as well.
 <p align="center">
   <img src="./images/image062.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s look at a quick example of how we can use that. Let&#39;s start with
@@ -1467,8 +1409,7 @@ the simple code we used before when we were learning about prompts.
 <p align="center">
   <img src="./images/image063.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Only now, I want to combine it with a variable, so I am going to go in
@@ -1482,8 +1423,7 @@ have to.
 <p align="center">
   <img src="./images/image064.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And as soon as I did this, the prompt statement showed up, and I put in
@@ -1496,8 +1436,7 @@ We&#39;ll comment that out when we&#39;re done. All right.
 <p align="center">
   <img src="./images/image065.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I have this variable called **name**, now I can do something like
@@ -1509,8 +1448,7 @@ want to edit all my typing out. What is your name? Well, it is Colleen.
 <p align="center">
   <img src="./images/image066.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, so the alert popped up, but why didn&#39;t the
@@ -1521,8 +1459,7 @@ an example where I can go in, that&#39;s what was going on.
 <p align="center">
   <img src="./images/image067.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 It was actually waiting for me to hit okay. When it was all done, it
@@ -1533,8 +1470,7 @@ example.
 <p align="center">
   <img src="./images/image068.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s do one that has a little bit more going on with it. All right, in
@@ -1551,8 +1487,7 @@ title.
 <p align="center">
   <img src="./images/image069.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 First thing I&#39;m going to show you is, it says null and null. And
@@ -1566,8 +1501,7 @@ to assign it a value of null.
 <p align="center">
   <img src="./images/image070.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s run this one more time. I&#39;m going to put in the name Christopher
@@ -1579,8 +1513,7 @@ and the title of my page.
 <p align="center">
   <img src="./images/image071.webp" 
   alt="1.04. Variables review."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Variables are a key component of really doing any type of programming
@@ -1593,14 +1526,14 @@ consult that log. The most important thing is I want you to understand
 how variables work, so that you can use them throughout the rest of the
 course. Good luck.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week1-05">Week 1-05. Data Types</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. data types (1.05) (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image072.webp" 
   alt="1.05. Data Types."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Once you realize that computers store all of the information using
@@ -1611,8 +1544,7 @@ types used in the JavaScript programming language.
 <p align="center">
   <img src="./images/image073.webp" 
   alt="Assignments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If you look here in this example, you can see that I&#39;ve got variable
@@ -1633,8 +1565,7 @@ different.
 <p align="center">
   <img src="./images/image074.webp" 
   alt="Types."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In computer programming languages, computers tend to have a single type.
@@ -1648,8 +1579,7 @@ can represent them.
 <p align="center">
   <img src="./images/image075.webp" 
   alt="Number."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The first type we&#39;re going to talk about is number, and it&#39;s pretty
@@ -1673,8 +1603,7 @@ decimals.
 <p align="center">
   <img src="./images/image076.webp" 
   alt="String."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next type is called String. String is simply a collection of
@@ -1694,8 +1623,7 @@ I&#39;ve just hardcoded it to something you might expect.
 <p align="center">
   <img src="./images/image077.webp" 
   alt="Boolean."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The third data type is Boolean. In programing, a boolean value is
@@ -1715,8 +1643,7 @@ of power to your page.
 <p align="center">
   <img src="./images/image074.webp" 
   alt="Object."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next data type is called object. Because sometimes the variables or
@@ -1738,8 +1665,7 @@ string&#39;s numbers that make up objects.
 <p align="center">
   <img src="./images/image074.webp" 
   alt="Array."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Finally, the last type we&#39;re going to talk about is array, because in
@@ -1759,8 +1685,7 @@ whole collection.
 <p align="center">
   <img src="./images/image080.webp" 
   alt="Accessing Array Elements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Arrays store these multiple values using a variable name, just like the
@@ -1781,8 +1706,7 @@ that can be returned.
 <p align="center">
   <img src="./images/image080.webp" 
   alt="Accessing Array Elements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&#39;s look at a quick example that uses some of the different types.
@@ -1807,8 +1731,7 @@ freaked out about it.
 <p align="center">
   <img src="./images/image081.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1816,8 +1739,7 @@ freaked out about it.
 <p align="center">
   <img src="./images/image082.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 After I grab all the paragraph elements, if I try to print them out, it
@@ -1826,9 +1748,16 @@ actually have any paragraphs in this page. If I go back, and I add a
 few, they can even be empty. Gotta love when it keeps popping up on you.
 I don&#39;t know how many I added but we&#39;re going to do it.
 
-![](images/image083.webp){width="3.5in"
-height="1.970246062992126in"}![](images/image084.webp){width="3.5in"
-height="1.9702449693788275in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 83/84.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image083.png"
+  style="width:45%;"
+  alt="." />
+<img src="./images/image084.png"
+  style="width:45%;"
+  alt="." />
+</p>
 
 I can try running this again. And when I type in Colleen, you can see
 that now it knows that I have five paragraph elements in there.
@@ -1838,11 +1767,8 @@ that now it knows that I have five paragraph elements in there.
 <p align="center">
   <img src="./images/image085.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
-![](images/image085.webp){width="4.0in"
-height="2.251709317585302in"}
 
 Luckily in JavaScript, there&#39;s a ton of flexibility with the different
 types of data you can use. In other programming languages they&#39;re very
@@ -1865,8 +1791,7 @@ So good luck.
 <p align="center">
   <img src="./images/image086.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 ![](images/image086.webp){width="4.0in"
 height="2.251709317585302in"}
@@ -1881,11 +1806,8 @@ that ended with a semicolon, we were writing a statement.
 <p align="center">
   <img src="./images/image087.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
-![](images/image087.webp){width="4.0in"
-height="2.251709317585302in"}
 
 Statements often have what we call expressions, or things that can be
 evaluated. Expressions produce values. They might produce a number, or a
@@ -1898,11 +1820,8 @@ JavaScript to produce these types of expression values.
 <p align="center">
   <img src="./images/image088.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
-![](images/image088.webp){width="4.0in"
-height="2.251709317585302in"}
 
 If you think back, I tend to talked about that left hand side equals
 right hand side. With the left-hand side is a variable and the
@@ -1917,11 +1836,8 @@ there&#39;s more to it that we can do than just that.
 <p align="center">
   <img src="./images/image089.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
-![](images/image089.webp){width="4.0in"
-height="2.251709317585302in"}
 
 Here&#39;s a very simple assignment expression. I just had x=5 or in
 another example I said y=12. What&#39;s going on here is not an equal or a
@@ -1934,8 +1850,7 @@ x as well.
 <p align="center">
   <img src="./images/image090.webp"
   alt="."
-  style="border: 2px solid #000000;"
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 We also have arithmetic operators. Most of these are very straight
@@ -1956,8 +1871,13 @@ figure out how many times does 5 go into 13? That&#39;s 2, and what&#39;s left
 over? 13%5 is going to be 3. Go ahead and play with that if you&#39;d like,
 and type a few numbers in and see what kind of response you get.
 
-![](images/image091.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 91.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image091.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Some additional operators we have are the plus plus and minus minus.
 This is the increment and the decrement. It&#39;s the same thing as saying,
@@ -1969,8 +1889,13 @@ thing as saying x + = 2. It&#39;s just short hand you don&#39;t need to use
 it. But I wanted to show you just in case you see it in somebody else's
 code.
 
-![](images/image092.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 92.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image092.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 We talked about how plus will add two numbers together. That&#39;s only
 true if the operators on both sides are numbers. In some cases, we have
@@ -1985,8 +1910,13 @@ that your output is what you&#39;re expecting. The plus equals has the same
 effect as the plus equals from before. It just means take whatever I
 used to have and concatenate this new part on to it.
 
-![](images/image093.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 93.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image093.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Those first few operators, we use usually to assign values to a
 variable. Sometimes we use what we call Boolean operators to compare
@@ -5182,6 +5112,6 @@ no code associated with this lecture, but if you check under the
 resources, I do include a link to site where you can find specifics on
 the DOM.</p>
 
-<h6>Last Updated 12/28/23 5:00pm</h6>
+<h6>Last Updated 2/16/24 2:27pm</h6>
 
 <h5>the end...readme.md</h5>
