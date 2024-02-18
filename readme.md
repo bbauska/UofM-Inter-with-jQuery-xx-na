@@ -1,4 +1,4 @@
----
+ ---
 title:  |
   4. Interactivity with jQuery & JavaScript
 author: "bbauska"
@@ -1930,8 +1930,13 @@ true. There&#39;s also another short hand, which is the exclamation point
 equals. This is a negation or the opposite, it says, hey, make sure the
 value stored in x doesn&#39;t equal 5.
 
-![](images/image094.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 94.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image094.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 We also have more of the traditional greater than, greater than or equal
 to, less than, or less than or equal to, where they just compare the
@@ -1942,8 +1947,13 @@ JavaScript we don&#39;t really care about types too much. What happens if
 you want to see if a number is equal to something else, but you don&#39;t
 want it to say yes if it&#39;s a string?
 
-![](images/image095.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 95.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image095.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Here I&#39;ve got the equality statement that we used before, which is
 equal equal. If I were to say x == &#34;12&#34; the string, JavaScript would
@@ -1962,8 +1972,13 @@ type in some examples, play with the numbers, and try to fool yourself
 and give yourself tricky situations. If you can do that, then you&#39;ll
 feel comfortable moving on with these operators.
 
-![](images/image096.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image096.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let&#39;s do one last little group or two groups before we finish up. In
 this case, I have what we call the and and (&&). This stands for "and".
@@ -1981,8 +1996,13 @@ use the example that in America, you can&#39;t get into certain movies
 unless you&#39;re 18 or you&#39;re with your parents. So that would be a case
 where you only need one thing to be true.
 
-![](images/image097.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image097.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 When it comes to programming, it&#39;s not enough for you to just know the
 syntax of the language or the different rules, or even for you to listen
@@ -2033,17 +2053,26 @@ distinction between ***defining*** a function (writing the code) and
 ***calling*** a function (running the code at the precise time you want
 it to happen).
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week2-01">Week 2-01. Functions</h2>
-
-![](images/image098.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 98.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image098.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Today we&#39;re going to talk about functions. Functions are these bits of
 code that you can reuse over and over again by just coding what we call
 the function name.
-
-![](images/image099.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image099.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Functions of course, like everything else in programming, have special
 syntax that you need to follow. In order to declare a function so that
@@ -2070,8 +2099,13 @@ always write with your semicolons, your expression, your statements.
 It&#39;s just a really nice way to save it. You don&#39;t have to keep typing
 it over and over again.
 
-![](images/image100.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 100.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let me show you an example. In this case, I declared a function called
 **welcomeMsg**. And I didn&#39;t put anything inside the parenthesis.
@@ -2081,8 +2115,13 @@ Welcome to JavaScript. And this will work numerous times. I don&#39;t have
 to keep writing things over and over again. It&#39;s a small function, but
 it&#39;s something that will work.
 
-![](images/image101.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image101.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Here&#39;s another very similar function. The only difference is that, this
 time, I went ahead and I included a parameter list, which says, hey, now
@@ -2095,8 +2134,13 @@ where you use the keywords, the curly brackets, and the parenthesis.
 Declaring a function doesn&#39;t actually do anything for you though. You
 need to tell the computer when you want that function to run.
 
-![](images/image102.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 102.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image102.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 We do this by saying or we call the function. Every time you write the
 function name, you&#39;re telling the computer that you want to run that
@@ -2106,8 +2150,13 @@ by line. Now with functions, the computer is actually jumping around in
 memory and executing different parts of code, not necessarily in the
 order that you write them.
 
-![](images/image103.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 103.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image103.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Here&#39;s an example. I have my **welcomeMsg** function, the one with the
 parameters. Over here, in my HTML file, or JavaScript file, the file
@@ -2125,8 +2174,13 @@ code. Hopefully if you type this in and run it, you should get a hello
 and then a goodbye message. You could type putting in numbers or
 anything you&#39;d like instead if you prefer.
 
-![](images/image104.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 104.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image104.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let&#39;s talk a little bit more about those parameters that I talked
 about. Because sometimes some functions need a little bit of extra
@@ -2139,8 +2193,13 @@ thing to know is the names of the parameters for your functions,
 they&#39;re not important, they&#39;re like variable names. You can call them
 anything you want, as long as you&#39;re consistent.
 
-![](images/image105.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 105.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image105.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 The next thing to talk about, when we talk about functions, are return
 values. Some functions return values, others don&#39;t. But these values
@@ -2150,8 +2209,13 @@ functions that will say, hey, I need you to halt execution right now,
 because I don&#39;t want you to hit submit. I don&#39;t want you to be able to
 hit yes on that form.
 
-![](images/image106.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image106.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let&#39;s look an example of a function that returns a value. In this case,
 I&#39;ve written a simple function that takes your message that you want to
@@ -2166,8 +2230,13 @@ in order to assign values to valuables or to check conditional
 statements, and we&#39;re going to be using these a lot. I just need you to
 be aware of the term.
 
-![](images/image107.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image107.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let&#39;s review what we&#39;ve talked about with functions so far. Whenever
 possible, use built in functions. Sometimes when people are first
@@ -2194,18 +2263,26 @@ We&#39;re going to be using functions a lot in this class. You&#39;re going to
 be writing your own functions in the homework, and I&#39;m hoping that
 you&#39;ll be able to do this and feel like you&#39;re really starting to
 understand some of the power of JavaScript. Good luck.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week2-02">Week 2-02. Code Placement</h2>
-
-![](images/image108.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 108.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image108.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Today, we&#39;re going to talk not about new concepts, but really, putting
 our code in the best place to make it easier for you to follow what&#39;s
 going on.
-
-![](images/image109.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 109.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image109.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Up to this point, we&#39;ve been putting our JavaScript into the HTML body
 tag. Now, it&#39;s fine to start off that way, but as we get more and more
@@ -2217,8 +2294,13 @@ JavaScript code. And where you can put it, is you can leave it in the
 body, as we&#39;ve been doing, you can put your functions into the head
 section of your HTML code, or you can use an external file.
 
-![](images/image110.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 110.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image110.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 If you decide to put your JavaScript functions in the head section,
 that&#39;s a really great idea, because they&#39;re separated from the content
@@ -2235,8 +2317,13 @@ If you do this. If you put your code into the head section, don&#39;t
 worry, all of your function will still have access to all the document
 information, the ID&#39;s, the classes, etc.
 
-![](images/image111.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 111.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image111.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let&#39;s take a quick look at an example. As you can see, I have my head
 section and inside there, I have this script ending, script in ending
@@ -2250,8 +2337,13 @@ having the entire function written down here. Plus, for code reuse, you
 can now call the function multiple times, but only write it once up
 here.
 
-![](images/image112.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 112.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image112.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 If instead, you decide to put your JavaScript functions in an external
 file, then you can use that code multiple times in multiple files. The
@@ -2259,8 +2351,13 @@ one thing that&#39;s important to remember right from the start is again,
 when you&#39;re using external file, don&#39;t use the script tag. It&#39;s just
 the JavaScript, without any script tag.
 
-![](images/image113.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 113.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image113.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let&#39;s look at an example here. Here you can see, that inside the head
 section, I&#39;ve gone in and I&#39;m done with my script. But instead of
@@ -2280,8 +2377,13 @@ wrong, because the colors aren&#39;t the way you wanted or your text just
 isn&#39;t there. But with JavaScript, sometimes the changes you're making
 are so slight, you don&#39;t even realize that you have a problem.
 
-![](images/image114.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 114.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image114.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 It&#39;s very important, as your code becomes more and more complex, that
 you&#39;re using the console to debug your code. The console really is your
@@ -2289,8 +2391,13 @@ friend. I can&#39;t stress enough how much you always want to have it on
 while you&#39;re coding. Myself, sometimes I forget to turn it on and I&#39;m
 annoyed later, when I could have found my errors so much more easily.
 
-![](images/image115.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 115.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image115.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Another way that we can talk about separating your code into this
 external file from your HTML, is to use these different types of
@@ -2306,8 +2413,13 @@ If you&#39;re going to use CodePen, I always recommend that once you&#39;re
 done, take that code and put it into three separate files, so that
 you&#39;re sure you know how to link them together.
 
-![](images/image116.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image116.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Let&#39;s take a look. As you can see here, I have one window for my HTML
 code. One, for my CSS and one for my JavaScript. And code pen, takes
@@ -2315,15 +2427,25 @@ care of all the work of making sure that they&#39;re all together. If this
 is your first time ever using CodePen, I did want to point out, that
 there&#39;s this handy little function, that you can re-size the windows.
 
-![](images/image117.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image117.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 If you&#39;re not too concerned with your CSS right now, you can make that
 smaller. And really kind of focus, on what you&#39;re working on, in the
 HTML and the JS.
 
-![](images/image118.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image118.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 All right, let&#39;s review what we talked about today. The first thing, is
 that you need to feel comfortable with the idea that your JavaScript
@@ -2357,9 +2479,13 @@ The most common organization is to have one main folder with your HTML
 files in it. There are also three subfolders (folders inside the main
 folder) for your CSS, image, and JavaScript files.
 
-![Folder with subfolders nested
-within.](images/image119.webp){width="4.0in"
-height="1.304757217847769in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image119.webp"
+  alt="Folder with subfolders nested within."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 When we use CodePen we use that idea of separating our code. However, be
 aware that CodePen doesn&#39;t require many of the things you should have
@@ -2369,10 +2495,15 @@ sure to test your code later using the proper folder/file structure. You
 will need to include links to the style sheets, images, and any external
 JavaScript files.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week2-03">Week 2-03. Folder Structure / Organizing Your Code</h2>
-
-![](images/image120.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image120.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 I know that one of the most frustrating things that can happen when
 you&#39;re designing and developing your webpage is when you just can&#39;t
@@ -2381,8 +2512,13 @@ you&#39;re trying to link it to your style sheet, and they just don&#39;t seem
 to recognize each other. Today, we&#39;re going to talk about how web
 designers tend to organize and separate their code into different parts.
 
-![](images/image121.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image121.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 First, we always start off with a main folder that&#39;s going to hold your
 HTML code. In addition to your code, you&#39;re going to have a folder for
@@ -2393,9 +2529,13 @@ you have everything inside one big folder. But as you go on in web
 design, your fellow designers are going to expect that you have similar
 conventions to their own. you want to get used to doing things the right
 way, right from the beginning.
-
-![](images/image122.webp){width="4.0in"
-height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image122.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Here I&#39;ve got a quick picture of how I could organize the code using
 these different folders. I have ProjectOne, ProjectTwo, and
@@ -2407,8 +2547,13 @@ different files can talk to one another. And so, we&#39;re going to use the
 convention here, and I&#39;m going to show you how to make sure they can
 link together in the right way.
 
-![](images/image123.webp){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image123.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 2^nd^ line should be: **&lt;script
 src="js/javaFunctions.js"&gt;&lt;/script&gt;**
@@ -2432,8 +2577,13 @@ img. When you&#39;re linking your code with other people&#39;s code, make sure
 you do a quick check. And make sure that your folder names CSS,
 JavaScript, and images match what other people are expecting.
 
-![](images/image124.webp){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image124.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 When it comes to linking from your style sheet, it can be a little bit
 trickier. In the example I have here, we want to link to this holiday
@@ -2443,8 +2593,13 @@ folder. But the problem is, how do you tell the browser that the images
 folder is someplace different? In this example we go up 2 directories,
 find 'images' folder and pull from there. Done & done.
 
-![](images/image125.webp){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image125.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 If things aren&#39;t working for you in your folder structure, here&#39;s a
 few tips you can do just to see if we can find out where the issue is.
@@ -2462,18 +2617,27 @@ I&#39;m hoping that this is going to help you understand a little bit more
 how you can organize your code to make the best use of the different
 CSS, JavaScript, and images functions out there. Thanks.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="Week2-04">Week 2-04. Events</h2>
-
-![](images/image126.webp){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image126.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Hi everybody. One of the things we promise you in this course was that
 we&#39;d teach you how to do interactivity with JavaScript. Well, we
 finally reached that point where we can start having some fun and
 reacting to events that happened to your web page.
-
-![](images/image127.webp){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image127.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 Up to now it has been up to us to decide when the functions should
 execute. In our code, we put the script tags and we call those
@@ -2483,9 +2647,13 @@ do these events come from, well, they come from the JavaScript API. We
 can start doing things based on clicking, mouse movement, all these
 different types of dynamic function calls. Let&#39;s take a look at how we
 can do this.
-
-![](images/image128.webp){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image128.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 First, let&#39;s talk about just some of the events that we normally react
 to on a web page. The first one is **onclick**, it's very
@@ -2503,8 +2671,13 @@ to load that the JavaScript is done before the user can even see the
 page. This last one onload we are going to use quite a bit to make sure
 we are all seeing the exact same events.
 
-![](images/image129.webp){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image129.webp"
+  alt="."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
 
 All right, so how does this work? We know that any element can react to
 an event. Well, we need to add code to our HTML that links the events
