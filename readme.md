@@ -71,7 +71,7 @@ output:
 >### 2.03 [**Creating a Click Handler**](#ch2-03)
 >### 2.04 [**Adding the Animation**](#ch2-04)
 >### 2.05 [**Add Some Easing and a Callback Function**](#ch2-05)
->### 2.06 [***Highlighting Elements*](#ch2-06)
+>### 2.06 [**Highlighting Elements**](#ch2-06)
 >### 2.07 [**Intro to Page Location Tracking**](#ch2-07)
 >### 2.08 [**The Crux of the Problem**](#ch2-08)
 >### 2.09 [**Strategy**](#ch2-09)
@@ -135,7 +135,7 @@ output:
 >### 4.13 [**Final Clean-Up**](#ch4-13)
 >### 4.14 [**Extending the Game**](#ch4-14)
 >### 4.15 [**Course Summary**](#ch4-15)
-<!--->
+
 <h2>About this Course</h2>
 
 If you want to take your website to the next level, the ability to
