@@ -1,4 +1,4 @@
- ---
+---
 title:  |
   4. Interactivity with jQuery & JavaScript
 author: "bbauska"
