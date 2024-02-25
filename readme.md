@@ -1,240 +1,141 @@
-![Interactivity with JavaScript - Reviews & Coupon - Java Code
-Geeks](./images/media/image1.jpeg){width="2.0in" height="2.0in"}
-
-![Advanced Styling with Responsive Design offered by University of
-Michigan.](./images/media/image2.png){width="2.0in"
-height="0.8481014873140857in"}
-
-# Table of Contents {#table-of-contents .TOC-Heading}
-
-[About this Course [1](#about-this-course)](#about-this-course)
-
-[Syllabus [1](#syllabus)](#syllabus)
-
-[Week One: Data Types [1](#week-one-data-types)](#week-one-data-types)
-
-[Week Two: Reacting to Your Audience
-[2](#week-two-reacting-to-your-audience)](#week-two-reacting-to-your-audience)
-
-[Week Three: Arrays and Looping
-[3](#week-three-arrays-and-looping)](#week-three-arrays-and-looping)
-
-[Week Four: Using JS for Interactive Images
-[3](#week-four-using-js-for-interactive-images)](#week-four-using-js-for-interactive-images)
-
-[WEEK 1 -- DATA TYPES [5](#week-1-data-types)](#week-1-data-types)
-
-[1-00. Learning Objectives
-[5](#learning-objectives)](#learning-objectives)
-
-[1-01. Introduction [5](#introduction)](#introduction)
-
-[1.01.Link to All of the Code for Week One
-[10](#link-to-all-of-the-code-for-week-one)](#link-to-all-of-the-code-for-week-one)
-
-[1.01.The Document Object Model (DOM)
-[10](#the-document-object-model-dom)](#the-document-object-model-dom)
-
-[Examples: [10](#examples)](#examples)
-
-[1-02. DOM Review with Object Oriented Programming
-[11](#dom-review-with-object-oriented-programming)](#dom-review-with-object-oriented-programming)
-
-[Accessing the DOM Methods
-[16](#accessing-the-dom-methods)](#accessing-the-dom-methods)
-
-[Methods that return a single value
-[16](#methods-that-return-a-single-value)](#methods-that-return-a-single-value)
-
-[Methods that return a collection of elements
-[17](#methods-that-return-a-collection-of-elements)](#methods-that-return-a-collection-of-elements)
-
-[Using getElement vs querySelector
-[17](#using-getelement-vs-queryselector)](#using-getelement-vs-queryselector)
-
-[1.02.Newer DOM Methods (4:32)
-[17](#newer-dom-methods-432)](#newer-dom-methods-432)
-
-[Semicolons [20](#semicolons)](#semicolons)
-
-[1.04. Output (13:03) [20](#output-1303)](#output-1303)
-
-[What happens if I change the code to Hello World Too?
-[32](#what-happens-if-i-change-the-code-to-hello-world-too)](#what-happens-if-i-change-the-code-to-hello-world-too)
-
-[Trying to Create and Debug Your Own Output
-[35](#trying-to-create-and-debug-your-own-output)](#trying-to-create-and-debug-your-own-output)
-
-[1.04. Variables [36](#variables)](#variables)
-
-[1.05. Data Types [46](#data-types)](#data-types)
-
-[1.06. Operators & Expressions (8:26)
-[53](#operators-expressions-826)](#operators-expressions-826)
-
-[WEEK 2 -- FUNCTIONS & EVENTS
-[60](#week-2-functions-events)](#week-2-functions-events)
-
-[2.00.Learning Objectives
-[60](#learning-objectives-1)](#learning-objectives-1)
-
-[2.00.Link to All of the Code for Week Two
-[60](#link-to-all-of-the-code-for-week-two)](#link-to-all-of-the-code-for-week-two)
-
-[Code [60](#code)](#code)
-
-[2.00.Lecture Slides [60](#lecture-slides)](#lecture-slides)
-
-[Share Your Tips [61](#share-your-tips)](#share-your-tips)
-
-[2.00.The History of \"Debugging\"
-[61](#the-history-of-debugging)](#the-history-of-debugging)
-
-[2.00.Functions [61](#functions)](#functions)
-
-[2.01. Functions (7:18) [61](#functions-718)](#functions-718)
-
-[2.02. Code Placement (6:32)
-[67](#code-placement-632)](#code-placement-632)
-
-[2.02.Organizing Your Code
-[74](#organizing-your-code)](#organizing-your-code)
-
-[Code Placement [74](#code-placement)](#code-placement)
-
-[2.03. Folder Structure / Organizing Your Code (5:33)
-[74](#folder-structure-organizing-your-code-533)](#folder-structure-organizing-your-code-533)
-
-[2.04. Events (10:05) [78](#events-1005)](#events-1005)
-
-[2.04.Mastering Events and Functions
-[87](#mastering-events-and-functions)](#mastering-events-and-functions)
-
-[Events [87](#events)](#events)
-
-[2.05. Code With Me: Events (7:46)
-[88](#code-with-me-events-746)](#code-with-me-events-746)
-
-[Just a little note before the next lesson (2.05)
-[98](#just-a-little-note-before-the-next-lesson-2.05)](#just-a-little-note-before-the-next-lesson-2.05)
-
-[2.06. "this" (9:30) [99](#this-930)](#this-930)
-
-[2.06.Homework Time!! [106](#homework-time)](#homework-time)
-
-[Overview [106](#overview)](#overview)
-
-[Instructions [106](#instructions)](#instructions)
-
-[Grading [107](#grading)](#grading)
-
-[2.07. Photo Gallery (5:53)
-[108](#photo-gallery-553)](#photo-gallery-553)
-
-[2.07.Resources [114](#resources)](#resources)
-
-[Readings [115](#readings)](#readings)
-
-[WEEK 3 -- ARRAYS & LOOPING
-[115](#week-3-arrays-looping)](#week-3-arrays-looping)
-
-[3.00.Learning Objectives
-[115](#learning-objectives-2)](#learning-objectives-2)
-
-[3.00.Link to All of the Code for Week Three
-[115](#link-to-all-of-the-code-for-week-three)](#link-to-all-of-the-code-for-week-three)
-
-[Arrays [115](#arrays)](#arrays)
-
-[Resources [116](#resources-1)](#resources-1)
-
-[Readings [116](#readings-1)](#readings-1)
-
-[3.00.Code [116](#code-1)](#code-1)
-
-[3.00.A JavaScript Cheat Sheet
-[116](#a-javascript-cheat-sheet)](#a-javascript-cheat-sheet)
-
-[Tabindex and Accessibility
-[116](#tabindex-and-accessibility)](#tabindex-and-accessibility)
-
-[Using JavaScript with Attributes
-[117](#using-javascript-with-attributes)](#using-javascript-with-attributes)
-
-[getAttribute [117](#getattribute)](#getattribute)
-
-[setAttribute [118](#setattribute)](#setattribute)
-
-[Arrays [118](#arrays-1)](#arrays-1)
-
-[3.01. JavaScript Arrays (7:12)
-[119](#javascript-arrays-712)](#javascript-arrays-712)
-
-[3.02. Code With Me: Arrays (5:18)
-[124](#code-with-me-arrays-518)](#code-with-me-arrays-518)
-
-[WEEK 4: Using JS for Interactive Images
-[128](#week-4-using-js-for-interactive-images)](#week-4-using-js-for-interactive-images)
-
-[4.00.Learning Objectives
-[128](#learning-objectives-3)](#learning-objectives-3)
-
-[4.00.Code [129](#code-2)](#code-2)
-
-[4.00.Resources [129](#resources-2)](#resources-2)
-
-[Accessibility Testing Options
-[129](#accessibility-testing-options)](#accessibility-testing-options)
-
-[4.00.Lecture Slides [129](#lecture-slides-1)](#lecture-slides-1)
-
-[Writing loops in JavaScript
-[129](#writing-loops-in-javascript)](#writing-loops-in-javascript)
-
-[Advanced Coding Techniques
-[130](#advanced-coding-techniques)](#advanced-coding-techniques)
-
-[4.01. Code With Me: Randomizing Your Images Using Arrays (8:10)
-[130](#code-with-me-randomizing-your-images-using-arrays-810)](#code-with-me-randomizing-your-images-using-arrays-810)
-
-[4-02. Code With Me: Using LightBox (9:48)
-[139](#code-with-me-using-lightbox-948)](#code-with-me-using-lightbox-948)
-
-[4-03. Code With Me: Looping Through Images (8:07)
-[149](#code-with-me-looping-through-images-807)](#code-with-me-looping-through-images-807)
-
-[4.03.\"Cool Stuff\" - Friend or Foe?
-[156](#cool-stuff---friend-or-foe)](#cool-stuff---friend-or-foe)
-
-[4.03.Final Project Description
-[156](#final-project-description)](#final-project-description)
-
-[Overview [156](#overview-1)](#overview-1)
-
-[Instructions [157](#instructions-1)](#instructions-1)
-
-[Auditing [157](#auditing)](#auditing)
-
-[4-04. Final Project Description
-[158](#final-project-description-1)](#final-project-description-1)
-
-[4.04.Final Project: Submission Gallery
-[161](#final-project-submission-gallery)](#final-project-submission-gallery)
-
-[Optional ungraded submission
-[162](#optional-ungraded-submission)](#optional-ungraded-submission)
-
-[Submitting your file to the Gallery
-[162](#submitting-your-file-to-the-gallery)](#submitting-your-file-to-the-gallery)
-
-[4.04.Navigating the Gallery
-[162](#navigating-the-gallery)](#navigating-the-gallery)
-
-[4-05. Conclusion [163](#conclusion)](#conclusion)
-
-# 
-
-## About this Course
+---
+title:  |
+  3. Interactivity with jQuery & JavaScript
+author: "bbauska"
+date last editted: "2/24/2024 10+pm"
+output: 
+  markdown:
+    with some style
+---
+
+<h2>NO LONGER AVAILABLE ON COURSERA NOR UNIVERSITY OF MICHIGAN</h2>
+<h1 align="center">Interactivity with jQuery &amp; JavaScript</h1>
+<h6 align="center">(by Colleen van Lent, Ph.D. University of Michigan)</h6>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-inter-with-js.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 01. javascript logo for university of michigan (i) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image001.jpeg"
+  alt="JavaScript logo for University of Michigan."
+  style="border: 2px solid #000000; width:40%;" />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (i) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image002.png" 
+  alt="University of Michigan logo."
+  style="border: 2px solid #000000; width:20%;" />
+</p>
+
+<h2><a href="#table-of-contents">Table of Contents</a></h2>
+
+## [**About**](#cha)
+>### - [**About**](#cha-1)
+>### - [**Source Code for Each Week**](#cha-2)
+>### - [**Course Slides**](#cha-3)
+
+## [**Course Information**](#chb)
+>### * [**Syllabus**](#chb-1)
+>### * [**Resources**](#chb-2)
+>### * [**Fluid Measurements background readings**](#chb-3)
+>### * [**Pixel to Em conversion tool**](#chb-4)
+>### * [**Dynamically change size of font with sliders**](#chb-5)
+>### * [**Good Examples of Responsive Design**](#chb-6)
+>### * [**Media Queries and Breakpoints**](#chb-7)
+>### * [**Demystifying Bootstrap**](#chb-8)
+>### * [**Grid System Check**](#chb-9)
+>### * [**The Evolution of the Airbnb front-end development**](#chb-10)
+>### * [**Debugging Your Style**](#chb-11)
+>### * [**More Resources for Learning to Debug/Develop**](#chb-12)
+
+## [**Week 1: jQuery PLugins and Capturing the Scroll Event**](#ch1)
+>### 1.01 [**Welcome to this Course!**](#ch1-01)
+>### 1.02 [**Module 1 Introduction**](#ch1-02)
+>### 1.03 [**Intro to jQuery Plugins**](#ch1-03)
+>### 1.04 [**Using Plugins and Essential Steps**](#ch1-04)
+>### 1.05 [**Gotchas and Rookie Mistakes**](#ch1-05)
+>### 1.06 [**FlexSlider: A jQuery Plugin**](#ch1-06)
+>### 1.07 [**About the Minified Version**](#ch1-07)
+>### 1.08 [**Adding Markup &amp; Hooking Up the Slider**](#ch1-08)
+>### 1.09 [**FlexSlider Rules**](#ch1-09)
+>### 1.10 [**Additional Controls**](#ch1-10)
+>### 1.11 [**Advanced FlexSlider**](#ch1-11)
+>### 1.12 [**Additional Styling**](#ch1-12)
+>### 1.13 [**Styling the CTA**](#ch1-13)
+
+## [**Week 2: Combining Scripts and Skill Building Through Practice**](#ch2)
+>### 2.01 [**Module 2 Introduction**](#ch2-01)
+>### 2.02 [**Intro to Smooth Scroll with jQuery**](#ch2-02)
+>### 2.03 [**Creating a Click Handler**](#ch2-03)
+>### 2.04 [**Adding the Animation**](#ch2-04)
+>### 2.05 [**Add Some Easing and a Callback Function**](#ch2-05)
+>### 2.06 [**Highlighting Elements**](#ch2-06)
+>### 2.07 [**Intro to Page Location Tracking**](#ch2-07)
+>### 2.08 [**The Crux of the Problem**](#ch2-08)
+>### 2.09 [**Strategy**](#ch2-09)
+>### 2.10 [**Adding PageTop and If Statements**](#ch2-10)
+>### 2.11 [**Writing the Else/If Statement - Part 1**](#ch2-11)
+>### 2.12 [**Writing the Else/If Statement - Part 2**](#ch2-12)
+>### 2.13 [**Edge Case Issues**](#ch2-13)
+>### 2.14 [**Resizing Your Window**](#ch2-14)
+>### 2.15 [**Resetting the Counter**](#ch2-15)
+>### 2.16 [**resetPagePosition Function**](#ch2-16)
+>### 2.17 [**Reviewing the Whole Script**](#ch2-17)
+>### 2.18 [**Intro to Scroll Effects with JS**](#ch2-18)
+>### 2.19 [**Getting the Target - Part 1**](#ch2-19)
+>### 2.20 [**Getting the Target - Part 2**](#ch2-20)
+>### 2.21 [**Smooth Scroll Polyfill**](#ch2-21)
+>### 2.22 [**Checking the Load**](#ch2-22)
+>### 2.23 [**Top Posts**](#ch2-23)
+>### 2.24 [**Add an Event Listener**](#ch2-24)
+>### 2.25 [**The Magic Conditionals**](#ch2-25)
+>### 2.26 [**Changing the Next Link**](#ch2-26)
+>### 2.27 [**Resizing Function**](#ch2-27)
+>### 2.28 [**Finalizing the Script**](#ch2-28)
+>### 2.29 [**Scription Site Introduction**](#ch2-29)
+>### 2.30 [**Header HTML**](#ch2-30)
+>### 2.31 [**Pricing HTML**](#ch2-31)
+>### 2.32 [**Beginning Styling**](#ch2-32)
+>### 2.33 [**Styling That Attaches to Whole Page**](#ch2-33)
+>### 2.34 [**Slider Styling**](#ch2-34)
+>### 2.35 [**Pricing Styles**](#ch2-35)
+>### 2.36 [**Tablet Styles**](#ch2-36)
+>### 2.37 [**Media Query for 1020 Pixels Wide**](#ch2-37)
+>### 2.38 [**Media Query for 1200 Pixels Wide**](#ch2-38)
+>### 2.39 [**Scription Site: Building Interactive Elements Challenges**](#ch2-39)
+
+## [**Week 3: Intro to Objects &amp; Data in JavaScript**](#ch3)
+>### 3.01 [**Module 3 Introduction**](#ch3-01)
+>### 3.02 [**Introduction to Objects and Data in JS**](#ch3-02)
+>### 3.03 [**Objects Can Contain Arrays and Other Objects**](#ch3-03)
+>### 3.04 [**Functions Inside Objects Equals Methods**](#ch3-04)
+>### 3.05 [**Putting Objects and Functions Together**](#ch3-05)
+>### 3.06 [**Data Formats - XML**](#ch3-06)
+>### 3.07 [**Example File**](#ch3-07)
+>### 3.08 [**Intro to Pig Dice Game**](#ch3-08)
+>### 3.09 [**Play the Game of Pig**](#ch3-09)
+>### 3.10 [**Version One**](#ch3-10)
+>### 3.11 [**Other Versions**](#ch3-11)
+
+## [**Week 4: Building a Simple Game in JavaScript**](#ch4)
+>### 4.01 [**Module 4 Introduction**](#ch4-01)
+>### 4.02 [**Intro to the Game of Pig**](#ch4-02)
+>### 4.03 [**Start the Game**](#ch4-03)
+>### 4.04 [**Set Up the Turn**](#ch4-04)
+>### 4.05 [**Throwing the Dice**](#ch4-05)
+>### 4.06 [**Test Throwing the Dice**](#ch4-06)
+>### 4.07 [**Add the Selection Statements**](#ch4-07)
+>### 4.08 [**Snake Eyes!**](#ch4-08)
+>### 4.09 [**A '1' Was Rolled**](#ch4-09)
+>### 4.10 [**The Else Statement**](#ch4-10)
+>### 4.11 [**Checking for a Win**](#ch4-11)
+>### 4.12 [**Show the Current Score**](#ch4-12)
+>### 4.13 [**Final Clean-Up**](#ch4-13)
+>### 4.14 [**Extending the Game**](#ch4-14)
+>### 4.15 [**Course Summary**](#ch4-15)
+
+<h2>About this Course</h2>
 
 If you want to take your website to the next level, the ability to
 incorporate interactivity is a must. But adding some of these types of
@@ -260,9 +161,9 @@ A basic understanding of HTML and CSS is expected when you enroll in
 this class. Additional courses focus on enhancing the styling with
 responsive design and completing a capstone project.
 
-# Syllabus
+<h2>Syllabus</h2>
 
-## Week One: Data Types
+<h3>Week One: Introduction to JavaScript</h3>
 
 If you haven\'t used a traditional programming language before, this
 first week is key. Before we begin with the how, we will talk about the
@@ -275,47 +176,36 @@ yet, but it will be a great way to get your feet wet with traditional
 programming. After that we go back to the basics of how a computer uses
 data. We begin with variables, expressions, and operators.
 
-**Syllabus**
+1.  <b>Syllabus</b>
 
-1.  **[Introduction](https://www.coursera.org/lecture/javascript/introduction-EYX66)\*
-    (4:28) (1)**
+2.  <b>[Introduction](https://www.coursera.org/lecture/javascript/introduction-EYX66)&ast;
+    (1)</b>
 
--   1.01.Link to All of the Code for Week One
+3.  <b>Link to All of the Code for Week One</b>
 
--   1.01.The Document Object Model (DOM)
+4.  <b>The Document Object Model (DOM)</b>
 
-2.  **DOM Review with Object Oriented Programming\* (6:32) (2)**
+5.  <b>DOM Review with Object Oriented Programming&ast; (2)</b>
 
--   1.02.Accessing the DOM Methods
+6.  <b>Output&ast; (3)</b>
 
-```{=html}
-<!-- -->
-```
--   1.02.Newer DOM Methods
+7.  <b>Trying to Create and Debug Your Own Output</b>
 
--   1.02.Semicolons
+8.  <b>Variables&ast; (4)</b>
 
--   1.02.Accessing the DOM Methods
+9.  <b>Data Types&ast; (5)</b>
 
-3.  **Output\* (3)**
+10. <b>Operators and Expressions&ast; (6)</b>
 
--   1.03.Trying to Create and Debug Your Own Output
+11. <b>Discussion - CodePen</b>
 
-4.  **Variables\* (4)**
+12. <b>Materials</b>
 
-5.  **Data Types\* (5)**
+13. <b>The History of &#34;Debugging&#34;</b>
 
-6.  **Operators and Expressions\* (6)**
+<b>Summary:</b> Introduction to JavaScript
 
--   1.06.Discussion - CodePen
-
--   1.06.Materials
-
--   1.06.The History of \"Debugging\"
-
-**Summary: **Week One
-
-## Week Two: Reacting to Your Audience
+<h3>Week Two: Reacting to Your Audience</h3>
 
 If you have written HTML code in the past, hopefully you have fallen
 into the great habit of validating your code \-- making sure that you
@@ -329,36 +219,36 @@ particular you will learn about the JavaScript Mouse Events and Touch
 Events. This week\'s materials will end with a photo gallery example
 that you can create along with me.
 
--   2.00.Link to All of the Code for Week Two
+1.  <b>Reading: </b>Link to All of the Code for Week Two
 
--   2.00.Functions
+2.  <b>Reading: </b>Functions
 
-1.  **[Functions](https://www.coursera.org/lecture/javascript/functions-Ltkbl)\*
-    (1)**
+3.  [<b>Functions</b>](https://www.coursera.org/lecture/javascript/functions-Ltkbl)&ast;
+    (1)
 
-2.  **Code Placement\* (2)**
+4.  <b>Video: </b>Code Placement&ast; (2)
 
--   2.02.Organizing Your Code
+5.  <b>Reading: </b>Organizing Your Code
 
-3.  **Folder Structure / Organizing Your Code\* (3)**
+6.  <b>Video: </b>Folder Structure / Organizing Your Code&ast; (3)
 
-4.  **Events\* (4)**
+7.  <b>Video: </b>Events&ast; (4)
 
--   2.04.Mastering Events and Functions
+8.  <b>Reading: </b>Mastering Events and Functions
 
-5.  **Code With Me: Events\* (5)**
+9.  <b>Video: </b>Code With Me -- Events&ast; (5)
 
--   2.05.Just a little note before the next video
+10. <b>Reading: </b>Just a little note before the next video
 
-6.  **\"this\"\* (6)**
+11. <b>Video: </b>&#34;this&#34;&ast; (6)
 
--   2.06.Homework Time!!
+12. <b>Reading: </b>Homework Time!!
 
-7.  **Photo Gallery\* (7)**
+13. <b>Video: </b>Photo Gallery&ast; (7)
 
-**Summary: **JavaScript Interactive Photo Gallery
+<b>Summary: </b>JavaScript Interactive Photo Gallery
 
-## Week Three: Arrays and Looping
+<h3>Week Three: Arrays and Looping</h3>
 
 This week we will delve into more complex programming concepts: arrays
 and looping. Arrays allow you to represent groups of related
@@ -497,7 +387,7 @@ in the time we have. We will focus on the following:
 
 # 1-01. Introduction
 
-![](./images/media/image3.png){width="4.0in"
+![](./images/image003.png){width="4.0in"
 height="2.2512817147856516in"}
 
 Hi everybody. Today I\'m going to introduce you to the JavaScript
@@ -508,7 +398,7 @@ there is an expectation that you know HTML 5 and CSS 3. If you don\'t,
 you\'re going to want to go back and review those two areas because
 everything we with JavaScript in this class is based on web programming.
 
-![](./images/media/image4.png){width="4.0in"
+![](./images/image004.png){width="4.0in"
 height="2.241453412073491in"}
 
 If you\'ve done HTML, if you\'ve done CSS, you haven\'t necessarily done
@@ -525,7 +415,7 @@ back the title of the page, the URL of your page, a lot of different
 information that you know is there, but you can\'t always see at first
 glance?
 
-![](./images/media/image5.png){width="4.0in"
+![](./images/image005.png){width="4.0in"
 height="2.241453412073491in"}
 
 The other thing we can do, which is really where it gets a little bit
@@ -534,7 +424,7 @@ to create webpages. The DOM is the Document Object Model, it\'s what
 builds up a webpage. If you\'re a little fuzzy, it\'s been a little
 while, don\'t worry. We\'re going to review the DOM in a future lecture.
 
-![](./images/media/image6.png){width="4.0in"
+![](./images/image006.png){width="4.0in"
 height="2.241453412073491in"}
 
 Let\'s start with variables. In computer science, we use variables in
@@ -543,7 +433,7 @@ exciting if you ask somebody their name and then you can\'t actually use
 that name later on. You\'re going to find out how to get information
 from the user, and then store it so you can use it later.
 
-![](./images/media/image7.png){width="4.0in"
+![](./images/image007.png){width="4.0in"
 height="2.241453412073491in"}
 
 We\'re also going to add decision points. Things are much more
@@ -552,7 +442,7 @@ going to write a little bit of code that can help the program decide in
 some cases I want to do this and in other cases, I want to do that. We
 call this decision points.
 
-![](./images/media/image8.png){width="4.0in"
+![](./images/image008.png){width="4.0in"
 height="2.241453412073491in"}
 
 We can also do looping. Looping is really powerful. As your programs get
@@ -563,7 +453,7 @@ program and say, see that little bit of code over there? We want to do
 that five times, or ten times, or we want to keep doing it until the
 human does what we want them to do.
 
-![](./images/media/image9.png){width="4.0in"
+![](./images/image009.png){width="4.0in"
 height="2.241453412073491in"}
 
 Otherwise, you sometimes have to decide at run time how many times you
@@ -571,7 +461,7 @@ want to run some code. If you know that you want someone to do something
 five times, you can be very specific about it. Programming gives you so
 much flexibility in how you want your code to run.
 
-![](./images/media/image10.png){width="4.0in"
+![](./images/image010.png){width="4.0in"
 height="2.241453412073491in"}
 
 Next in this course we\'re going to talk about functions. Functions are
@@ -581,7 +471,7 @@ people can write code and you can use it, and you don\'t even need to
 know how it works. All you need to know is, what did you call your
 function? Great. I want to use that.
 
-![](./images/media/image11.png){width="4.0in"
+![](./images/image011.png){width="4.0in"
 height="2.241453412073491in"}
 
 Finally, we\'re going to talk about manipulating the DOM. JavaScript can
@@ -597,7 +487,7 @@ the user might have. This is where it really gets fun. We\'re going to
 start with the basics, the variables, the loopings, and then we\'re
 going to have fun manipulating the DOM.
 
-![](./images/media/image12.png){width="4.0in"
+![](./images/image012.png){width="4.0in"
 height="2.241453412073491in"}
 
 A major component of learning any new programming language, or I guess,
@@ -648,13 +538,13 @@ the DOM.
 
 # 1-02. DOM Review with Object Oriented Programming
 
-![](./images/media/image13.png){width="4.0in"
+![](./images/image013.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Today we\'re going to be talking about the DOM, or the document object
 model.
 
-![](./images/media/image14.png){width="4.0in"
+![](./images/image014.png){width="4.0in"
 height="2.2440168416447945in"}
 
 As you may or may not remember, every webpage is built upon this DOM.
@@ -663,7 +553,7 @@ one parent and possibly a few children. And the page as you add more and
 more things it just gets deeper and deeper. Nodes have different
 properties, methods, and events.
 
-![](./images/media/image15.png){width="4.0in"
+![](./images/image015.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Let me draw you a quick example and then we\'ll talk about how we can
@@ -678,7 +568,7 @@ We\'ll say, well this div has three paragraphs and one of those
 paragraphs has the id equals 3. What does this mean? Why do we care that
 the pages built like a tree?
 
-![](./images/media/image16.png){width="4.0in"
+![](./images/image016.png){width="4.0in"
 height="2.2440168416447945in"}
 
 This means that JavaScript can actually go in and it can look and say,
@@ -693,14 +583,14 @@ of font, the paragraph also has text in it. How can we go in there and
 how can we change that text? This is what we\'re going to be using
 JavaScript to do in this course.
 
-![](./images/media/image17.png){width="4.0in"
+![](./images/image017.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Again, we\'ve got that the page content is represented by the DOM. The
 scripting language JavaScript uses the DOM to interact with the
 document. How does it do that, though? How does it know how to interact?
 
-![](./images/media/image18.png){width="4.0in"
+![](./images/image018.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Well, the JavaScript has something called an API, or an application
@@ -711,7 +601,7 @@ intimidating if you\'ve never used one before. An API is just a way for
 someone else to write code, and then you to use it, to interact with
 their programs.
 
-![](./images/media/image19.png){width="4.0in"
+![](./images/image019.png){width="4.0in"
 height="2.2440168416447945in"}
 
 No matter which browser you\'re using, Firefox, Chrome, different things
@@ -721,7 +611,7 @@ you interact is always going to be the same. And this is really
 important, because it\'s nice to know that if you learn this you won\'t
 have to learn something different later on.
 
-![](./images/media/image20.png){width="4.0in"
+![](./images/image020.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Let\'s talk about some of these DOM objects or element as we call them.
@@ -759,7 +649,7 @@ have **width**, and a **style**, different things like that.
 Attributes are the kind of cool things that we want you to be able to
 change to make your page look different.
 
-![](./images/media/image21.png){width="4.0in"
+![](./images/image021.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Okay, so if you understand that the page is made up of documents, and
@@ -781,7 +671,7 @@ Finally, an interesting one that you may or may not use, is you can even
 remove attributes. If something has a certain color, you can get rid of
 that if you want.
 
-![](./images/media/image22.png){width="4.0in"
+![](./images/image022.png){width="4.0in"
 height="2.2440168416447945in"}
 
 I know that there was a lot I went over in this slide that maybe didn\'t
@@ -886,7 +776,7 @@ getElementById](https://dev.to/eidorianavi/queryselector-vs-getelementbyid-gm1)
 
 ## 1.02.Newer DOM Methods (4:32)
 
-## ![](./images/media/image23.png){width="4.0in" height="2.2051279527559053in"}
+## ![](./images/image023.png){width="4.0in" height="2.2051279527559053in"}
 
 Hi everyone. Part of being a coder is realizing that you\'ve been using
 the same code for a long time and that there\'s probably some newer
@@ -894,7 +784,7 @@ things out there. This is just a quick video to throw out there some new
 methods that you might be seeing, or that you might want to use
 yourself.
 
-![](./images/media/image24.png){width="4.0in"
+![](./images/image024.png){width="4.0in"
 height="2.121367016622922in"}
 
 We\'ve been using **getElementById()**. How it works is that it takes a
@@ -918,7 +808,7 @@ I wanted to mention it right off the bat. If you\'re looking to select a
 single element, you can continue to use **getElementById,** or you can
 start to play around and use **querySelector** as well.
 
-![](./images/media/image25.png){width="4.0in"
+![](./images/image025.png){width="4.0in"
 height="2.1183759842519687in"}
 
 If you want to select multiple elements, well, there\'s something called
@@ -936,7 +826,7 @@ writing in your CSS. If you can write a selector to style something,
 then you can definitely write a selector for JavaScript to grab it to
 manipulate the DOM.
 
-![](./images/media/image26.png){width="4.0in"
+![](./images/image026.png){width="4.0in"
 height="2.1183759842519687in"}
 
 Which one should you use? Should you be using **querySelector** and
@@ -974,7 +864,7 @@ same time and the semicolon is required in some and not others.
 
 # 1.03. Output (13:03)
 
-![](./images/media/image27.png){width="4.0in"
+![](./images/image027.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Hi everybody. Today, let\'s start coding a little bit to see some of
@@ -984,14 +874,14 @@ the details tag if you\'re using HTML. There\'s the hover property or
 pseudo class if you\'re using CSS 3 and you were able to make little
 things change in your page by reacting to what the user was doing.
 
-![](./images/media/image28.png){width="4.0in"
+![](./images/image028.png){width="4.0in"
 height="2.2440168416447945in"}
 
 But typically, that\'s not really what we call interactivity when we\'re
 talking about true web design because these new elements and the pseudo
 classes can only go so far. They tend to be temporary changes.
 
-![](./images/media/image29.png){width="4.0in"
+![](./images/image029.png){width="4.0in"
 height="2.2440168416447945in"}
 
 What can JavaScript do that HTML and CSS can\'t do? Well, the one that
@@ -1005,7 +895,7 @@ Whenever you learn a new programming language, one of the first things
 you want to do is find out how can I make things happen. How can I have
 things print out to the screen or generate some sort of output.
 
-![](./images/media/image30.png){width="4.0in"
+![](./images/image030.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Well, JavaScript doesn\'t have a built-in print function. Instead, you
@@ -1014,7 +904,7 @@ things. Data is typically displayed via alerts, prompts**,
 document.write, innertHTML** or reading information directly to the
 console. Let\'s talk about each one of these.
 
-![](./images/media/image31.png){width="4.0in"
+![](./images/image031.png){width="4.0in"
 height="2.2440168416447945in"}
 
 You\'ve all seen alert JavaScript alert boxes. Because many times,
@@ -1032,7 +922,7 @@ single quotes or double quotes. And then, the last thing is, to end in a
 semicolon. If you were to put this code right here inside your HTML, you
 can generate some output.
 
-![](./images/media/image32.png){width="5.0in"
+![](./images/image032.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Let me show you an example. What I\'ve done over here is I\'ve created
@@ -1042,7 +932,7 @@ tag tells the browser, oh wait, don\'t just print this out, I\'m
 actually going to give you some JavaScript that I want you to run. And
 in this case, I have my code **alert**(\"Hello World\").
 
-![](./images/media/image33.png){width="5.0in"
+![](./images/image033.png){width="5.0in"
 height="2.8050207786526684in"}
 
 If I were to run this, and I\'m going to refresh it. You can see I get
@@ -1051,7 +941,7 @@ home, and you\'re not using Chrome, the box is going to look different.
 For some of you it\'s going to have the little Safari symbol, or the
 Edge, or Firefox.
 
-![](./images/media/image34.png){width="5.0in"
+![](./images/image034.png){width="5.0in"
 height="2.8050207786526684in"}
 
 That\'s okay, the important thing is that somewhere in here it says
@@ -1061,7 +951,7 @@ class we\'re going to be playing with alert a lot because it\'s a nice
 way for you to know if your code\'s working or not. Again, this is just
 a quick and simple way for you to generate output using the alert.
 
-![](./images/media/image35.png){width="4.0in"
+![](./images/image035.png){width="4.0in"
 height="2.2440168416447945in"}
 
 The next way we can generate output is using **prompt**. **Prompt** is
@@ -1072,7 +962,7 @@ prompt look very similar. They\'ve both got the key word, the
 parentheses, the semicolon and the string, but the way they act is very
 different.
 
-![](./images/media/image36.png){width="5.0in"
+![](./images/image036.png){width="5.0in"
 height="2.8050207786526684in"}
 
 In this case when you run it, it\'s actually waiting for you to type
@@ -1084,7 +974,7 @@ box where you can display information, but nothing is actually showing
 up on the page. Let\'s switch to the general ways in which you can
 generate output to the screen.
 
-![](./images/media/image37.png){width="4.0in"
+![](./images/image037.png){width="4.0in"
 height="2.2440168416447945in"}
 
 One way, if you want something to be what we call permanent, to not just
@@ -1099,14 +989,14 @@ worked by itself, but here you need to have **document.write()**. Same
 thing, hopefully you\'re seeing the pattern. Let\'s see when we add
 this.
 
-![](./images/media/image38.png){width="5.0in"
+![](./images/image038.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Here you can see that inside the script tag, again, I have the
 **document.write()**. But instead of things popping up or asking us for
 input, it writes it directly into the screen.
 
-![](./images/media/image39.png){width="5.0in"
+![](./images/image039.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Now I\'m going to change something right here. Because I put h1 inside
@@ -1115,7 +1005,7 @@ instead of being an h1 heading, it's just regular old text. So,
 **document.write** is a way for you to generate output. But we need to
 realize that it is probably not the best way to do it.
 
-![](./images/media/image40.png){width="4.0in"
+![](./images/image040.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Because sometimes if you\'re misusing it, you can overwrite other things
@@ -1123,7 +1013,7 @@ that exist. So, **document.write** is something you just want to use
 when you\'re beginning and you don\'t know some of the more complex
 methods.
 
-![](./images/media/image41.png){width="4.0in"
+![](./images/image041.png){width="4.0in"
 height="2.2440168416447945in"}
 
 One of the more complex methods you can use is called **innerHTML**. And
@@ -1134,7 +1024,7 @@ do I want to change? Oh, I want to change that particular paragraph, all
 right. But how do I grab that particular paragraph? Or remember we have
 these different APIs that can go and get things for us.
 
-![](./images/media/image42.png){width="4.0in"
+![](./images/image042.png){width="4.0in"
 height="2.2440168416447945in"}
 
 In this case, I have element which is hopefully we\'ll find something
@@ -1151,7 +1041,7 @@ When I talk about this kind of generic element, I didn\'t make it a
 color that\'s something that you need to grab using the API. Let me give
 you an example of something we can do using innerHTML.
 
-![](./images/media/image43.png){width="5.0in"
+![](./images/image043.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Let\'s look at this, what I\'ve done is I made an **h1** heading and
@@ -1159,7 +1049,7 @@ I\'ve given it the **id** of test. I also have a paragraph element a
 little bit further down that just says, hey what happens if I\'d messed
 with this code?
 
-![](./images/media/image44.png){width="5.0in"
+![](./images/image044.png){width="5.0in"
 height="2.8050207786526684in"}
 
 In my **h1** heading, I actually have the words tester, but if you look
@@ -1171,7 +1061,7 @@ whatever used to be in there and replace it with the words, Hello World.
 This is kind of what happens when this is a weird example, but all early
 examples are weird examples. Because you just want to get your feet wet.
 
-![](./images/media/image45.png){width="5.0in"
+![](./images/image045.png){width="5.0in"
 height="2.8050207786526684in"}
 
 But I did want you to look at what happens if I do this. Back from your
@@ -1183,13 +1073,13 @@ JavaScript is expecting you to keep that rule. When you do something get
 element by ID, JavaScript thinks there\'s only one out there. I\'m going
 to stop as soon as I find that one.
 
-![](./images/media/image46.png){width="5.0in"
+![](./images/image046.png){width="5.0in"
 height="2.8050207786526684in"}
 
 As you can see down here, it changed the first one it found. It didn\'t
 change the second one it found, okay? All right.
 
-![](./images/media/image47.png){width="4.0in"
+![](./images/image047.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Let\'s go play with the last output method I have for you today.
@@ -1206,13 +1096,13 @@ execution. If you haven\'t used the console before, you might not
 realize that it\'s even there. But I\'m hoping you have when you were
 doing your CSS.
 
-![](./images/media/image48.png){width="5.0in"
+![](./images/image048.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Let\'s take a look at this example. In my HTML up here, you can see that
 I have **console.log** Hello World. Nothing too exciting going on here.
 
-![](./images/media/image49.png){width="5.0in"
+![](./images/image049.png){width="5.0in"
 height="2.8050207786526684in"}
 
 But if you look at the actual browser,it\'s not there. It doesn\'t show
@@ -1221,7 +1111,7 @@ actually in the Console of your browser. I\'m going to go down here. I
 did **inspect element**, and I checked the Console. Oh, you can see
 Hello World showed up here.
 
-![](./images/media/image50.png){width="5.0in"
+![](./images/image050.png){width="5.0in"
 height="2.8050207786526684in"}
 
 ### What happens if I change the code to Hello World Too?
@@ -1235,7 +1125,7 @@ are doing. We\'re going to come back to this example in just a second,
 but first I want to talk to you about why you should be utilizing the
 console by now, if you haven\'t.
 
-![](./images/media/image51.png){width="4.0in"
+![](./images/image051.png){width="4.0in"
 height="2.2440168416447945in"}
 
 The console does more than just take these print statements. It also
@@ -1243,7 +1133,7 @@ provides debugging information for JavaScript, HTML, and CSS. By going
 in and looking at it, you\'re going to be able to help yourself become a
 much better programmer.
 
-![](./images/media/image52.png){width="5.0in"
+![](./images/image052.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Let\'s take a look at just doing some debugging with the JavaScript.
@@ -1251,7 +1141,7 @@ I\'m going to go in here and I\'m going to accidentally forget to put in
 my first quotes, all right. But if we didn\'t know that there\'s
 anything going on or that anything is supposed to show up.
 
-![](./images/media/image53.png){width="5.0in"
+![](./images/image053.png){width="5.0in"
 height="2.8050207786526684in"}
 
 You might not realize that there\'s a typo but inside the console,
@@ -1268,7 +1158,7 @@ what\'s going wrong, but you're saying somewhere in this line of code
 I\'m getting an error. This kind of ability to help yourself debug is
 going to be critical to going on and advancing in this course.
 
-![](./images/media/image54.png){width="4.0in"
+![](./images/image054.png){width="4.0in"
 height="2.2440168416447945in"}
 
 If I\'m going to ask you to debug, I should probably tell you how you
@@ -1287,7 +1177,7 @@ Explorer, typically hitting F12 will bring up the different JavaScript
 and development tools that you can use to improve your page. All right,
 so let\'s review.
 
-![](./images/media/image55.png){width="4.0in"
+![](./images/image055.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Right now, we\'re doing really simple things, and I understand that.
@@ -1327,14 +1217,14 @@ W3Schools has a page with debugging tips for JavaScript: [JavaScript
 Debugging](https://www.w3schools.com/js/js_debugging.asp).
 
 ![Code, an empty browser, and an error message in the Chrome
-console.](./images/media/image56.png){width="5.0in"
+console.](./images/image056.png){width="5.0in"
 height="1.9962609361329833in"}
 
 # 1.04. Variables
 
 <https://codepen.io/ColleenEMc/pen/jbYEEW>
 
-![](./images/media/image57.png){width="4.0in"
+![](./images/image057.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Hi, everybody. Today we\'re going to learn about JavaScript variables.
@@ -1342,7 +1232,7 @@ An important part of programming is learning how you can save data.
 Because by saving data, you can reuse it and give you program that\'s
 impression that\'s kind of intelligent and knows the user very well.
 
-![](./images/media/image58.png){width="4.0in"
+![](./images/image058.png){width="4.0in"
 height="2.2440168416447945in"}
 
 In JavaScript, data is stored in what we call variables, and it\'s very
@@ -1356,7 +1246,7 @@ I chose the name "name" here, but you can imagine it being age, first
 name, last name, dob for date of birth. The important thing is that it
 should be special to you, but not special to the computer.
 
-![](./images/media/image59.png){width="4.0in"
+![](./images/image059.png){width="4.0in"
 height="2.2440168416447945in"}
 
 How does this work? When you declare a variable, you\'re basically
@@ -1373,7 +1263,7 @@ The important thing to know is that computers aren\'t smart. Computers
 are just trying to give you a way to avoid remembering big long numbers
 and instead using English words.
 
-![](./images/media/image60.png){width="4.0in"
+![](./images/image060.png){width="4.0in"
 height="2.2440168416447945in"}
 
 When you come up with your variable name, there\'s a few rules that you
@@ -1402,7 +1292,7 @@ could get away with calling it \'yyy\' or \'bbb\', just don\'t do it.
 Okay? Taking a little bit of time to give meaningful names will save you
 a lot of heart ache later.
 
-![](./images/media/image61.png){width="4.0in"
+![](./images/image061.png){width="4.0in"
 height="2.2440168416447945in"}
 
 If you\'re going to go to the trouble of declaring a variable and
@@ -1416,7 +1306,7 @@ call it assignment, because what we\'re doing is we\'re not saying hey,
 are these two things the same, we\'re saying take the value and store it
 into the variable.
 
-![](./images/media/image62.png){width="4.0in"
+![](./images/image062.png){width="4.0in"
 height="2.2440168416447945in"}
 
 Here I have **var** name, and instead of just leaving it at that, I say,
@@ -1433,7 +1323,7 @@ Right here would be an example where I\'m just having, I declare my
 variable, and then later I want to update it. I say, name equals
 Colleen. This works really well.
 
-![](./images/media/image63.png){width="4.0in"
+![](./images/image063.png){width="4.0in"
 height="2.2440168416447945in"}
 
 What I need people to avoid is doing something along this line, where
@@ -1447,7 +1337,7 @@ a variable. If you remember when we talked about output, one way that we
 were able to produce output also was a way to generate input, and that
 was the prompt.
 
-![](./images/media/image64.png){width="4.0in"
+![](./images/image064.png){width="4.0in"
 height="2.2440168416447945in"}
 
 When you use the prompt, it\'s waiting for you to type something in and
@@ -1462,13 +1352,13 @@ Then you can write that information out. You can even use more from the
 API saying, you know what? I want to know where this window is. What\'s
 the location of this window? And you can write that out as well.
 
-![](./images/media/image65.png){width="5.0in"
+![](./images/image065.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Let\'s look at a quick example of how we can use that. Let\'s start with
 the simple code we used before when we were learning about prompts.
 
-![](./images/media/image66.png){width="5.0in"
+![](./images/image066.png){width="5.0in"
 height="2.8050207786526684in"}
 
 Only now, I want to combine it with a variable, so I am going to go in
@@ -1478,7 +1368,7 @@ realize that the name you give your variable. Doesn\'t really matter, it
 can be anything you want. Just because I call it name, doesn\'t mean you
 have to.
 
-![](./images/media/image67.png){width="5.0in"
+![](./images/image067.png){width="5.0in"
 height="2.826388888888889in"}
 
 And as soon as I did this, the prompt statement showed up, and I put in
@@ -1487,7 +1377,7 @@ add a bit more code. Now I am going to comment out this line. You can
 see why, because otherwise it\'ll keep asking us to prompt things.
 We\'ll comment that out when we\'re done. All right.
 
-![](./images/media/image68.png){width="5.0in"
+![](./images/image068.png){width="5.0in"
 height="2.826388888888889in"}
 
 I have this variable called **name**, now I can do something like
@@ -1495,21 +1385,21 @@ I have this variable called **name**, now I can do something like
 to you could even put in **alert(nm)**. Let\'s put this back in. Might
 want to edit all my typing out. What is your name? Well, it is Colleen.
 
-![](./images/media/image69.png){width="5.0in"
+![](./images/image069.png){width="5.0in"
 height="2.826388888888889in"}
 
 All right, so the alert popped up, but why didn\'t the
 **document.write** work? This is a good question, and this is actually
 an example where I can go in, that\'s what was going on.
 
-![](./images/media/image70.png){width="5.0in"
+![](./images/image070.png){width="5.0in"
 height="2.826388888888889in"}
 
 It was actually waiting for me to hit okay. When it was all done, it
 went in and it printed out my name. This is a really simple, quick
 example.
 
-![](./images/media/image71.png){width="5.0in"
+![](./images/image071.png){width="5.0in"
 height="2.826388888888889in"}
 
 Let\'s do one that has a little bit more going on with it. All right, in
@@ -1522,7 +1412,7 @@ heading. And then I just wanted to show you that you could also grab
 other information from the document, itself, such as the URL and the
 title.
 
-![](./images/media/image72.png){width="5.0in"
+![](./images/image072.png){width="5.0in"
 height="2.826388888888889in"}
 
 First thing I\'m going to show you is, it says null and null. And
@@ -1532,7 +1422,7 @@ anything in the prompt. When the JavaScript doesn\'t know what to do,
 when it doesn\'t know what value should have been in there, it\'s going
 to assign it a value of null.
 
-![](./images/media/image73.png){width="5.0in"
+![](./images/image073.png){width="5.0in"
 height="2.826388888888889in"}
 
 Let\'s run this one more time. I\'m going to put in the name Christopher
@@ -1540,7 +1430,7 @@ just in case someone else named Christopher is reading this and they can
 feel special. But now you can see it printed out Christopher, the URL,
 and the title of my page.
 
-![](./images/media/image74.png){width="4.0in"
+![](./images/image074.png){width="4.0in"
 height="2.261111111111111in"}
 
 Variables are a key component of really doing any type of programming
@@ -1555,14 +1445,14 @@ course. Good luck.
 
 # 1.05. Data Types
 
-![](./images/media/image75.png){width="4.0in"
+![](./images/image075.png){width="4.0in"
 height="2.2316240157480314in"}
 
 Once you realize that computers store all of the information using
 variables, the next step is to start to learn about the different data
 types used in the JavaScript programming language.
 
-![](./images/media/image76.png){width="4.0in"
+![](./images/image076.png){width="4.0in"
 height="2.251709317585302in"}
 
 If you look here in this example, you can see that I\'ve got variable
@@ -1579,7 +1469,7 @@ doing it. In each of these examples, name would have what we call a
 different type. Things that are stored in the computer are completely
 different.
 
-![](./images/media/image77.png){width="4.0in"
+![](./images/image077.png){width="4.0in"
 height="2.251709317585302in"}
 
 In computer programming languages, computers tend to have a single type.
@@ -1589,7 +1479,7 @@ to characters, back to a number to something else that\'s completely
 complex. Let\'s talk about what these types are in JavaScript and how we
 can represent them.
 
-![](./images/media/image78.png){width="4.0in"
+![](./images/image078.png){width="4.0in"
 height="2.251709317585302in"}
 
 The first type we\'re going to talk about is number, and it\'s pretty
@@ -1609,7 +1499,7 @@ number, but in the different cases or one, it\'s going to be, normally
 would be an integer or a whole number, and the next time it has
 decimals.
 
-![](./images/media/image79.png){width="4.0in"
+![](./images/image079.png){width="4.0in"
 height="2.251709317585302in"}
 
 The next type is called String. String is simply a collection of
@@ -1625,7 +1515,7 @@ I\'ve done var location = **window.location**. Because it happens to be
 that that attribute is a string or in my second example once again,
 I\'ve just hardcoded it to something you might expect.
 
-![](./images/media/image80.png){width="4.0in"
+![](./images/image080.png){width="4.0in"
 height="2.251709317585302in"}
 
 The third data type is Boolean. In programing, a boolean value is
@@ -1641,7 +1531,7 @@ Later, we\'re going to learn how to write our own boolean expressions to
 check to see if things are true or false. And that can add really a lot
 of power to your page.
 
-![](./images/media/image81.png){width="4.0in"
+![](./images/image081.png){width="4.0in"
 height="2.251709317585302in"}
 
 The next data type is called object. Because sometimes the variables or
@@ -1659,7 +1549,7 @@ something along the lines of write out **topic.style, topic.innerHTML.**
 Different things like that can show us really the attributes or the
 string\'s numbers that make up objects.
 
-![](./images/media/image82.png){width="4.0in"
+![](./images/image082.png){width="4.0in"
 height="2.251709317585302in"}
 
 Finally, the last type we\'re going to talk about is array, because in
@@ -1675,7 +1565,7 @@ Well, that\'s certainly not going to return just a single number, or a
 bunch of strings, or even a single object. Instead, it needs to return a
 whole collection.
 
-![](./images/media/image83.png){width="4.0in"
+![](./images/image083.png){width="4.0in"
 height="2.251709317585302in"}
 
 Arrays store these multiple values using a variable name, just like the
@@ -1691,7 +1581,7 @@ going to have an entire lecture or more on arrays later in this course.
 But for now, I just want you to realize that it\'s one of the data types
 that can be returned.
 
-![](./images/media/image84.png){width="5.0in"
+![](./images/image084.png){width="5.0in"
 height="2.814636920384952in"}
 
 Let\'s look at a quick example that uses some of the different types.
@@ -1711,7 +1601,7 @@ using an array, and I just want to show you this because there\'s a
 really good chance this message might pop up for you and I don\'t want
 you to get freaked out about it.
 
-![](./images/media/image85.png){width="5.0in"
+![](./images/image085.png){width="5.0in"
 height="2.814636920384952in"}
 
 After I grab all the paragraph elements, if I try to print them out, it
@@ -1720,14 +1610,14 @@ actually have any paragraphs in this page. If I go back, and I add a
 few, they can even be empty. Gotta love when it keeps popping up on you.
 I don\'t know how many I added but we\'re going to do it.
 
-![](./images/media/image86.png){width="3.5in"
-height="1.970246062992126in"}![](./images/media/image87.png){width="3.5in"
+![](./images/image086.png){width="3.5in"
+height="1.970246062992126in"}![](./images/image087.png){width="3.5in"
 height="1.9702449693788275in"}
 
 I can try running this again. And when I type in Colleen, you can see
 that now it knows that I have five paragraph elements in there.
 
-![](./images/media/image88.png){width="4.0in"
+![](./images/image088.png){width="4.0in"
 height="2.251709317585302in"}
 
 Luckily in JavaScript, there\'s a ton of flexibility with the different
@@ -1746,7 +1636,7 @@ So good luck.
 
 # 1.06. Operators & Expressions (8:26)
 
-![](./images/media/image89.png){width="4.0in"
+![](./images/image089.png){width="4.0in"
 height="2.251709317585302in"}
 
 Today we\'re going to be talking about expressions and mainly operators,
@@ -1754,7 +1644,7 @@ the different ways that you can manipulate your code. We\'ve been using
 statements to execute our JavaScript code. Every time you saw a line
 that ended with a semicolon, we were writing a statement.
 
-![](./images/media/image90.png){width="4.0in"
+![](./images/image090.png){width="4.0in"
 height="2.251709317585302in"}
 
 Statements often have what we call expressions, or things that can be
@@ -1763,7 +1653,7 @@ string, but many times they produce what we call Boolean values. I want
 to show you all the different types of operators that we can use in
 JavaScript to produce these types of expression values.
 
-![](./images/media/image91.png){width="4.0in"
+![](./images/image091.png){width="4.0in"
 height="2.251709317585302in"}
 
 If you think back, I tend to talked about that left hand side equals
@@ -1774,7 +1664,7 @@ What are our tools for generating different values on that right hand
 side? We\'ve seen direct assignments or calls to different functions but
 there\'s more to it that we can do than just that.
 
-![](./images/media/image92.png){width="4.0in"
+![](./images/image092.png){width="4.0in"
 height="2.251709317585302in"}
 
 Here\'s a very simple assignment expression. I just had x=5 or in
@@ -1783,7 +1673,7 @@ thing if two things are the same. In this expression I\'m saying, go
 find the value that is story in y. After I grab that, go and store it in
 x as well.
 
-![](./images/media/image93.png){width="4.0in"
+![](./images/image093.png){width="4.0in"
 height="2.251709317585302in"}
 
 We also have arithmetic operators. Most of these are very straight
@@ -1804,7 +1694,7 @@ figure out how many times does 5 go into 13? That\'s 2, and what\'s left
 over? 13%5 is going to be 3. Go ahead and play with that if you\'d like,
 and type a few numbers in and see what kind of response you get.
 
-![](./images/media/image94.png){width="4.0in"
+![](./images/image094.png){width="4.0in"
 height="2.251709317585302in"}
 
 Some additional operators we have are the **plus plus** and **minus
@@ -1817,7 +1707,7 @@ It\'s the same thing as saying x + = 2. It\'s just short hand you don\'t
 need to use it. But I wanted to show you just in case you see it in
 somebody else's code.
 
-![](./images/media/image95.png){width="4.0in"
+![](./images/image095.png){width="4.0in"
 height="2.251709317585302in"}
 
 We talked about how plus will add two numbers together. That\'s only
@@ -1833,7 +1723,7 @@ that your output is what you\'re expecting. The plus equals has the same
 effect as the plus equals from before. It just means take whatever I
 used to have and concatenate this new part on to it.
 
-![](./images/media/image96.png){width="4.0in"
+![](./images/image096.png){width="4.0in"
 height="2.251709317585302in"}
 
 Those first few operators, we use usually to assign values to a
@@ -1848,7 +1738,7 @@ return true. There\'s also another short hand, which is the exclamation
 point equals. This is a negation or the opposite, it says, hey, make
 sure the value stored in x doesn\'t equal 5.
 
-![](./images/media/image97.png){width="4.0in"
+![](./images/image097.png){width="4.0in"
 height="2.251709317585302in"}
 
 We also have more of the traditional greater than, greater than or equal
@@ -1860,7 +1750,7 @@ JavaScript we don\'t really care about types too much. What happens if
 you want to see if a number is equal to something else, but you don\'t
 want it to say yes if it\'s a string?
 
-![](./images/media/image98.png){width="4.0in"
+![](./images/image098.png){width="4.0in"
 height="2.251709317585302in"}
 
 Here I\'ve got the equality statement that we used before, which is
@@ -1882,7 +1772,7 @@ unless you type in some examples, play with the numbers, and try to fool
 yourself and give yourself tricky situations. If you can do that, then
 you\'ll feel comfortable moving on with these operators.
 
-![](./images/media/image99.png){width="4.0in"
+![](./images/image099.png){width="4.0in"
 height="2.251709317585302in"}
 
 Let\'s do one last little group or two groups before we finish up. In
@@ -1901,7 +1791,7 @@ use the example that in America, you can\'t get into certain movies
 unless you\'re 18 or you\'re with your parents. So that would be a case
 where you only need one thing to be true.
 
-![](./images/media/image100.png){width="4.0in"
+![](./images/image100.png){width="4.0in"
 height="2.251709317585302in"}
 
 When it comes to programming, it\'s not enough for you to just know the
@@ -1998,14 +1888,14 @@ it to happen).
 
 # 2.01. Functions (7:18)
 
-![](./images/media/image101.png){width="4.0in"
+![](./images/image101.png){width="4.0in"
 height="2.251709317585302in"}
 
 Today we\'re going to talk about functions. Functions are these bits of
 code that you can reuse over and over again by just coding what we call
 the function name.
 
-![](./images/media/image102.png){width="4.0in"
+![](./images/image102.png){width="4.0in"
 height="2.251709317585302in"}
 
 Functions of course, like everything else in programming, have special
@@ -2032,7 +1922,7 @@ your semicolons, your expression, your statements. It\'s just a really
 nice way to save it. You don\'t have to keep typing it over and over
 again.
 
-![](./images/media/image103.png){width="4.0in"
+![](./images/image103.png){width="4.0in"
 height="2.251709317585302in"}
 
 Let me show you an example. In this case, I declared a function called
@@ -2043,7 +1933,7 @@ And this will work numerous times. I don\'t have to keep writing things
 over and over again. It\'s a small function, but it\'s something that
 will work.
 
-![](./images/media/image104.png){width="4.0in"
+![](./images/image104.png){width="4.0in"
 height="2.251709317585302in"}
 
 Here\'s another very similar function. The only difference is that, this
@@ -2057,7 +1947,7 @@ where you use the keywords, the curly brackets, and the parenthesis.
 Declaring a function doesn\'t actually do anything for you though. You
 need to tell the computer when you want that function to run.
 
-![](./images/media/image105.png){width="4.0in"
+![](./images/image105.png){width="4.0in"
 height="2.251709317585302in"}
 
 We do this by saying or we call the function. Every time you write the
@@ -2068,7 +1958,7 @@ by line. Now with functions, the computer is actually jumping around in
 memory and executing different parts of code, not necessarily in the
 order that you write them.
 
-![](./images/media/image106.png){width="4.0in"
+![](./images/image106.png){width="4.0in"
 height="2.251709317585302in"}
 
 Here\'s an example. I have my **welcomeMsg** function, the one with the
@@ -2087,7 +1977,7 @@ code. Hopefully if you type this in and run it, you should get a hello
 and then a goodbye message. You could type putting in numbers or
 anything you\'d like instead if you prefer.
 
-![](./images/media/image107.png){width="4.0in"
+![](./images/image107.png){width="4.0in"
 height="2.251709317585302in"}
 
 Let\'s talk a little bit more about those parameters that I talked
@@ -2101,7 +1991,7 @@ thing to know is the names of the parameters for your functions,
 they\'re not important, they\'re like variable names. You can call them
 anything you want, as long as you\'re consistent.
 
-![](./images/media/image108.png){width="4.0in"
+![](./images/image108.png){width="4.0in"
 height="2.251709317585302in"}
 
 The next thing to talk about, when we talk about functions, are return
@@ -2112,7 +2002,7 @@ functions that will say, hey, I need you to halt execution right now,
 because I don\'t want you to hit submit. I don\'t want you to be able to
 hit yes on that form.
 
-![](./images/media/image109.png){width="4.0in"
+![](./images/image109.png){width="4.0in"
 height="2.251709317585302in"}
 
 Let\'s look an example of a function that returns a value. In this case,
@@ -2128,7 +2018,7 @@ in order to assign values to valuables or to check conditional
 statements, and we\'re going to be using these a lot. I just need you to
 be aware of the term.
 
-![](./images/media/image110.png){width="4.0in"
+![](./images/image110.png){width="4.0in"
 height="2.251709317585302in"}
 
 Let\'s review what we\'ve talked about with functions so far. Whenever
@@ -2159,14 +2049,14 @@ understand some of the power of JavaScript. Good luck.
 
 # 2.02. Code Placement (6:32)
 
-![](./images/media/image111.png){width="4.0in"
+![](./images/image111.png){width="4.0in"
 height="2.251709317585302in"}
 
 Today, we\'re going to talk not about new concepts, but really, putting
 our code in the best place to make it easier for you to follow what\'s
 going on.
 
-![](./images/media/image112.png){width="4.0in"
+![](./images/image112.png){width="4.0in"
 height="2.251709317585302in"}
 
 Up to this point, we\'ve been putting our JavaScript into the HTML body
@@ -2179,7 +2069,7 @@ JavaScript code. And where you can put it, is you can leave it in the
 body, as we\'ve been doing, you can put your functions into the head
 section of your HTML code, or you can use an external file.
 
-![](./images/media/image113.png){width="4.0in"
+![](./images/image113.png){width="4.0in"
 height="2.251709317585302in"}
 
 If you decide to put your JavaScript functions in the head section,
@@ -2197,7 +2087,7 @@ If you do this. If you put your code into the head section, don\'t
 worry, all of your function will still have access to all the document
 information, the ID\'s, the classes, etc.
 
-![](./images/media/image114.png){width="4.0in"
+![](./images/image114.png){width="4.0in"
 height="2.251709317585302in"}
 
 Let\'s take a quick look at an example. As you can see, I have my head
@@ -2212,7 +2102,7 @@ having the entire function written down here. Plus, for code reuse, you
 can now call the function multiple times, but only write it once up
 here.
 
-![](./images/media/image115.png){width="4.0in"
+![](./images/image115.png){width="4.0in"
 height="2.251709317585302in"}
 
 If instead, you decide to put your JavaScript functions in an external
@@ -2221,7 +2111,7 @@ one thing that\'s important to remember right from the start is again,
 when you\'re using external file, don\'t use the script tag. It\'s just
 the JavaScript, without any script tag.
 
-![](./images/media/image116.png){width="4.0in"
+![](./images/image116.png){width="4.0in"
 height="2.251709317585302in"}
 
 Let\'s look at an example here. Here you can see, that inside the head
@@ -2242,7 +2132,7 @@ wrong, because the colors aren\'t the way you wanted or your text just
 isn\'t there. But with JavaScript, sometimes the changes you're making
 are so slight, you don\'t even realize that you have a problem.
 
-![](./images/media/image117.png){width="4.0in"
+![](./images/image117.png){width="4.0in"
 height="2.251709317585302in"}
 
 It\'s very important, as your code becomes more and more complex, that
@@ -2251,7 +2141,7 @@ friend. I can\'t stress enough how much you always want to have it on
 while you\'re coding. Myself, sometimes I forget to turn it on and I\'m
 annoyed later, when I could have found my errors so much more easily.
 
-![](./images/media/image118.png){width="4.0in"
+![](./images/image118.png){width="4.0in"
 height="2.251709317585302in"}
 
 Another way that we can talk about separating your code into this
@@ -2268,7 +2158,7 @@ If you\'re going to use CodePen, I always recommend that once you\'re
 done, take that code and put it into three separate files, so that
 you\'re sure you know how to link them together.
 
-![](./images/media/image119.png){width="5.0in"
+![](./images/image119.png){width="5.0in"
 height="2.814636920384952in"}
 
 Let\'s take a look. As you can see here, I have one window for my HTML
@@ -2277,14 +2167,14 @@ care of all the work of making sure that they\'re all together. If this
 is your first time ever using CodePen, I did want to point out, that
 there\'s this handy little function, that you can re-size the windows.
 
-![](./images/media/image120.png){width="5.0in"
+![](./images/image120.png){width="5.0in"
 height="2.814636920384952in"}
 
 If you\'re not too concerned with your CSS right now, you can make that
 smaller. And really kind of focus, on what you\'re working on, in the
 HTML and the JS.
 
-![](./images/media/image121.png){width="4.0in"
+![](./images/image121.png){width="4.0in"
 height="2.251709317585302in"}
 
 All right, let\'s review what we talked about today. The first thing, is
@@ -2320,7 +2210,7 @@ files in it. There are also three subfolders (folders inside the main
 folder) for your CSS, image, and JavaScript files.
 
 ![Folder with subfolders nested
-within.](./images/media/image122.png){width="4.0in"
+within.](./images/image122.png){width="4.0in"
 height="1.304757217847769in"}
 
 When we use CodePen we use that idea of separating our code. However, be
@@ -2337,7 +2227,7 @@ work to ensure that your files link together correctly.
 
 # 2.03. Folder Structure / Organizing Your Code (5:33)
 
-![](./images/media/image123.png){width="4.0in"
+![](./images/image123.png){width="4.0in"
 height="2.251709317585302in"}
 
 I know that one of the most frustrating things that can happen when
@@ -2347,7 +2237,7 @@ you\'re trying to link it to your style sheet, and they just don\'t seem
 to recognize each other. Today, we\'re going to talk about how web
 designers tend to organize and separate their code into different parts.
 
-![](./images/media/image124.png){width="4.0in"
+![](./images/image124.png){width="4.0in"
 height="2.251709317585302in"}
 
 First, we always start off with a main folder that\'s going to hold your
@@ -2360,7 +2250,7 @@ design, your fellow designers are going to expect that you have similar
 conventions to their own. you want to get used to doing things the right
 way, right from the beginning.
 
-![](./images/media/image125.png){width="4.0in"
+![](./images/image125.png){width="4.0in"
 height="2.251709317585302in"}
 
 Here I\'ve got a quick picture of how I could organize the code using
@@ -2373,7 +2263,7 @@ different files can talk to one another. And so, we\'re going to use the
 convention here, and I\'m going to show you how to make sure they can
 link together in the right way.
 
-![](./images/media/image126.png){width="4.0in"
+![](./images/image126.png){width="4.0in"
 height="2.2670942694663165in"}
 
 2^nd^ line should be: **\<script
@@ -2398,7 +2288,7 @@ img. When you\'re linking your code with other people\'s code, make sure
 you do a quick check. And make sure that your folder names CSS,
 JavaScript, and images match what other people are expecting.
 
-![](./images/media/image127.png){width="4.0in"
+![](./images/image127.png){width="4.0in"
 height="2.2670942694663165in"}
 
 When it comes to linking from your style sheet, it can be a little bit
@@ -2409,7 +2299,7 @@ folder. But the problem is, how do you tell the browser that the images
 folder is someplace different? In this example we go up 2 directories,
 find 'images' folder and pull from there. Done & done.
 
-![](./images/media/image128.png){width="4.0in"
+![](./images/image128.png){width="4.0in"
 height="2.2670942694663165in"}
 
 If things aren\'t working for you in your folder structure, here\'s a
@@ -2430,7 +2320,7 @@ CSS, JavaScript, and images functions out there. Thanks.
 
 # 2.04. Events (10:05)
 
-![](./images/media/image129.png){width="4.0in"
+![](./images/image129.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Hi everybody. One of the things we promise you in this course was that
@@ -2438,7 +2328,7 @@ we\'d teach you how to do interactivity with JavaScript. Well, we
 finally reached that point where we can start having some fun and
 reacting to events that happened to your web page.
 
-![](./images/media/image130.png){width="4.0in"
+![](./images/image130.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Up to now it has been up to us to decide when the functions should
@@ -2450,7 +2340,7 @@ can start doing things based on clicking, mouse movement, all these
 different types of dynamic function calls. Let\'s take a look at how we
 can do this.
 
-![](./images/media/image131.png){width="4.0in"
+![](./images/image131.png){width="4.0in"
 height="2.2670942694663165in"}
 
 First, let\'s talk about just some of the events that we normally react
@@ -2469,7 +2359,7 @@ to load that the JavaScript is done before the user can even see the
 page. This last one onload we are going to use quite a bit to make sure
 we are all seeing the exact same events.
 
-![](./images/media/image132.png){width="4.0in"
+![](./images/image132.png){width="4.0in"
 height="2.2670942694663165in"}
 
 All right, so how does this work? We know that any element can react to
@@ -2484,7 +2374,7 @@ on this then I am going to call the JavaScript function message. All
 right, this isn\'t going to happen just once, this is going to happen
 for the duration that this site is loaded onto the browser.
 
-![](./images/media/image133.png){width="4.0in"
+![](./images/image133.png){width="4.0in"
 height="2.2670942694663165in"}
 
 One of the things that we need to talk about is the use of quotes. When
@@ -2513,7 +2403,7 @@ that same kind of slant that Word, PowerPoint, and other programs put
 into your quotes. Whenever you copy and paste, go back and make sure
 that they\'re matching up correctly.
 
-![](./images/media/image134.png){width="5.0in"
+![](./images/image134.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Let\'s take a look at what I do with this code right here. I have my
@@ -2532,20 +2422,20 @@ one is **onclick**. All three of these events**, onload, onresize,
 onclick**, they\'re all going to call the message function, but they\'re
 going to call it with three different frame runners.
 
-![](./images/media/image135.png){width="5.0in"
+![](./images/image135.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Let\'s take a look at what\'s going on. As you can see, when I loaded
 the page, it automatically had LOAD event show up.
 
-![](./images/media/image136.png){width="5.0in"
+![](./images/image136.png){width="5.0in"
 height="2.8338681102362204in"}
 
 What happens if I click on this paragraph right here? Oh, it changes to
 click event. It\'s actually happening over and over again; you just
 can\'t tell because it\'s so quick.
 
-![](./images/media/image137.png){width="5.0in"
+![](./images/image137.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Now, the last thing I\'m going to do is I\'m going to resize the page
@@ -2553,7 +2443,7 @@ and you can see, that it recognizes that there is a resize event. So,
 it\'s pretty simple to go through, and I\'ll go back here, and had your
 HTML actually change based on the different events.
 
-![](./images/media/image138.png){width="5.0in"
+![](./images/image138.png){width="5.0in"
 height="2.8338681102362204in"}
 
 The second example is, again, a very straightforward way of showing you
@@ -2564,7 +2454,7 @@ conveys this idea of click me and I\'m going to do something, and since
 we didn\'t have the power to do that yet, I really didn\'t want to use
 that element, but now we can.
 
-![](./images/media/image139.png){width="5.0in"
+![](./images/image139.png){width="5.0in"
 height="2.8338681102362204in"}
 
 What I have here is a simple JavaScript function that says, hey I want
@@ -2572,14 +2462,14 @@ you to call the JavaScript **date** function, this is something that I
 didn\'t write. You know that it was written by JavaScript partly because
 well, it\'s yellow.
 
-![](./images/media/image140.png){width="5.0in"
+![](./images/image140.png){width="5.0in"
 height="2.8338681102362204in"}
 
 All right, so I\'m going to use this function and connect it with the
 **button**. So, I have **button** type equals **button** and I have
 **onclick** equals **displayDate().**
 
-![](./images/media/image141.png){width="5.0in"
+![](./images/image141.png){width="5.0in"
 height="2.8338681102362204in"}
 
 As soon as I click on that, we want to keep our eye on where it says
@@ -2593,7 +2483,7 @@ As we start adding JavaScript events and reacting to events to our code,
 I just want you to be aware of something that\'s going on, that\'s
 really quite complex.
 
-![](./images/media/image142.png){width="4.0in"
+![](./images/image142.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Before JavaScript, for the most part, our programs ran in a linear
@@ -2606,7 +2496,7 @@ right I need to wait on click, onclick, onclick. If you add too many
 events to your page, you could conceivably slow down the execution of
 your page.
 
-![](./images/media/image143.png){width="4.0in"
+![](./images/image143.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Clearly there are a lot more events than just the four I told you about.
@@ -2631,7 +2521,7 @@ these events JavaScript can be limited in its ability to interact with
 the DOM. We didn\'t have onclick, onload and be really hard to actually
 work with our webpages.
 
-![](./images/media/image144.png){width="4.0in"
+![](./images/image144.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Another thing I\'d like you to take away from this is while events are
@@ -2695,7 +2585,7 @@ outnumber the times that you are stuck.
 
 # 2.05. Code With Me: Events (7:46)
 
-![](./images/media/image145.png){width="4.0in"
+![](./images/image145.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Hi everybody, welcome back. It\'s time for us to take some of the things
@@ -2711,7 +2601,7 @@ if you can break the code. Because it\'s always better to make your
 errors now. We have the whole community around you. You can ask
 questions.
 
-![](./images/media/image146.png){width="4.0in"
+![](./images/image146.png){width="4.0in"
 height="2.2670942694663165in"}
 
 We\'re going to look at two different examples today. One, in which
@@ -2722,7 +2612,7 @@ different then we\'ve done before. When I first introduced the idea of
 events, I said that events are matched with functions. Well, you can
 also match events just with JavaScript code, not a function itself.
 
-![](./images/media/image147.png){width="5.0in"
+![](./images/image147.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Here I\'ve created two buttons, and I named them First and Second. You
@@ -2732,19 +2622,19 @@ onClick, grab that element, change the innerHTML, and I want you to
 change it to Clicked First Button. The other one is very similar. The
 only difference is that I want to change the content of that paragraph.
 
-![](./images/media/image148.png){width="5.0in"
+![](./images/image148.png){width="5.0in"
 height="2.833870297462817in"}
 
 When I click on these buttons this, right here, is the element I want
 you to look at.
 
-![](./images/media/image149.png){width="5.0in"
+![](./images/image149.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Let\'s click on the First button. You can see that I clicked, it said,
 hey I know that I just clicked the First button.
 
-![](./images/media/image150.png){width="5.0in"
+![](./images/image150.png){width="5.0in"
 height="2.8338681102362204in"}
 
 When I click on the second one, you know that I\'ve clicked on the
@@ -2752,7 +2642,7 @@ Second button. This seems like a really small program to write, but
 there\'s a lot going on in here, and a lot of places where people tend
 to make mistakes. Let\'s just look at them quickly.
 
-![](./images/media/image151.png){width="5.0in"
+![](./images/image151.png){width="5.0in"
 height="2.8338681102362204in"}
 
 The first thing I want you to look at is this idea of using
@@ -2773,32 +2663,32 @@ to change. Is it the event that\'s going to change? Is it the button
 that\'s going to change? Is it the whole page? So luckily, with CodePen
 you\'ll be able to see it immediately.
 
-![](./images/media/image152.png){width="5.0in"
+![](./images/image152.png){width="5.0in"
 height="2.8338681102362204in"}
 
 That\'s how I can change the button itself. If I want to change what\'s
 going to happen, that where I put in here, Clicked Another Button.
 
-![](./images/media/image153.png){width="5.0in"
+![](./images/image153.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Let\'s save. I\'m going to click on First, Second.
 
-![](./images/media/image154.png){width="5.0in"
+![](./images/image154.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Play with this. Try putting it in yourself. And realize, again, that you
 can put your JavaScript anywhere you want, it doesn\'t always have to be
 in an external file.
 
-![](./images/media/image155.png){width="5.0in"
+![](./images/image155.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Let\'s look at the next example. Okay, get ready. This example is going
 to be a big one, because we do have a lot of things going on. We have
 our HTML. We have our CSS. And we have our JavaScript.
 
-![](./images/media/image156.png){width="5.0in"
+![](./images/image156.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Let\'s start with the CSS, because it\'s the simplest and it\'s not
@@ -2813,14 +2703,14 @@ now it\'s going to reappear again. That\'s all we really need to
 realize, is that **.closed** will make it go away, **.open** is going to
 make it come back.
 
-![](./images/media/image157.png){width="5.0in"
+![](./images/image157.png){width="5.0in"
 height="2.8338681102362204in"}
 
 Over here, in my HTML, I have a paragraph called demo. And that\'s right
 down here, it\'s all this entire thing we can see right here. This is
 the one we want to change in our code.
 
-![](./images/media/image158.png){width="5.0in"
+![](./images/image158.png){width="5.0in"
 height="2.8338681102362204in"}
 
 And finally in the HTML, we have two events. We have **onClick,
@@ -2832,21 +2722,21 @@ simply need to grab the demo element by doing
 **document.getElementById.** But now instead of trying to change the
 inner HTML, I\'m going to change the style.
 
-![](./images/media/image159.png){width="5.0in"
+![](./images/image159.png){width="5.0in"
 height="2.8338681102362204in"}
 
 I go in and I say x, which is my element, **.style.display=\"none\".**
 I\'m not using my CSS; I\'m actually hardcoding it in here that I want
 it to go from none.
 
-![](./images/media/image160.png){width="5.0in"
+![](./images/image160.png){width="5.0in"
 height="2.8338681102362204in"}
 
 And in open, similarly, it says, hey grab that element, and I want it to
 go from whatever it used to be, and now it should be block.
 
-![](./images/media/image161.png){width="3.5in"
-height="1.9837073490813648in"}![](./images/media/image162.png){width="3.5in"
+![](./images/image161.png){width="3.5in"
+height="1.9837073490813648in"}![](./images/image162.png){width="3.5in"
 height="1.9837073490813648in"}
 
 Let\'s look and see if this works. Close, Open. Close, Open. Great, it
@@ -2854,8 +2744,8 @@ works, but we\'ve hardcoded those elements in. We\'ve hardcoded block.
 What if we also wanted to change the color, or the width, or many other
 elements? This is where the idea of our classes can come in.
 
-![](./images/media/image163.png){width="3.5in"
-height="1.9837073490813648in"}![](./images/media/image164.png){width="3.5in"
+![](./images/image163.png){width="3.5in"
+height="1.9837073490813648in"}![](./images/image164.png){width="3.5in"
 height="1.9837073490813648in"}
 
 Let\'s change it over here really quickly. I\'m going to comment out
@@ -2865,14 +2755,14 @@ actually go in and we could say, you know what? For that element I want
 you to change the class name. I don\'t know what it used to be, but now
 I want it to be closed. And down here, I want it to be open.
 
-![](./images/media/image165.png){width="3.5in"
-height="1.9837073490813648in"}![](./images/media/image166.png){width="3.5in"
+![](./images/image165.png){width="3.5in"
+height="1.9837073490813648in"}![](./images/image166.png){width="3.5in"
 height="1.9837073490813648in"}
 
 So, I can talk a lot. But it\'s important that even I stop and check
 that code and make sure I didn\'t break it.
 
-![](./images/media/image167.png){width="4.0in"
+![](./images/image167.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Now I don\'t really have time to do this right now, but I think what
@@ -2916,7 +2806,7 @@ about to use in the next lesson.
 
 # 2.06. "this" (9:30)
 
-![](./images/media/image168.png){width="4.0in"
+![](./images/image168.png){width="4.0in"
 height="2.2670942694663165in"}
 
 Hi everybody, welcome to my personal least favorite lecture of all time.
@@ -2931,14 +2821,14 @@ smart programming is using different functions. You don\'t want to write
 your own code. You want to use somebody else\'s code. But a common road
 block, especially for new programmers, is trying to figure out.
 
-![](./images/media/image169.png){width="4.0in" height="2.25in"}
+![](./images/image169.png){width="4.0in" height="2.25in"}
 
 How can I write a function so that I can reuse it over and over again?
 How can I write this function so that different elements can use it? But
 the function knows basically, how do I know what information to use.
 That\'s where "this" keyword comes in.
 
-![](./images/media/image170.png){width="4.0in" height="2.25in"}
+![](./images/image170.png){width="4.0in" height="2.25in"}
 
 This allows an element to refer to itself. Every object in the DOM, has
 an automatically generated this. This "this" attribute allows you to
@@ -2957,7 +2847,7 @@ going to do is it\'s just going to backtrack and go back, back, back,
 back, back, back, back, back until it\'s, oops, here\'s an open tag.
 They must be referring to this DOM element right here.
 
-![](./images/media/image171.png){width="5.0in" height="2.8125in"}
+![](./images/image171.png){width="5.0in" height="2.8125in"}
 
 Let\'s look at what I hope are a few simple examples of using the word
 this. Right here I have four different elements on my page. I have two
@@ -2975,20 +2865,20 @@ up, until it gets to the image. And then we\'ll say. They want the alt
 text for this image. Let's see what happens when I actually click on
 this image.
 
-![](./images/media/image172.png){width="5.0in" height="2.8125in"}
+![](./images/image172.png){width="5.0in" height="2.8125in"}
 
 As you can see, as soon as I clicked on it. The message Awesome 80\'s
 haircut shows up, all right? If I were to click on this multiple times.
 It doesn\'t actually show up in the console multiple times.
 
-![](./images/media/image173.png){width="5.0in" height="2.8125in"}
+![](./images/image173.png){width="5.0in" height="2.8125in"}
 
 You can see that there\'s a little number over here that says. Oh, this
 has happened four times in a row. But the important thing is that, I
 click on an image and the event knew that this was the image I was
 clicking on.
 
-![](./images/media/image174.png){width="5.0in" height="2.8125in"}
+![](./images/image174.png){width="5.0in" height="2.8125in"}
 
 Let\'s look at the next example down here. I\'ve got my div that just
 says, hi there. Checking out a div. I\'m looking at the second example
@@ -2997,13 +2887,13 @@ don\'t have alt text. Instead, what I said to do is, log the inner html.
 When I click on this div, I\'m expecting to see, hi there, checking out
 the div to show up in the console.
 
-![](./images/media/image175.png){width="5.0in" height="2.8125in"}
+![](./images/image175.png){width="5.0in" height="2.8125in"}
 
 As you can see, it\'s working. These first two examples are very
 similar. And that all I\'m doing is basically kind of manipulating
 what\'s going on in the console.
 
-![](./images/media/image176.png){width="5.0in" height="2.8125in"}
+![](./images/image176.png){width="5.0in" height="2.8125in"}
 
 In these last two, I did something very similar. But instead of just
 using on-click do something. I\'m going to use this function on the
@@ -3016,7 +2906,7 @@ both use the same exact function called displayID. And even though
 they\'re using the same function, it\'s actually going to show different
 results.
 
-![](./images/media/image177.png){width="5.0in" height="2.8125in"}
+![](./images/image177.png){width="5.0in" height="2.8125in"}
 
 Let\'s see what happens when I start to click. ID-1, ID-1, ID-2, ID-2.
 Here\'s a simple example of us using onClick along with a function and
@@ -3024,7 +2914,7 @@ the keyword, this, to provide different data. I want to show you though,
 a slightly more colorful example. That I think also makes this point
 really well.
 
-![](./images/media/image178.png){width="5.0in" height="2.8125in"}
+![](./images/image178.png){width="5.0in" height="2.8125in"}
 
 In this example let\'s start right off with the JavaScript. I have a
 function called **showProperties**. And it is expecting to be sent some
@@ -3046,7 +2936,7 @@ going to show you the cool part of this. On each one of these elements,
 I have shown property and the keyword this which says send this image
 that I am hovering over with my mouse and call that property.
 
-![](./images/media/image179.png){width="5.0in" height="2.8125in"}
+![](./images/image179.png){width="5.0in" height="2.8125in"}
 
 Let\'s take a look and see how this works. I\'m going to hover over the
 first picture of my dog. And I am really hoping that the alt text
@@ -3066,7 +2956,7 @@ change the border? Different things like this that are, you all know how
 to do. But just because you know how to do it, doesn\'t mean you don\'t
 have to stop and think and really process it in your mind first.
 
-![](./images/media/image180.png){width="4.0in" height="2.25in"}
+![](./images/image180.png){width="4.0in" height="2.25in"}
 
 The key word 'this', the concept of the word 'this', can be really
 tricky to grasp. It took me quite a while myself. And I don\'t think I
@@ -3188,13 +3078,13 @@ to get you started is here: <http://codepen.io/ColleenEMc/pen/wKYxZa>
 
 # 2.07. Photo Gallery (5:53)
 
-![](./images/media/image181.png){width="4.0in" height="2.25in"}
+![](./images/image181.png){width="4.0in" height="2.25in"}
 
 In this lesson, I want to walk you through how we\'re going to be
 putting some of the things we\'ve learned into practice. And the main
 things I\'m looking for, from you, are your abilities to do two things.
 
-![](./images/media/image182.png){width="4.0in" height="2.25in"}
+![](./images/image182.png){width="4.0in" height="2.25in"}
 
 First is, if I give you some HTML code and some CSS code, can you change
 the background image of an element? The second thing I want you to try
@@ -3205,39 +3095,39 @@ specific planner to put into place.
 
 So, let\'s take a look at the gallery homework.
 
-![](./images/media/image183.png){width="5.0in" height="2.8125in"}
+![](./images/image183.png){width="5.0in" height="2.8125in"}
 
 In order to begin this assignment, I\'m going to give you the HTML code
 and the CSS code that will create this page here. I\'ve got one div and
 three images underneath it. Each one of those images has a link to this
 source file and it has alt text.
 
-![](./images/media/image184.png){width="5.0in" height="2.8125in"}
+![](./images/image184.png){width="5.0in" height="2.8125in"}
 
 So right here, its alt text is Styling with a Bandana. And did you
 notice that as soon as I put my mouse over this image, it changes the
 source image and the text for the main div. We\'re creating a photo
 gallery here.
 
-![](./images/media/image185.png){width="5.0in" height="2.8125in"}
+![](./images/image185.png){width="5.0in" height="2.8125in"}
 
 As I leave the picture and I go off to this side, we go back to the
 original image in color.
 
-![](./images/media/image186.png){width="5.0in" height="2.8125in"}
+![](./images/image186.png){width="5.0in" height="2.8125in"}
 
 When I go over the next picture, you can see boom it went in and found
 out what the source file was for this image. It located the alt text and
 use both of those things to update that upper dish. Again, I\'m going to
 leave.
 
-![](./images/media/image187.png){width="5.0in" height="2.8125in"}
+![](./images/image187.png){width="5.0in" height="2.8125in"}
 
 And I\'m going to go over this last one. I\'ve actually put in the
 JavaScript function codes for you and the events. The one thing that I
 need you to do is write those functions.
 
-![](./images/media/image188.png){width="5.0in" height="2.8125in"}
+![](./images/image188.png){width="5.0in" height="2.8125in"}
 
 Let\'s look at the functions I want you to write. The first one is
 called, **upDate**, and we\'re going to send it to **previewPic**. And I
@@ -3247,13 +3137,13 @@ over, that **previewPic**. The next thing I want you to do is I change
 the text of the div so that\'s going to show the alt text of the preview
 image. This is what we call **upDate**.
 
-![](./images/media/image189.png){width="5.0in" height="2.8125in"}
+![](./images/image189.png){width="5.0in" height="2.8125in"}
 
 When we leave the picture, I want you to undo what we just did, I want
 you to go in and I want you to change the text and the background image
 again.
 
-![](./images/media/image190.png){width="4.0in" height="2.25in"}
+![](./images/image190.png){width="4.0in" height="2.25in"}
 
 Just as a little refresher in case you haven\'t used background images
 before, the background image is an option for including graphics without
@@ -3272,7 +3162,7 @@ Instead of giving a name, you are going to want to use some sort of
 variable. Okay? After you do that, you\'re going to want to hard code
 the background color because we\'re hoping it won\'t be there at all.
 
-![](./images/media/image191.png){width="4.0in" height="2.25in"}
+![](./images/image191.png){width="4.0in" height="2.25in"}
 
 For the element text, I\'m going to leave that a little bit more for you
 to figure out how you\'re going to do that. We\'ve discussed two
@@ -3290,7 +3180,7 @@ you should have something is going to equal some sort of element, all
 right? Avoid using quotes on the right-hand side for this assignment.
 Really try to use something that can change as the document changes.
 
-![](./images/media/image192.png){width="4.0in" height="2.25in"}
+![](./images/image192.png){width="4.0in" height="2.25in"}
 
 Okay, so a couple tips to get you started. The code you need to write
 should actually be really short. If you are writing more than five or
@@ -3527,7 +3417,7 @@ one thing at a time. This is where Arrays come in. Let\'s get started.
 
 # 3.01. JavaScript Arrays (7:12)
 
-![](./images/media/image193.png){width="4.0in" height="2.25in"}
+![](./images/image193.png){width="4.0in" height="2.25in"}
 
 Today we\'re going to be starting something that\'s really quite
 different than what we\'ve been doing in the past. In the first few
@@ -3536,14 +3426,14 @@ talked about numbers, strings, true or false booleans, or objects. And
 while objects can be quite complex where you can have entire DOM
 elements, the fact is they were just dealing with one element at a time.
 
-![](./images/media/image194.png){width="4.0in" height="2.25in"}
+![](./images/image194.png){width="4.0in" height="2.25in"}
 
 But what do you do if you want to use multiple related pieces of
 information? That\'s where the idea of arrays comes in. Arrays give us a
 chance to declare multiple values that are all linked to a single
 variable.
 
-![](./images/media/image195.png){width="4.0in" height="2.25in"}
+![](./images/image195.png){width="4.0in" height="2.25in"}
 
 In this case I\'ve declared an array called grades, but instead of
 giving it one value, I\'ve given it ten. In this next example, I said I
@@ -3554,7 +3444,7 @@ APIs **getElementsByClassName**. In this case, I have no idea how many
 elements will be in this images array because I don\'t know how many
 images were in the document.
 
-![](./images/media/image196.png){width="4.0in" height="2.25in"}
+![](./images/image196.png){width="4.0in" height="2.25in"}
 
 And in the same way, I could declare array by saying, you know what, I
 want to make a variable, I\'m going to call it listItems. And how I\'m
@@ -3563,7 +3453,7 @@ going to assign it or declare and initialize it, is by doing
 it\'ll travel through the DOM and grab every element that has that li
 tag.
 
-![](./images/media/image197.png){width="4.0in" height="2.25in"}
+![](./images/image197.png){width="4.0in" height="2.25in"}
 
 Hopefully you\'ve seen this idea that an array is not a single value,
 but a collection of values. You start off by giving your array a name,
@@ -3576,7 +3466,7 @@ science ideas, we don\'t start at 1, we start at 0. If I have an array
 of 10 elements, The index goes from 0 to 9. If I have an array of 5
 elements, I know that it\'ll go from 0 to 4.
 
-![](./images/media/image198.png){width="4.0in" height="2.25in"}
+![](./images/image198.png){width="4.0in" height="2.25in"}
 
 Okay, so we have our array, and we know, in this case, that we have an
 array with 10 values in it. Each of those values is called an element.
@@ -3588,7 +3478,7 @@ each element is referenced by an index. If I were to say
 array up here. I need to go find the one that\'s in the 0 place, so
 **grades\[0\]** refers to 80.
 
-![](./images/media/image199.png){width="4.0in" height="2.25in"}
+![](./images/image199.png){width="4.0in" height="2.25in"}
 
 If I want to talk about **grades\[4\],** well this refers to value 62.
 **grades\[0\]** is the first value, **grades\[4\]** is actually the
@@ -3596,7 +3486,7 @@ fifth value. If this is the first time you\'ve really experienced
 starting your counting at 0, it can be a little bit confusing at first,
 but you\'ll get the hang of it in really no time.
 
-![](./images/media/image200.png){width="4.0in" height="2.25in"}
+![](./images/image200.png){width="4.0in" height="2.25in"}
 
 One thing I wanted to mention because it\'s different than in other
 program and languages, is that elements in array don\'t have to be all
@@ -3605,7 +3495,7 @@ a string and a number, and then a string and a number, and that works
 just fine. However, it\'s very uncommon and I wouldn\'t necessarily
 encourage you to do your arrays in this manner.
 
-![](./images/media/image201.png){width="4.0in" height="2.25in"}
+![](./images/image201.png){width="4.0in" height="2.25in"}
 
 Instead, we want to focus on this idea that arrays tend to have the same
 values in them and that they have attributes and methods. Because
@@ -3622,7 +3512,7 @@ how big that array was because we had initialized it. But sometimes you
 won\'t know how long the array is, especially if you used
 **getElementsByTagName** or something like that.
 
-![](./images/media/image202.png){width="4.0in" height="2.25in"}
+![](./images/image202.png){width="4.0in" height="2.25in"}
 
 It is possible to combine the idea of length and the idea of push to
 come up with our own way of adding things to our array. Grades, here\'s
@@ -3637,7 +3527,7 @@ same thing in different ways. It\'s a really great learning opportunity
 for you to try to figure out which things match as you go out and see
 new code.
 
-![](./images/media/image203.png){width="4.0in" height="2.25in"}
+![](./images/image203.png){width="4.0in" height="2.25in"}
 
 Let\'s review. As you learn to declare and manipulate arrays, your code
 is going to become much more powerful. You just need to take the time to
@@ -3656,14 +3546,14 @@ thanks.
 
 # 3.02. Code With Me: Arrays (5:18)
 
-![](./images/media/image204.png){width="4.0in" height="2.25in"}
+![](./images/image204.png){width="4.0in" height="2.25in"}
 
 Today, we\'re going to do what I call a Code with Me. Well, it\'s
 perfectly okay if you just sit here and read the modules. I really
 encourage people to take this as an opportunity to find out, can you do
 the things that you\'ve been reading about all along?
 
-![](./images/media/image205.png){width="4.0in"
+![](./images/image205.png){width="4.0in"
 height="2.2512817147856516in"}
 
 Specifically, I\'m wondering, can you declare an array? We\'ve been
@@ -3682,14 +3572,14 @@ for you. But I really encourage you to start from scratch and try coding
 on your own. And using my code as a reference just in case things go
 wrong.
 
-![](./images/media/image206.png){width="5.0in" height="2.8125in"}
+![](./images/image206.png){width="5.0in" height="2.8125in"}
 
 Let\'s take a look at this code. I really want you to understand each
 and every line. Sometimes I do things the long way, but that\'s okay.
 Because I really think it\'s a great learning experience for you to
 understand what\'s going on with JavaScript.
 
-![](./images/media/image207.png){width="5.0in" height="2.8125in"}
+![](./images/image207.png){width="5.0in" height="2.8125in"}
 
 Let\'s start off with the fact that I declared an array with four
 different elements in here. I have Banana, Orange, Apple and Mango, I\'m
@@ -3709,14 +3599,14 @@ want to add additional things to the end of our array. All right, let\'s
 get started. In this function, it\'s going to ask us what our favorite
 food is. Once they ask, we need to know where should we put it?
 
-![](./images/media/image208.png){width="5.0in" height="2.8125in"}
+![](./images/image208.png){width="5.0in" height="2.8125in"}
 
 Right now, I\'m going to draw up on the screen to get an idea of what
 the index of each one of these elements is. It starts at 0, 1, 2 and 3.
 So this means we want to put the next fruit in position 4.
 
-![](./images/media/image209.png){width="3.5in"
-height="1.96875in"}![](./images/media/image210.png){width="3.5in"
+![](./images/image209.png){width="3.5in"
+height="1.96875in"}![](./images/image210.png){width="3.5in"
 height="1.96875in"}
 
 Let\'s take a look. I click Add Your Favorite. I\'ll say Strawberry. And
@@ -3734,7 +3624,7 @@ variable here, instead of hard coding a number. My program will work no
 matter how many different elements I add. Length is the count of fruits
 in the array.
 
-![](./images/media/image211.png){width="5.0in" height="2.8125in"}
+![](./images/image211.png){width="5.0in" height="2.8125in"}
 
 Let\'s add two more. And I can add Peach. And I can add another one.
 I\'ll just add Banana again because I have no imagination this morning.
@@ -3870,7 +3760,7 @@ situations.
 
 # 4.01. Code With Me: Randomizing Your Images Using Arrays (8:10)
 
-![](./images/media/image212.png){width="4.0in"
+![](./images/image212.png){width="4.0in"
 height="2.2948720472440947in"}
 
 Hi everyone, let\'s do a couple Code With Me's in a row just so you can
@@ -3881,10 +3771,10 @@ but it wasn\'t really anything that had to do with web design so much.
 So, in this example, what I\'m going to show you how to do is how to
 randomize your pictures using JavaScript, so let\'s take a look.
 
-![](./images/media/image213.png){width="1.6354166666666667in"
-height="2.0833333333333335in"}![](./images/media/image214.png){width="1.6354166666666667in"
-height="2.0833333333333335in"}![](./images/media/image215.png){width="1.6354166666666667in"
-height="2.0833333333333335in"}![](./images/media/image216.png){width="1.6354166666666667in"
+![](./images/image213.png){width="1.6354166666666667in"
+height="2.0833333333333335in"}![](./images/image214.png){width="1.6354166666666667in"
+height="2.0833333333333335in"}![](./images/image215.png){width="1.6354166666666667in"
+height="2.0833333333333335in"}![](./images/image216.png){width="1.6354166666666667in"
 height="2.0833333333333335in"}
 
 I\'m going to refresh the page here to give you an idea of what I\'m
@@ -3898,7 +3788,7 @@ more time and I\'ve got that kind of pink tree again. What I\'ve done is
 I\'ve written code in JavaScript that will pick an image randomly from
 an array of image names.
 
-![](./images/media/image217.png){width="5.0in"
+![](./images/image217.png){width="5.0in"
 height="2.6597222222222223in"}
 
 Let\'s code this together. Let\'s start with the HTML code. Right here
@@ -3906,14 +3796,14 @@ on line 11 I want you to notice that I\'ve put in an event and a
 function. And I\'ve said when the body of the page loads, I want you to
 run the function **pickImage(),** all right?
 
-![](./images/media/image218.png){width="5.0in"
+![](./images/image218.png){width="5.0in"
 height="2.6597222222222223in"}
 
 And just to double check, I\'m going to scroll all the way to the bottom
 of the screen and you can see that I\'ve remembered to include a link to
 my JavaScript file that has that function.
 
-![](./images/media/image219.png){width="5.0in"
+![](./images/image219.png){width="5.0in"
 height="2.6597222222222223in"}
 
 Let\'s pop back up to the top. What is pickImage going to do? Well,
@@ -3922,7 +3812,7 @@ is going to go to this image element right here, the one with the id of
 **header_img** and it is going to update the source to a somewhat random
 image.
 
-![](./images/media/image220.png){width="5.0in"
+![](./images/image220.png){width="5.0in"
 height="2.6597222222222223in"}
 
 Let\'s see how we do this in the JavaScript file. The function
@@ -3934,13 +3824,13 @@ Oops, I\'ve got **bend_in_the_road** twice, think I actually in fact,
 we\'re going to get rid of a couple of these since I have extra, let\'s
 keep it nice and short and sweet.
 
-![](./images/media/image221.png){width="5.0in"
+![](./images/image221.png){width="5.0in"
 height="2.6597222222222223in"}
 
 And I have 1, 2, 3, 4, 5 different images to choose from. Again, where
 did I get those images from?
 
-![](./images/media/image222.png){width="5.0in"
+![](./images/image222.png){width="5.0in"
 height="2.6597222222222223in"}
 
 Well, I just peeked over here in my Images folder and I picked some
@@ -3951,7 +3841,7 @@ names, all right? Hang with me here, we\'re going to be doing some math,
 we\'re going to be doing some funky JavaScript, but there\'s just one
 line of code you need to understand, and it\'s right here.
 
-![](./images/media/image223.png){width="5.0in"
+![](./images/image223.png){width="5.0in"
 height="2.6597222222222223in"}
 
 JavaScript has a random function right here called **Math.random**. And
@@ -3983,7 +3873,7 @@ including the alt attribute, I\'m still saying, \"hey, there\'s an image
 here, but it\'s not important, I\'m letting you know that it\'s really
 something you can skip over.\"
 
-![](./images/media/image224.png){width="5.0in"
+![](./images/image224.png){width="5.0in"
 height="2.6597222222222223in"}
 
 Let\'s take a look now at this working in process again. This time when
@@ -3992,34 +3882,34 @@ going to do my **Inspect**. I\'m going to narrow in on this image and
 I\'m going to make it a little bit bigger, hopefully to make it a little
 easier for you to read.
 
-![](./images/media/image225.png){width="5.0in"
+![](./images/image225.png){width="5.0in"
 height="2.6597222222222223in"}
 
 You can see, however, that currently the image is **bend_in_the_road**,
 let\'s refresh the page.
 
-![](./images/media/image226.png){width="5.0in"
+![](./images/image226.png){width="5.0in"
 height="2.6597222222222223in"}
 
 This time that\'s changed into **hollow_tree.png** I\'m going to
 refresh.
 
-![](./images/media/image227.png){width="5.0in"
+![](./images/image227.png){width="5.0in"
 height="2.6597222222222223in"}
 
 Did you notice something, did you notice that the image is missing? This
 happened earlier too, when I was doing my demo, there\'s no picture
 there, so let\'s head over to the console.
 
-![](./images/media/image228.png){width="5.0in"
+![](./images/image228.png){width="5.0in"
 height="2.6597222222222223in"}
 
 And in the console, you will see that I get the error that munising
 actually just isn\'t found. **images/munising** isn\'t found, it\'s a
 404 error.
 
-![](./images/media/image229.png){width="3.5in"
-height="1.8618055555555555in"}![](./images/media/image230.png){width="3.5in"
+![](./images/image229.png){width="3.5in"
+height="1.8618055555555555in"}![](./images/image230.png){width="3.5in"
 height="1.8618055555555555in"}
 
 Okay, well, I must have had a typo somewhere, so let\'s go back into my
@@ -4028,7 +3918,7 @@ line 2, and we can see that I forgot to include the file extension, I
 don\'t remember what it is. It was .jpg, so I need to replace this with
 **munising.jpg**.
 
-![](./images/media/image231.png){width="5.0in"
+![](./images/image231.png){width="5.0in"
 height="2.6597222222222223in"}
 
 All right, let\'s go back and try this one more time. All right, let\'s
@@ -4043,7 +3933,7 @@ and get your hands dirty, use that **Inspect Element**, and good luck.
 
 # 4-02. Code With Me: Using LightBox (9:48)
 
-![](./images/media/image232.png){width="4.0in"
+![](./images/image232.png){width="4.0in"
 height="2.2572648731408576in"}
 
 Something I say often about my Web Design for Everybody classes is that
@@ -4053,14 +3943,14 @@ lot of you are mostly just looking to become a little bit more
 knowledgeable about existing tech and that might include existing
 packages and tools out there that you can use.
 
-![](./images/media/image233.png){width="4.0in"
+![](./images/image233.png){width="4.0in"
 height="2.250426509186352in"}
 
 It is true that it\'s way more common to use code from others than to
 write your own. And one of my absolute favorites is code for creating
 **lightboxes**.
 
-![](./images/media/image234.png){width="5.0in"
+![](./images/image234.png){width="5.0in"
 height="2.813033683289589in"}
 
 Today I\'m going to walk you through how you can implement a
@@ -4069,14 +3959,14 @@ CSS. Let\'s take a look at this **lightbox** project. For those of you
 who are not familiar with what a **lightbox** is, let me show you an
 example.
 
-![](./images/media/image235.png){width="5.0in"
+![](./images/image235.png){width="5.0in"
 height="2.813034776902887in"}
 
 I\'m going to click on this picture right here and as you can see, as
 you click on the image, the image actually pops up into a much bigger
 form.
 
-![](./images/media/image236.png){width="5.0in"
+![](./images/image236.png){width="5.0in"
 height="2.813034776902887in"}
 
 I\'m going to click out this X and I can click on this second image as
@@ -4084,7 +3974,7 @@ well. If you notice, it\'s really small, but at the bottom they even
 include an optional caption. These are considered kind of individual
 images.
 
-![](./images/media/image237.png){width="5.0in"
+![](./images/image237.png){width="5.0in"
 height="2.813034776902887in"}
 
 You can also put your images into a set like these four images here,
@@ -4094,16 +3984,16 @@ chevron or arrow to go to the next image or to go back to a previous
 image. What\'s great about this code is that all of the JavaScript and
 all of the CSS for the **lightbox** is already created for you.
 
-![](./images/media/image238.png){width="5.0in"
+![](./images/image238.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let me show you how you can actually implement it in your code. I\'m
 going to start by scrolling down here a little bit and they mentioned
 that there\'s a number of ways to get started.
 
-![](./images/media/image239.png){width="3.5in"
+![](./images/image239.png){width="3.5in"
 height="1.9691240157480314in"}
-![](./images/media/image240.png){width="3.5in"
+![](./images/image240.png){width="3.5in"
 height="1.9691240157480314in"}
 
 For most of you, I think the most common approach is going to be to
@@ -4111,7 +4001,7 @@ click on the link to GitHub to get their code. In order to get the code,
 you would go to Code, Download ZIP. While that\'s happening, I want to
 talk to you about some of these files and folders.
 
-![](./images/media/image241.png){width="5.0in"
+![](./images/image241.png){width="5.0in"
 height="2.813034776902887in"}
 
 The most important one that you will need is called the \"dist\" folder.
@@ -4122,7 +4012,7 @@ by all the folders and files, this is usually the one folder you really
 need. Although, the examples folder is usually a little bit handy as
 well.
 
-![](./images/media/image242.png){width="5.0in"
+![](./images/image242.png){width="5.0in"
 height="2.813033683289589in"}
 
 I\'m going to go back to the instructions, as we go through the rest of
@@ -4145,7 +4035,7 @@ says **lightbox** plus jQuery. Don\'t worry, I\'m going to show you all
 this. But I just want to point it out when you\'re going through the
 documentation, okay?
 
-![](./images/media/image243.png){width="5.0in"
+![](./images/image243.png){width="5.0in"
 height="2.813033683289589in"}
 
 Here is the format, what we are basically doing is turning every image
@@ -4160,13 +4050,13 @@ called **data-lightbox** and the special attribute called
 want all of the images to be linked together or whether they should be
 separate.
 
-![](./images/media/image244.png){width="5.0in"
+![](./images/image244.png){width="5.0in"
 height="2.813033683289589in"}
 
 If you notice in the image sets (at the bottom), they gave everything
 the same **data-lightbox.**
 
-![](./images/media/image245.png){width="5.0in"
+![](./images/image245.png){width="5.0in"
 height="2.813033683289589in"}
 
 That\'s it, that\'s all the documentation we\'re going to go through.
@@ -4177,7 +4067,7 @@ js folder, but I\'ve added a new file called **lightbox.html**. It\'s
 just a kind of shortened version of the neighborhood.html, so we won\'t
 worry about it too much.
 
-![](./images/media/image246.png){width="5.0in"
+![](./images/image246.png){width="5.0in"
 height="2.813034776902887in"}
 
 But now I also have the dist folder. I just copied and dragged to the
@@ -4190,8 +4080,8 @@ I like to keep it separate because I like to know if, when something\'s
 broken, if it was my code or their code. All I\'ve really done is add
 this dist folder right here, let\'s close up the folder.
 
-![](./images/media/image247.png){width="3.5in"
-height="1.9691240157480314in"}![](./images/media/image248.png){width="3.5in"
+![](./images/image247.png){width="3.5in"
+height="1.9691240157480314in"}![](./images/image248.png){width="3.5in"
 height="1.9691240157480314in"}
 
 Now, as we go through, you can see instead of path/to the
@@ -4200,7 +4090,7 @@ all the way to the bottom, and instead of having
 **path/to/js/lightbox**, I\'ve done the **dist/js/lightbox-plus-query**.
 I\'m going to save this for just a second, and I\'m going to open it up.
 
-![](./images/media/image249.png){width="5.0in"
+![](./images/image249.png){width="5.0in"
 height="2.813033683289589in"}
 
 What we have here, as I mentioned, is just an abbreviated page where I
@@ -4208,7 +4098,7 @@ only have four images. And right now, these images, I\'m clicking on
 them, don\'t do anything, all right? I\'ve connected to the CSS and
 I\'ve connected to the JavaScript.
 
-![](./images/media/image250.png){width="5.0in"
+![](./images/image250.png){width="5.0in"
 height="2.813033683289589in"}
 
 But now it\'s time for me to update my html. Let\'s take a look at that
@@ -4235,8 +4125,8 @@ right? So normally I add it to the first one and then kind of copy and
 paste it for the other ones. I\'m going to save this and let\'s look at
 it again, all right?
 
-![](./images/media/image251.png){width="3.5in"
-height="1.9691240157480314in"}![](./images/media/image252.png){width="3.5in"
+![](./images/image251.png){width="3.5in"
+height="1.9691240157480314in"}![](./images/image252.png){width="3.5in"
 height="1.9691240157480314in"}
 
 Let\'s try clicking on the first image. Not only does it pop up, but I
@@ -4254,14 +4144,14 @@ together to create things that we can all enjoy.
 
 # 4-03. Code With Me: Looping Through Images (8:07)
 
-![](./images/media/image253.png){width="4.0in"
+![](./images/image253.png){width="4.0in"
 height="2.2572648731408576in"}
 
 Hi everyone. Earlier we did a Code With Me where we wanted to make one
 image, a random image. Now, let\'s talk about what we would do if we
 want to use JavaScript to update numerous images.
 
-![](./images/media/image254.png){width="5.0in"
+![](./images/image254.png){width="5.0in"
 height="2.813033683289589in"}
 
 For instance, in this example, I have now changed the code so that I get
@@ -4270,27 +4160,27 @@ because I didn\'t give it a lot of options, but you can see that it\'s
 three different pictures each time. Let\'s take a look at the code to
 see how we do this.
 
-![](./images/media/image255.png){width="5.0in"
+![](./images/image255.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let\'s start off by looking at our body tag. Once again, I\'ve used the
 onload event, but this time I\'ve used a function called
 \"**setImages()**\".
 
-![](./images/media/image256.png){width="5.0in"
+![](./images/image256.png){width="5.0in"
 height="2.813033683289589in"}
 
 If we scroll a little further, we can see from the structure of the page
 that the images I want to change are the images that are inside the flex
 class. Right now, I have 1, 2, 3 images in here.
 
-![](./images/media/image257.png){width="5.0in"
+![](./images/image257.png){width="5.0in"
 height="2.813033683289589in"}
 
 Then at the very bottom, I\'m using my script tag to link to my
 JavaScript folder.
 
-![](./images/media/image258.png){width="5.0in"
+![](./images/image258.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let\'s check out the JavaScript code. Once again, I\'ve created a
@@ -4324,7 +4214,7 @@ we did earlier. But now, instead of using something like
 **currentImage,** its currentImages\[i\], the first image, the second
 image, the third image.
 
-![](./images/media/image259.png){width="5.0in"
+![](./images/image259.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let\'s take a look and I\'m going to go back to the website one more
@@ -4352,14 +4242,14 @@ using a mouse can get that functionality, but people are using the
 keyboard cannot. Let\'s use looping to also add a bit more accessibility
 to our page.
 
-![](./images/media/image260.png){width="5.0in"
+![](./images/image260.png){width="5.0in"
 height="2.813034776902887in"}
 
 Back here in my HTML code, I can see that none of my images have an
 attribute called tab index. Tab index is what allows people to use the
 keyboard to access an element.
 
-![](./images/media/image261.png){width="5.0in"
+![](./images/image261.png){width="5.0in"
 height="2.813033683289589in"}
 
 I could go in here and I could start adding tabindex=\"0\" to all of my
@@ -4372,7 +4262,7 @@ source, I\'m going to use a new function called **setAttribute()**. I\'m
 going to say, let\'s set the \"tabindex\" equal to 0. I\'m going to save
 this.
 
-![](./images/media/image262.png){width="5.0in"
+![](./images/image262.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let\'s go back to the website. I\'m going to refresh, and I\'m going to
@@ -4380,7 +4270,7 @@ go in and I\'m going to check out these elements. Go right here,
 **Inspect**. We can now see that each one of these images has a
 tabindex=\"0\" in there.
 
-![](./images/media/image263.png){width="5.0in"
+![](./images/image263.png){width="5.0in"
 height="2.813033683289589in"}
 
 My last step actually is to go back and update my style sheet as well.
@@ -4389,7 +4279,7 @@ people can do with hover let\'s also let them do it with focus.\" Back
 to our page. Now that I\'m here, I\'m going to begin to tab. It\'s going
 to go through my links.
 
-![](./images/media/image264.png){width="5.0in"
+![](./images/image264.png){width="5.0in"
 height="2.813033683289589in"}
 
 Now you can see it is also allowing me to tab to the images as well.
@@ -4539,11 +4429,11 @@ and a keyboard.
 
 # 4-04. Final Project Description
 
-# ![](./images/media/image265.png){width="4.0in" height="2.2572648731408576in"}
+# ![](./images/image265.png){width="4.0in" height="2.2572648731408576in"}
 
 Hi everyone. Let\'s talk about the final project.
 
-![](./images/media/image266.png){width="4.0in"
+![](./images/image266.png){width="4.0in"
 height="2.25042760279965in"}
 
 In an earlier assignment, you added the ability to hover over images and
@@ -4558,8 +4448,8 @@ like change when your **mouseover**. Now, you are going to use the focus
 and blur events so that keyboard users have the same capabilities as any
 mouse users.
 
-![](./images/media/image267.png){width="3.5in"
-height="1.9691240157480314in"}![](./images/media/image268.png){width="3.5in"
+![](./images/image267.png){width="3.5in"
+height="1.9691240157480314in"}![](./images/image268.png){width="3.5in"
 height="1.9691240157480314in"}
 
 Let me show you an example. Again, in your earlier example, there were
@@ -4572,12 +4462,12 @@ additional images of your own for total of six images, and we\'re going
 to use the Tab key to that people can use the same type of functionality
 as with the mouse.
 
-![](./images/media/image269.png){width="3.5in"
-height="1.9691240157480314in"}![](./images/media/image270.png){width="3.5in"
+![](./images/image269.png){width="3.5in"
+height="1.9691240157480314in"}![](./images/image270.png){width="3.5in"
 height="1.9691240157480314in"}
 
-![](./images/media/image271.png){width="3.5in"
-height="1.9691240157480314in"}![](./images/media/image272.png){width="3.5in"
+![](./images/image271.png){width="3.5in"
+height="1.9691240157480314in"}![](./images/image272.png){width="3.5in"
 height="1.9691240157480314in"}
 
 Watch as I begin the tab, I\'m going to tab again. I\'m going to tab a
@@ -4586,7 +4476,7 @@ goes back to the original, a lot of students get into this trap where
 they only write an event for when it goes in focus. But the opposite of
 focus is something called blur, make sure that you code for both.
 
-![](./images/media/image273.png){width="4.0in"
+![](./images/image273.png){width="4.0in"
 height="2.25042760279965in"}
 
 As always, we\'re going to ask you to follow some general guidelines.
@@ -4611,7 +4501,7 @@ JavaScript that you can go on with some confidence.
 
 # 4.04.Final Project: Submission Gallery
 
-# ![](./images/media/image274.png){width="4.0in" height="2.2683759842519686in"}
+# ![](./images/image274.png){width="4.0in" height="2.2683759842519686in"}
 
 ## **Optional ungraded submission**
 
@@ -4652,14 +4542,14 @@ information like your name, email, and Coursera ID.
 
 # 4-05. Conclusion
 
-![](./images/media/image275.png){width="4.0in"
+![](./images/image275.png){width="4.0in"
 height="2.2572648731408576in"}
 
 Hey everybody, congratulations on finishing the Interactivity with
 JavaScript course. I hope you\'re really proud of what you\'ve done so
 far, and excited to keep learning more.
 
-![](./images/media/image276.png){width="4.0in"
+![](./images/image276.png){width="4.0in"
 height="2.25042760279965in"}
 
 However, I do want to warn you right now that what we\'ve covered in
@@ -4674,7 +4564,7 @@ are concepts that repeat everywhere else. So now that you\'ve just begun
 programming, you\'ll find that learning new languages is actually
 easier.
 
-![](./images/media/image277.png){width="4.0in"
+![](./images/image277.png){width="4.0in"
 height="2.25042760279965in"}
 
 Now, we\'ve done a lot of client-side processing. So, I just want to
@@ -4687,7 +4577,7 @@ or back-end programming, they can help you with this, but it does
 require additional resources beyond what most people find on their
 laptop or phone.
 
-![](./images/media/image278.png){width="4.0in"
+![](./images/image278.png){width="4.0in"
 height="2.25042760279965in"}
 
 So, what should you do next then? Well, I hope you continue to practice
@@ -4714,7 +4604,7 @@ joining me in this course. And thank you to everyone who was on the
 message boards mentoring each other and encouraging each other. Good
 luck.
 
-![](./images/media/image279.png){width="4.0in"
+![](./images/image279.png){width="4.0in"
 height="2.25042760279965in"}
 
 ...the end
