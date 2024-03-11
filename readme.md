@@ -255,15 +255,15 @@ and looping. Arrays allow you to represent groups of related
 information. Looping provides efficiency and flexibility to your
 programs. Using both we will expand upon the photo gallery example.
 
--   3.00.Link to All of the Code for Week Three
+-   3.00 Link to All of the Code for Week Three
 
--   3.00.A JavaScript Cheat Sheet
+-   3.00 A JavaScript Cheat Sheet
 
--   3.00.Arrays (Tabindex and Accessibility)
+-   3.00 Arrays (Tabindex and Accessibility)
 
--   3.00.Using JavaScript with Attributes
+-   3.00 Using JavaScript with Attributes
 
--   3.00.Arrays
+-   3.00 Arrays
 
 1.  **[JavaScript
     Arrays](https://www.coursera.org/lecture/javascript/javascript-arrays-g8N8v)\*
@@ -271,11 +271,11 @@ programs. Using both we will expand upon the photo gallery example.
 
 2.  **Code With Me: Arrays\* (2)**
 
--   3.02.Resources
+-   3.02 Resources
 
--   3.02.Writing Loops in JavaScript
+-   3.02 Writing Loops in JavaScript
 
--   3.02.Advanced Coding Techniques
+-   3.02 Advanced Coding Techniques
 
 **Summary: **JavaScript Review
 
@@ -295,9 +295,9 @@ input and send data to via a webpage. We will look at how you can use
 JavaScript to add options to your forms, to pre-fill data based on
 previous input, and even to check that passwords match.
 
--   4.00.Link to All of the Code for Week Four
+-   4.00 Link to All of the Code for Week Four
 
--   4.00.Introduction to Forms
+-   4.00 Introduction to Forms
 
 1.  **Code With Me: Randomizing Your Images Using Arrays (1)**
 
@@ -309,21 +309,21 @@ previous input, and even to check that passwords match.
 
 5.  **Conclusion (5)**
 
--   4.05.\"Cool Stuff\" - Friend or Foe? (old but still valid?)
+-   4.05 \"Cool Stuff\" - Friend or Foe? (old but still valid?)
 
--   4.05.Intro to jQuery
+-   4.05 Intro to jQuery
 
--   4.05.Post-course Survey
+-   4.05 Post-course Survey
 
--   4.05.Keep Learning with Michigan Online
+-   4.05 Keep Learning with Michigan Online
 
--   4.05.Resources
+-   4.05 Resources
 
--   4.05.Advanced Coding Techniques
+-   4.05 Advanced Coding Techniques
 
--   4.05. "Cool Stuff"
+-   4.05  "Cool Stuff"
 
--   4.05.Final Project Description
+-   4.05 Final Project Description
 
 **Summary: **Autocomplete with JavaScript
 
@@ -367,9 +367,9 @@ in the time we have. We will focus on the following:
 
 -   How to create and validate HTML forms.
 
-# WEEK 1 -- DATA TYPES
+<h2 id="ch1">WEEK 1 -- DATA TYPES</h2>
 
-# 1-00. Learning Objectives
+<h2 id="ch1-00">1.00 Learning Objectives</h2>
 
 -   Learn about existing resources that use JavaScript to make your page
     interactive.
@@ -385,7 +385,7 @@ in the time we have. We will focus on the following:
 -   Understand how JavaScript is used to change text and images, and
     media.
 
-# 1-01. Introduction
+<h2 id="ch1-01">1.01 Introduction</h2>
 
 ![](./images/image003.png){width="4.0in"
 height="2.2512817147856516in"}
@@ -501,7 +501,7 @@ of fun stuff. But I promise, I\'m going to go slow, explain what I\'m
 doing step by step, so that you can come along with me and start adding
 some interactivity to your pages with JavaScript.
 
-## 1.01.Link to All of the Code for Week One
+<h2 id="ch1-01-code">1.01 Link to All of the Code for Week One</h2>
 
 <http://codepen.io/collection/nLPkgP/>
 
@@ -516,7 +516,7 @@ your own. For now, I put complete examples in CodePen, but as time goes
 on, I will remove some of the commands to link the code together. You
 will need to work on that part on your own..
 
-## 1.01.The Document Object Model (DOM)
+<h2 id="ch1-01">1.01 The Document Object Model (DOM)</h2>
 
 ### Examples:
 
@@ -536,7 +536,7 @@ no code associated with this lecture, but if you check under the
 resources, I do include a link to site where you can find specifics on
 the DOM.
 
-# 1-02. DOM Review with Object Oriented Programming
+<h2 id="ch1-02">1.02 DOM Review with Object Oriented Programming</h2>
 
 ![](./images/image013.png){width="4.0in"
 height="2.2440168416447945in"}
@@ -774,7 +774,7 @@ reading if you would like to learn more about the differences between
 the two groups of methods: [querySelector vs
 getElementById](https://dev.to/eidorianavi/queryselector-vs-getelementbyid-gm1)
 
-## 1.02.Newer DOM Methods (4:32)
+<h2 id="ch1-02">1.02 Newer DOM Methods (4:32)</h2>
 
 ## ![](./images/image023.png){width="4.0in" height="2.2051279527559053in"}
 
@@ -862,7 +862,7 @@ habit of adding a semicolon to the end of every line. This is a habit I
 have because I write in a lot of different programming languages at the
 same time and the semicolon is required in some and not others.
 
-# 1.03. Output (13:03)
+<h2 id="ch1-03">1.03 Output (13:03)</h2>
 
 ![](./images/image027.png){width="4.0in"
 height="2.2440168416447945in"}
@@ -1220,7 +1220,7 @@ Debugging](https://www.w3schools.com/js/js_debugging.asp).
 console.](./images/image056.png){width="5.0in"
 height="1.9962609361329833in"}
 
-# 1.04. Variables
+<h2 id="ch1-04">1.04 Variables</h2>
 
 <https://codepen.io/ColleenEMc/pen/jbYEEW>
 
@@ -1443,7 +1443,7 @@ consult that log. The most important thing is I want you to understand
 how variables work, so that you can use them throughout the rest of the
 course. Good luck.
 
-# 1.05. Data Types
+<h2 id="ch1-05">1.05 Data Types</h2>
 
 ![](./images/image075.png){width="4.0in"
 height="2.2316240157480314in"}
@@ -1634,7 +1634,7 @@ knowing what the types are, even if you don\'t know how they work,
 you\'re really going to be on your way to doing some cool programming.
 So good luck.
 
-# 1.06. Operators & Expressions (8:26)
+<h2 id="ch1-06">1.06 Operators & Expressions (8:26)</h2>
 
 ![](./images/image089.png){width="4.0in"
 height="2.251709317585302in"}
@@ -1807,9 +1807,9 @@ you go in and test them a lot, your code is going to be a lot cleaner
 and the whole experience will be one that you really enjoy much more. So
 good luck.
 
-# WEEK 2 -- FUNCTIONS & EVENTS
+<h2 id="ch2">WEEK 2 -- FUNCTIONS & EVENTS</h2>
 
-## 2.00.Learning Objectives
+<h2 id="ch2-00">2.00 Learning Objectives</h2>
 
 -   Learn about existing resources that use JavaScript to make your page
     interactive.
@@ -1826,9 +1826,7 @@ good luck.
 -   Define the basic concepts of a scripted programming language such as
     variables, functions, and blocks of code.
 
-## 
-
-## 2.00.Link to All of the Code for Week Two
+<h2 id="ch2-00-code">2.00 Link to All of the Code for Week Two</h2>
 
 The following is a link to all of the code for Week Two. The individual
 files are linked within the modules but the weekly collections may
@@ -1850,7 +1848,7 @@ Code](https://intro-webdesign.com/v3/javascript.html#code). It is
 organized by week, so you can check to see if any code is provided for
 this week\'s lessons.
 
-### 2.00.Lecture Slides
+<h2 id="ch2-00-slides">2.00 Lecture Slides</h2>
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
@@ -1863,7 +1861,7 @@ from the videos since I like to update the slides when things change.
 
 Is anyone using Replit?
 
-## 2.00.The History of \"Debugging\"
+<h2 id="ch2-00-debug">2.00 The History of \"Debugging\"</h2>
 
 If you want to learn more about the history of debugging, here is an
 article that talks about the fact that two different people are credited
@@ -1871,7 +1869,7 @@ with the term, Grace Hopper and Thomas Edison
 
 <http://theinstitute.ieee.org/tech-history/technology-history/did-you-know-edison-coined-the-term-bug>
 
-## 2.00.Functions
+<h2 id="ch2-00-functions">2.00 Functions</h2>
 
 The next module (2.01) on functions is crucial to any type of
 programming that you may do in the future. The reason that programming
@@ -1886,7 +1884,7 @@ distinction between ***defining*** a function (writing the code) and
 ***calling*** a function (running the code at the precise time you want
 it to happen).
 
-# 2.01. Functions (7:18)
+<h2 id="ch2-01">2.01 Functions (7:18)</h2>
 
 ![](./images/image101.png){width="4.0in"
 height="2.251709317585302in"}
@@ -2047,7 +2045,7 @@ be writing your own functions in the homework, and I\'m hoping that
 you\'ll be able to do this and feel like you\'re really starting to
 understand some of the power of JavaScript. Good luck.
 
-# 2.02. Code Placement (6:32)
+<h2 id="ch2-02">2.02 Code Placement (6:32)</h2>
 
 ![](./images/image111.png){width="4.0in"
 height="2.251709317585302in"}
@@ -2195,7 +2193,7 @@ most important thing for you right now, is to develop the confidence
 that you can get your JavaScript working, in whatever way, it best suits
 you. Good luck.
 
-## 2.02.Organizing Your Code
+<h2 id="ch2-02-code">2.02 Organizing Your Code</h2>
 
 ## Code Placement
 
@@ -2225,7 +2223,7 @@ When you put your code into different folders you may need to review how
 [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
 work to ensure that your files link together correctly.
 
-# 2.03. Folder Structure / Organizing Your Code (5:33)
+<h2 id="ch2-03">2.03 Folder Structure / Organizing Your Code (5:33)</h2>
 
 ![](./images/image123.png){width="4.0in"
 height="2.251709317585302in"}
@@ -2318,7 +2316,7 @@ I\'m hoping that this is going to help you understand a little bit more
 how you can organize your code to make the best use of the different
 CSS, JavaScript, and images functions out there. Thanks.
 
-# 2.04. Events (10:05)
+<h2 id="ch2-04">2.04 Events (10:05)</h2>
 
 ![](./images/image129.png){width="4.0in"
 height="2.2670942694663165in"}
@@ -2548,7 +2546,7 @@ current Date every time you open the page. Once you are done, compare
 your answer to an example I have here:
 <http://codepen.io/ColleenEMc/pen/vLEJjq>
 
-## 2.04.Mastering Events and Functions
+<h2 id="ch2-04">2.04 Mastering Events and Functions</h2>
 
 ### Events
 
@@ -2583,7 +2581,7 @@ details. That happens a lot. Programming is something that comes with
 time and practice. And then suddenly the moments of \"Hooray\" start to
 outnumber the times that you are stuck.
 
-# 2.05. Code With Me: Events (7:46)
+<h2 id="ch2-05">2.05 Code With Me: Events (7:46)</h2>
 
 ![](./images/image145.png){width="4.0in"
 height="2.2670942694663165in"}
@@ -2804,7 +2802,7 @@ about to use in the next lesson.
 
 > https://www.coursera.org/learn/javascript/supplement/dtwXX/just-a-little-note-before-the-next-video
 
-# 2.06. "this" (9:30)
+<h2 id="ch2-06">2.06 "this" (9:30)</h2>
 
 ![](./images/image168.png){width="4.0in"
 height="2.2670942694663165in"}
@@ -3076,7 +3074,7 @@ makes more sense to you. While you are welcome to seek out help on the
 forums, please remember that you are not allowed to post code. The code
 to get you started is here: <http://codepen.io/ColleenEMc/pen/wKYxZa>
 
-# 2.07. Photo Gallery (5:53)
+<h2 id="ch2-07">2.07 Photo Gallery (5:53)</h2>
 
 ![](./images/image181.png){width="4.0in" height="2.25in"}
 
@@ -3091,7 +3089,7 @@ the background image of an element? The second thing I want you to try
 to do is can you change the content of an element? I have a very
 specific planner to put into place.
 
-**2.07.<https://codepen.io/ColleenEMc/pen/wKYxZa>**
+**2.07 <https://codepen.io/ColleenEMc/pen/wKYxZa>**
 
 So, let\'s take a look at the gallery homework.
 
@@ -3201,7 +3199,7 @@ to make sure you\'re on the right track. But really, I\'m hoping that
 this something that you can do, that you can later use if you want to
 incorporate it into your own portfolio. So good luck.
 
-## 2.07.Resources
+<h2 id="ch2-07-resources">2.07 Resources</h2>
 
 ### Readings
 
@@ -3219,9 +3217,9 @@ help with the end of week quiz.)
 -   [The JavaScript this
     Keyword](https://www.w3schools.com/js/js_this.asp)
 
-# WEEK 3 -- ARRAYS & LOOPING
+<h2 id="ch3">WEEK 3 -- ARRAYS & LOOPING</h2>
 
-## 3.00.Learning Objectives
+<h2 id="ch3-00-obj">3.00 Learning Objectives</h2>
 
 -   Learn about existing resources that use JavaScript to make your page
     interactive.
@@ -3236,7 +3234,7 @@ help with the end of week quiz.)
 -   Define the basic concepts of a scripted programming language such as
     variables, functions, and blocks of code.
 
-## 3.00.Link to All of the Code for Week Three
+<h2 id="ch3-00-code">3.00 Link to All of the Code for Week Three</h2>
 
 The following is a link to all of the code for Week Three. The
 individual files are linked within the modules but the weekly
@@ -3283,14 +3281,14 @@ expect you to have from this course. It is optional.
 -   [Array - JavaScript \|
     MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-## 3.00.Code
+<h2 id="ch-00-code>3.00 Code</h2>
 
 You can find the code at [JavaScript Course
 Code](https://intro-webdesign.com/v3/javascript.html#code). It is
 organized by week, so you can check to see if any code is provided for
 this week\'s lessons.
 
-## 3.00.A JavaScript Cheat Sheet
+<h2 id="ch3-00-cheat">3.00 A JavaScript Cheat Sheet</h2>
 
 I thought about putting this next link in the optional resources
 section, but it is something I really want people to know about. This
@@ -3306,7 +3304,7 @@ learned AND what you still have left to learn. It helps a lot of people
 to look ahead and start to see that they need to master the small stuff
 before they can tackle the larger concepts.
 
-## Tabindex and Accessibility
+<h3>Tabindex and Accessibility</h3>
 
 Some elements on a page can take on the **focus** state by default. 
 When you go to a page and use the tab key you can navigate from link to
@@ -3415,7 +3413,7 @@ These commands may return zero, one or more Nodes. So now we need to
 find a way to handle dealing with collections of data, rather than just
 one thing at a time. This is where Arrays come in. Let\'s get started.
 
-# 3.01. JavaScript Arrays (7:12)
+<h2 id="ch3-01">3.01 JavaScript Arrays (7:12)</h2>
 
 ![](./images/image193.png){width="4.0in" height="2.25in"}
 
@@ -3544,7 +3542,7 @@ make sure things are going the way you want them to, and keep coming
 along with me as you learn new ways to use arrays to improve your page,
 thanks.
 
-# 3.02. Code With Me: Arrays (5:18)
+<h2 id="ch3-02">3.02 Code With Me: Arrays (5:18)</h2>
 
 ![](./images/image204.png){width="4.0in" height="2.25in"}
 
@@ -3637,9 +3635,9 @@ this, you should feel confident going on in this class reading
 additional modules. And knowing that you do understand what\'s going on,
 even if you make a mistake now and then. So good luck.
 
-# WEEK 4: Using JS for Interactive Images
+<h2 id="ch4">WEEK 4: Using JS for Interactive Images</h2>
 
-## 4.00.Learning Objectives
+<h2 id="ch4-00-obj">4.00 Learning Objectives</h2>
 
 -   Learn about existing resources that use JavaScript to make your page
     interactive.
@@ -3657,9 +3655,7 @@ even if you make a mistake now and then. So good luck.
 -   Define the basic concepts of a scripted programming language such as
     variables, functions, and blocks of code.
 
-## 
-
-## 4.00.Code
+<h2 id="ch4-00-code">4.00 Code</h2>
 
 You can find the code at [JavaScript Course
 Code](https://intro-webdesign.com/v3/javascript.html#code)
@@ -3667,7 +3663,7 @@ Code](https://intro-webdesign.com/v3/javascript.html#code)
 It is organized by week, so you can check to see if any code is provided
 for this week\'s lessons.
 
-# 4.00.Resources
+<h2 id="ch4-00-resources">4.00 Resources</h2>
 
 ## Accessibility Testing Options
 
@@ -3694,7 +3690,7 @@ particularly semantic tags.
 A comprehensive checklist that combines automated tools and manual
 checking.  
 
-## 4.00.Lecture Slides
+<h2 id="ch4-00-slides">4.00 Lecture Slides</h2>
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
@@ -3758,7 +3754,7 @@ we provide here aren\'t enough, you will want to change your code to
 come up with new decisions and different criteria to test different
 situations.
 
-# 4.01. Code With Me: Randomizing Your Images Using Arrays (8:10)
+<h2 id="ch4-01">4.01 Code With Me: Randomizing Your Images Using Arrays (8:10)</h2>
 
 ![](./images/image212.png){width="4.0in"
 height="2.2948720472440947in"}
@@ -3931,7 +3927,7 @@ to your page. And it only takes few lines of code to do something that
 will make your page a little bit more unique. So have some fun with this
 and get your hands dirty, use that **Inspect Element**, and good luck.
 
-# 4-02. Code With Me: Using LightBox (9:48)
+<h2 id="ch4-02">4.02 Code With Me: Using LightBox (9:48)</h2>
 
 ![](./images/image232.png){width="4.0in"
 height="2.2572648731408576in"}
@@ -4142,7 +4138,7 @@ I\'ve created and kind of bump it up a notch by using code that somebody
 else created. That\'s really what the web is about. All of us working
 together to create things that we can all enjoy.
 
-# 4-03. Code With Me: Looping Through Images (8:07)
+<h2 id="ch4-03">4.03 Code With Me: Looping Through Images (8:07)</h2>
 
 ![](./images/image253.png){width="4.0in"
 height="2.2572648731408576in"}
@@ -4296,7 +4292,7 @@ going in and you\'re practicing, you\'re trying this code. And if need
 be, look things up on your own. There\'s always references out there.
 Good luck.
 
-# 4.03.\"Cool Stuff\" - Friend or Foe?
+<h2 id="ch4-03">4.03 &quot;Cool Stuff&quot; - Friend or Foe?</h2>
 
 As you are able to add additional capabilities to your pages, make sure
 that you aren\'t doing it at a cost to accessibility or usability.
@@ -4311,7 +4307,7 @@ your forms. The [Web Accessibility
 Initiative](https://www.w3.org/WAI/tutorials/forms/labels/) has some
 great resources for learning about this.
 
-# 4.03.Final Project Description
+<h2 id="ch4-03-desc">4.03 Final Project Description</h2>
 
 ## Overview
 
@@ -4427,9 +4423,9 @@ and a keyboard.
 -   The site returns no errors from the [WAVE Web Accessibility
     Evaluation Tool](https://wave.webaim.org/)
 
-# 4-04. Final Project Description
+<h2 id="ch4-04-desc">4.04 Final Project Description</h2>
 
-# ![](./images/image265.png){width="4.0in" height="2.2572648731408576in"}
+![](./images/image265.png){width="4.0in" height="2.2572648731408576in"}
 
 Hi everyone. Let\'s talk about the final project.
 
@@ -4499,9 +4495,9 @@ and that you can share with others, and that you leave this feeling like
 you\'ve really accomplished something and you learned enough about
 JavaScript that you can go on with some confidence.
 
-# 4.04.Final Project: Submission Gallery
+<h2 id="ch4-04-subm">4.04 Final Project: Submission Gallery</h2>
 
-# ![](./images/image274.png){width="4.0in" height="2.2683759842519686in"}
+ ![](./images/image274.png){width="4.0in" height="2.2683759842519686in"}
 
 ## **Optional ungraded submission**
 
@@ -4526,7 +4522,7 @@ out the required information:
 
 -   A link to your hosted project.
 
-## **4.04.Navigating the Gallery**
+<h2 id="ch4-04-nav">4.04 Navigating the Gallery</h2>
 
 Scroll through the submissions to see the various examples that your
 peers have shared. You can also sort the examples by using the available
@@ -4540,7 +4536,7 @@ information like your name, email, and Coursera ID.
 
 <https://gallery-tool.ai.umich.edu/gallery/account/create/?next=/gallery/submissions/>
 
-# 4-05. Conclusion
+<h2 id="ch4-05">4.05 Conclusion</h2>
 
 ![](./images/image275.png){width="4.0in"
 height="2.2572648731408576in"}
